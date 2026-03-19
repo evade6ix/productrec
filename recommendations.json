@@ -57283,26 +57283,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 115619,
-    "name": "Burton Genesis Mens Snowboard Bindings 2026",
-    "url": "/burton-genesis-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115619/images/232324/2026-burton-genesis-lifestyle-image__48152.1771872070.500.659.jpg?c=2",
-    "price": 349.99,
-    "meta_keywords": "Burton,  Genesis,  Mens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "burton",
-      "genesis",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 115620,
     "name": "Burton Highshot X Step On Wide Mens Snowboard Boots 2026",
     "url": "/burton-highshot-x-step-on-wide-mens-snowboard-boots-2026/",
@@ -125469,25 +125449,6 @@
       "2026"
     ],
     "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 125077,
-    "name": "CAPiTA Outerspace Living Snowboard 2026",
-    "url": "/capita-outerspace-living-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125077/images/232891/2026-capita-lifestyle-outerspace-living__72478.1773352800.500.659.jpg?c=2",
-    "price": 543.99,
-    "meta_keywords": "CAPiTA,  Outerspace,  Living,  Snowboard,  2026",
-    "detected_rows": [
-      "capita",
-      "outerspace",
-      "living",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "mens",
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
