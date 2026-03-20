@@ -14,8 +14,8 @@
     ],
     "gender": "unisex",
     "sport": "ski",
-    "type": "boot",
-    "bucket": "ski_boot"
+    "type": "bag",
+    "bucket": "bag"
   },
   {
     "id": 10851,
@@ -36167,26 +36167,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 110143,
-    "name": "Blizzard Sheeva 9 Womens Skis 2025",
-    "url": "/blizzard-sheeva-9-womens-skis-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/110143/images/202276/2023-marker-squire-11-ski-bindings-white__81616.1769530374.500.659.jpg?c=2",
-    "price": 479.99,
-    "meta_keywords": "Blizzard,  Sheeva,  9,  Womens,  Skis,  2025",
-    "detected_rows": [
-      "blizzard",
-      "sheeva",
-      "9",
-      "womens",
-      "skis",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 110162,
     "name": "Smartwool Wintersport Full Cushion Mountain Moose Pattern OTC Junior Socks 2025",
     "url": "/smartwool-wintersport-full-cushion-mountain-moose-pattern-otc-junior-socks-2025/",
@@ -66683,33 +66663,6 @@
       "2026"
     ],
     "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 116619,
-    "name": "Blizzard Stormbird 80 Ti Skis w/ TP 11 Light GW Demo Bindings 2026",
-    "url": "/blizzard-stormbird-80-ti-skis-w-tp-11-light-gw-demo-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116619/images/215017/2026-blizzard-stormbird-80-ti-skis-w-tp-11-light-gw-demo-bindings__38468.1757075337.500.659.jpg?c=2",
-    "price": 679.99,
-    "meta_keywords": "Blizzard,  Stormbird,  80,  Ti,  Skis,  w/,  TP,  11,  Light,  GW,  Demo,  Bindings,  2026",
-    "detected_rows": [
-      "blizzard",
-      "stormbird",
-      "80",
-      "ti",
-      "skis",
-      "w/",
-      "tp",
-      "11",
-      "light",
-      "gw",
-      "demo",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
@@ -126002,25 +125955,5 @@
     "sport": "other",
     "type": "helmet",
     "bucket": "helmet"
-  },
-  {
-    "id": 125118,
-    "name": "Spyder Coaches Mens Bib Pant 2025",
-    "url": "/spyder-coaches-mens-bib-pant-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125118/images/232953/2025-spyder-coaches-mens-black-bib-pant__07429.1773961694.500.659.jpg?c=2",
-    "price": 390,
-    "meta_keywords": "Spyder,  Coaches,  Mens,  Bib,  Pant,  2025",
-    "detected_rows": [
-      "spyder",
-      "coaches",
-      "mens",
-      "bib",
-      "pant",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "pant",
-    "bucket": "pant"
   }
 ]
