@@ -2231,27 +2231,6 @@
     "bucket": "ski"
   },
   {
-    "id": 79497,
-    "name": "Rossignol Hero J3 JR Ski Boots 2023",
-    "url": "/2023-rossignol-hero-j3-jr-ski-boots/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/79497/images/170395/2023-rossignol-heroj3-boots__10907.1771538446.500.659.jpg?c=2",
-    "price": 95.99,
-    "meta_keywords": "Rossignol,  Hero,  J3,  JR,  Ski,  Boots,  2023",
-    "detected_rows": [
-      "rossignol",
-      "hero",
-      "j3",
-      "jr",
-      "ski",
-      "boots",
-      "2023"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "boot",
-    "bucket": "ski_boot"
-  },
-  {
     "id": 79629,
     "name": "Kerma Vector Team JR Ski Poles 2023",
     "url": "/2023-kerma-vector-team-jr-ski-poles/",
