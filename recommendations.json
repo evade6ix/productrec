@@ -44326,24 +44326,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 114109,
-    "name": "Smith Vogue Goggle 2025",
-    "url": "/smith-vogue-goggle-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114109/images/210782/2025-smith-vogue-cosmos-blue-sensor-mirror__10327.1773874648.500.659.jpg?c=2",
-    "price": 41.99,
-    "meta_keywords": "Smith,  Vogue,  Goggle,  2025",
-    "detected_rows": [
-      "smith",
-      "vogue",
-      "goggle",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 114111,
     "name": "Leki WCR Venom SL 3D Mens Glove 2026",
     "url": "/leki-wcr-venom-sl-3d-mens-glove-2026/",
@@ -55922,27 +55904,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 115515,
-    "name": "Oakley MOD1 MIPS Asia Fit Helmet 2026",
-    "url": "/oakley-mod1-mips-asia-fit-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115515/images/213010/2024-oakley-mod1-mips-blackout-round-fit__69894.1755100382.500.659.jpg?c=2",
-    "price": 123.99,
-    "meta_keywords": "Oakley,  MOD1,  MIPS,  Asia,  Fit,  Helmet,  2026",
-    "detected_rows": [
-      "oakley",
-      "mod1",
-      "mips",
-      "asia",
-      "fit",
-      "helmet",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 115516,
     "name": "Salomon QST 94 Black Skis 2026",
     "url": "/salomon-qst-94-black-skis-2026/",
@@ -56878,28 +56839,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 115605,
-    "name": "Burton Photon BOA Wide Mens Snowboard Boots 2026",
-    "url": "/burton-photon-boa-wide-snowboard-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115605/images/213134/2026-burton-photon-boa-black-multi-snowboard-boots__12030.1755114912.500.659.jpg?c=2",
-    "price": 405.99,
-    "meta_keywords": "Burton,  Photon,  BOA,  Wide,  Mens,  Snowboard,  Boots,  2026",
-    "detected_rows": [
-      "burton",
-      "photon",
-      "boa",
-      "wide",
-      "mens",
-      "snowboard",
-      "boots",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
-  },
-  {
     "id": 115606,
     "name": "Burton Highshot Step On Womens Snowboard Boots 2026",
     "url": "/burton-highshot-step-on-womens-snowboard-boots-2026/",
@@ -57706,26 +57645,6 @@
       "custom",
       "jungle",
       "snowboard",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 115652,
-    "name": "Salomon Highlander Adult Snowboard Bindings 2026",
-    "url": "/salomon-highlander-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115652/images/213225/2026-salomon-highlander-bindings__80806.1755115090.500.659.jpg?c=2",
-    "price": 279.99,
-    "meta_keywords": "Salomon,  Highlander,  Adult,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "salomon",
-      "highlander",
-      "adult",
-      "snowboard",
-      "bindings",
       "2026"
     ],
     "gender": "mens",
@@ -63417,26 +63336,6 @@
       "2026"
     ],
     "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 116226,
-    "name": "Union Ultra Mens Snowboard Bindings 2026",
-    "url": "/union-ultra-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116226/images/214385/2026-union-ultra-mens-lifestyle-image-1__97633.1773338422.500.659.jpg?c=2",
-    "price": 319.99,
-    "meta_keywords": "Union,  Ultra,  Mens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "union",
-      "ultra",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
@@ -76634,27 +76533,6 @@
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 117304,
-    "name": "Bula Therma Grid Adult Convertible Balaclava 2026",
-    "url": "/bula-therma-grid-adult-convertible-balaclava-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117304/images/216544/2026-bula-therma-grid-adult-black-convertible-balaclava-2__27977.1767808765.500.659.jpg?c=2",
-    "price": 28.8,
-    "meta_keywords": "Bula,  Therma,  Grid,  Adult,  Convertible,  Balaclava,  2026",
-    "detected_rows": [
-      "bula",
-      "therma",
-      "grid",
-      "adult",
-      "convertible",
-      "balaclava",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 117305,
@@ -113583,25 +113461,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 124204,
-    "name": "Rossignol Super Blackops 98 2025",
-    "url": "/rossignol-super-blackops-98-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124204/images/231173/2025-rossignol-super-blackops-98-lifestyle-image__93118.1770051872.500.659.jpg?c=2",
-    "price": 509.99,
-    "meta_keywords": "Rossignol,  Super,  Blackops,  98,  2025",
-    "detected_rows": [
-      "rossignol",
-      "super",
-      "blackops",
-      "98",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 124205,
     "name": "Airblaster Micro Puff Mens Black Jacket 2024",
     "url": "/airblaster-micro-puff-mens-black-jacket-2024/",
@@ -116012,29 +115871,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 124399,
-    "name": "The North Face Summit Casaval Hybrid Mens Jacket 2026",
-    "url": "/the-north-face-summit-casaval-hybrid-mens-jacket-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124399/images/231551/2026-the-north-face-summit-casaval-hybrid-tnf-black-mens-jacket__63311.1768042814.500.659.jpg?c=2",
-    "price": 223.99,
-    "meta_keywords": "The,  North,  Face,  Summit,  Casaval,  Hybrid,  Mens,  Jacket,  2026",
-    "detected_rows": [
-      "the",
-      "north",
-      "face",
-      "summit",
-      "casaval",
-      "hybrid",
-      "mens",
-      "jacket",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 124400,
     "name": "Turtle Fur Lindsey Adult Hat 2026",
     "url": "/turtle-fur-lindsey-adult-hat-2026/",
@@ -118314,25 +118150,6 @@
       "performance",
       "blue",
       "120g",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
-    "id": 124621,
-    "name": "Toko Diamond File Coarse 2026",
-    "url": "/toko-diamond-file-coarse-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124621/images/231929/2023-toko-diamondfile-coarse200__69246.1769617288.500.659.jpg?c=2",
-    "price": 39.99,
-    "meta_keywords": "Toko,  Diamond,  File,  Coarse,  2026",
-    "detected_rows": [
-      "toko",
-      "diamond",
-      "file",
-      "coarse",
       "2026"
     ],
     "gender": "unisex",
@@ -125093,25 +124910,6 @@
     "sport": "other",
     "type": "helmet",
     "bucket": "helmet"
-  },
-  {
-    "id": 125075,
-    "name": "Salomon Wonder Womens Snowboard 2026",
-    "url": "/salomon-wonder-womens-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125075/images/232888/2026-salomon-wonder-snowboard__46271.1773352797.500.659.jpg?c=2",
-    "price": 349.99,
-    "meta_keywords": "Salomon,  Wonder,  Womens,  Snowboard,  2026",
-    "detected_rows": [
-      "salomon",
-      "wonder",
-      "womens",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 125080,
