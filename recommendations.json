@@ -40356,28 +40356,6 @@
     "bucket": "bag"
   },
   {
-    "id": 113256,
-    "name": "Rossignol Hero Ski Wheeled 2-3 Pair Red 2026",
-    "url": "/rossignol-hero-ski-wheeled-2-3-pair-red-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113256/images/209490/rossignol-rossignol-hero-ski-wheeled-2-3-pair-red-2026__30267.1747999584.500.659.jpg?c=2",
-    "price": 329.99,
-    "meta_keywords": "Rossignol,  Hero,  Ski,  Wheeled,  2-3,  Pair,  Red,  2026",
-    "detected_rows": [
-      "rossignol",
-      "hero",
-      "ski",
-      "wheeled",
-      "2-3",
-      "pair",
-      "red",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
     "id": 113257,
     "name": "Rossignol Comp J3 White Ski Boots 2026",
     "url": "/rossignol-comp-j3-white-ski-boots-2026/",
@@ -65951,25 +65929,6 @@
     "bucket": "snowboard_boot"
   },
   {
-    "id": 116559,
-    "name": "Nitro Fate Womens Snowboard 2026",
-    "url": "/nitro-fate-womens-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116559/images/232379/nitro-fate-snowboard-2026-lifestyle__87505.1771886313.500.659.jpg?c=2",
-    "price": 519.99,
-    "meta_keywords": "Nitro,  Fate,  Womens,  Snowboard,  2026",
-    "detected_rows": [
-      "nitro",
-      "fate",
-      "womens",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 116560,
     "name": "Nitro Crown BOA Womens Snowboard Boots 2026",
     "url": "/nitro-crown-boa-womens-snowboard-boots-2026/",
@@ -76575,26 +76534,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 117308,
-    "name": "Bula Therma-Comfort Sharp Adult Balaclava 2026",
-    "url": "/bula-therma-comfort-sharp-adult-balaclava-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117308/images/216555/2026-bula-therma-comfort-sharp-adult-balaclava-black__79259.1766195676.500.659.jpg?c=2",
-    "price": 22.4,
-    "meta_keywords": "Bula,  Therma-Comfort,  Sharp,  Adult,  Balaclava,  2026",
-    "detected_rows": [
-      "bula",
-      "therma-comfort",
-      "sharp",
-      "adult",
-      "balaclava",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 117310,
     "name": "Dale of Norway Hovden Mens Sweater 2026",
     "url": "/dale-of-norway-hovden-mens-sweater-2026/",
@@ -81732,24 +81671,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 117795,
-    "name": "Anon M6 Goggle 2026",
-    "url": "/anon-m6-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117795/images/217544/2026-anon-m6-lifestyle-image__20871.1774049687.500.659.jpg?c=2",
-    "price": 233.99,
-    "meta_keywords": "Anon,  M6,  Goggle,  2026",
-    "detected_rows": [
-      "anon",
-      "m6",
-      "goggle",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 117801,
     "name": "Anon Raider 3 Helmet 2026",
     "url": "/anon-raider-3-helmet-2026/",
@@ -84372,27 +84293,6 @@
       "black",
       "crows",
       "atris",
-      "birdie",
-      "womens",
-      "skis",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 118044,
-    "name": "Black Crows Captis Birdie Womens Skis 2026",
-    "url": "/black-crows-captis-birdie-womens-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118044/images/222391/2026-black-crows-lifestyle-captis-birdie__84859.1772728663.500.659.jpg?c=2",
-    "price": 663.19,
-    "meta_keywords": "Black,  Crows,  Captis,  Birdie,  Womens,  Skis,  2026",
-    "detected_rows": [
-      "black",
-      "crows",
-      "captis",
       "birdie",
       "womens",
       "skis",
@@ -95415,25 +95315,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 118825,
-    "name": "Stockli Montero AX Skis 2026",
-    "url": "/stockli-montero-ax-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118825/images/219632/2026-salomon-strive-14-bindings-stargazer__47259.1773164155.500.659.jpg?c=2",
-    "price": 1319.99,
-    "meta_keywords": "Stockli,  Montero,  AX,  Skis,  2026",
-    "detected_rows": [
-      "stockli",
-      "montero",
-      "ax",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 118826,
     "name": "Level Butterfly Womens Mitt 2026",
     "url": "/level-butterfly-womens-mitt-2026/",
@@ -104124,31 +104005,6 @@
     "sport": "ski",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 119805,
-    "name": "The North Face Summit Tsirku Gore-Tex Pro Mens Bib Pant 2026",
-    "url": "/the-north-face-summit-tsirku-gore-tex-pro-mens-bib-pant-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119805/images/222113/2026-the-north-face-summit-tsirku-gore-tex-pro-bark-mist-tnf-black-mens-bib-pant__40323.1764271783.500.659.jpg?c=2",
-    "price": 650.99,
-    "meta_keywords": "The,  North,  Face,  Summit,  Tsirku,  Gore-Tex,  Pro,  Mens,  Bib,  Pant,  2026",
-    "detected_rows": [
-      "the",
-      "north",
-      "face",
-      "summit",
-      "tsirku",
-      "gore-tex",
-      "pro",
-      "mens",
-      "bib",
-      "pant",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 119809,
