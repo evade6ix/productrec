@@ -58146,7 +58146,7 @@
     "id": 115683,
     "name": "Salomon Kickback Snowboard 2026",
     "url": "/salomon-kickback-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115683/images/213260/2026-salomon-kickback-snowboard__58122.1755115130.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115683/images/213260/2026-salomon-kickback-snowboard__49107.1774164759.500.659.jpg?c=2",
     "price": 307.99,
     "meta_keywords": "Salomon,  Kickback,  Snowboard,  2026",
     "detected_rows": [
@@ -71513,26 +71513,6 @@
     "bucket": "other"
   },
   {
-    "id": 116935,
-    "name": "Patagonia R1 TechFace Mens Jacket 2026",
-    "url": "/patagonia-r1-techface-mens-jacket-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116935/images/215778/2026-patagonia-r1-techface-mens-black-jacket-model__47654.1762891746.500.659.jpg?c=2",
-    "price": 167.3,
-    "meta_keywords": "Patagonia,  R1,  TechFace,  Mens,  Jacket,  2026",
-    "detected_rows": [
-      "patagonia",
-      "r1",
-      "techface",
-      "mens",
-      "jacket",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 116937,
     "name": "Patagonia Retro Pile Mens Jacket 2026",
     "url": "/patagonia-retro-pile-mens-jacket-2026/",
@@ -76799,26 +76779,6 @@
     "sport": "other",
     "type": "mitt",
     "bucket": "mitt"
-  },
-  {
-    "id": 117319,
-    "name": "Bula Therma-Comfort Adult Goggle Cover 2026",
-    "url": "/bula-therma-comfort-adult-goggle-cover-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117319/images/216600/2026-bula-therma-comfort-adult-lens-goggle-cover-army__78446.1757365465.500.659.jpg?c=2",
-    "price": 9.6,
-    "meta_keywords": "Bula,  Therma-Comfort,  Adult,  Goggle,  Cover,  2026",
-    "detected_rows": [
-      "bula",
-      "therma-comfort",
-      "adult",
-      "goggle",
-      "cover",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 117321,
@@ -88003,25 +87963,6 @@
       "fleece",
       "womens",
       "hoody",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 118346,
-    "name": "Arc'teryx Atom Womens Vest 2026",
-    "url": "/arc-teryx-atom-womens-vest-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118346/images/220190/arc%252527teryx-atom-womens-bliss-vest-2026-model__26378.1762457541.500.659.jpg?c=2",
-    "price": 192,
-    "meta_keywords": "Arc'teryx,  Atom,  Womens,  Vest,  2026",
-    "detected_rows": [
-      "arc'teryx",
-      "atom",
-      "womens",
-      "vest",
       "2026"
     ],
     "gender": "womens",
@@ -108167,28 +108108,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 121903,
-    "name": "Nitro Team BOA Wide Mens Snowboard Boots 2026",
-    "url": "/nitro-team-boa-wide-mens-snowboard-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/121903/images/226551/2026-nitro-team-boa-wide-boots__05435.1767098287.500.659.jpg?c=2",
-    "price": 399.99,
-    "meta_keywords": "Nitro,  Team,  BOA,  Wide,  Mens,  Snowboard,  Boots,  2026",
-    "detected_rows": [
-      "nitro",
-      "team",
-      "boa",
-      "wide",
-      "mens",
-      "snowboard",
-      "boots",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
-  },
-  {
     "id": 121904,
     "name": "Armada AK Adjustable Ski Poles 2026",
     "url": "/armada-ak-adjustable-ski-poles-2026/",
@@ -112697,26 +112616,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 124139,
-    "name": "Head Kore 90 X Skis 2022",
-    "url": "/head-kore-90-x-skis-2022/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124139/images/231053/2022-head-kore-90-x-mens-ski-n__48998.1768037709.500.659.jpg?c=2",
-    "price": 300,
-    "meta_keywords": "Head,  Kore,  90,  X,  Skis,  2022",
-    "detected_rows": [
-      "head",
-      "kore",
-      "90",
-      "x",
-      "skis",
-      "2022"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 124143,
