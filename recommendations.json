@@ -55857,27 +55857,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 115523,
-    "name": "Salomon Strive 12 GW Ski Bindings 2026",
-    "url": "/salomon-strive-12-gw-ski-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115523/images/213021/salomon-strive-12-mn-ski-bindings-2026-lifestyle__55310.1771973194.500.659.jpg?c=2",
-    "price": 160.99,
-    "meta_keywords": "Salomon,  Strive,  12,  GW,  Ski,  Bindings,  2026",
-    "detected_rows": [
-      "salomon",
-      "strive",
-      "12",
-      "gw",
-      "ski",
-      "bindings",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 115524,
     "name": "Salomon Strive 14 GW Ski Bindings 2026",
     "url": "/salomon-strive-14-gw-ski-bindings-2026/",
@@ -124314,28 +124293,6 @@
       "ski",
       "boots",
       "2024"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 125101,
-    "name": "Nordica HF Pro 110 GW Ski Boots 2026",
-    "url": "/nordica-hf-pro-110-gw-ski-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125101/images/232924/2025-nordica-hf-pro-110-ski-boots__35772.1773685973.500.659.jpg?c=2",
-    "price": 559.99,
-    "meta_keywords": "Nordica,  HF,  Pro,  110,  GW,  Ski,  Boots,  2026",
-    "detected_rows": [
-      "nordica",
-      "hf",
-      "pro",
-      "110",
-      "gw",
-      "ski",
-      "boots",
-      "2026"
     ],
     "gender": "mens",
     "sport": "ski",
