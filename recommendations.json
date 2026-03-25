@@ -352,7 +352,7 @@
     "id": 66062,
     "name": "Smith Shoutout Sunglasses",
     "url": "/smith-shoutout-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/66062/images/172289/smith%252520shoutout%252520matte%252520black%252520sunglasses%252520-%252520chromapop%252520polarized%252520blue%252520mirror__17258.1774383991.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/66062/images/172289/smith%252520shoutout%252520matte%252520black%252520sunglasses%252520-%252520chromapop%252520polarized%252520blue%252520mirror__07571.1774396534.500.659.jpg?c=2",
     "price": 153.99,
     "meta_keywords": "Smith,  Shoutout,  Sunglasses",
     "detected_rows": [
@@ -467,7 +467,7 @@
     "id": 67570,
     "name": "Suncloud Fairlane Sunglasses",
     "url": "/suncloud-fairlane-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67570/images/171991/2022-suncloud-fairlane-gold-sunglasses-w-polarized-gray-green__37623.1769646310.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67570/images/171991/2022-suncloud-fairlane-gold-sunglasses-w-polarized-sienna-mirror__03973.1774396533.500.659.jpg?c=2",
     "price": 41.99,
     "meta_keywords": "Suncloud,  Fairlane,  Sunglasses",
     "detected_rows": [
@@ -484,7 +484,7 @@
     "id": 67590,
     "name": "Smith Prep Sunglasses",
     "url": "/smith-prep-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67590/images/173244/smith%252520prep%252520silver%252520sunglasses%252520-%252520polarized%252520grey__07434.1774383772.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67590/images/173244/smith%252520prep%252520silver%252520sunglasses%252520-%252520polarized%252520grey__91890.1774396536.500.659.jpg?c=2",
     "price": 146.99,
     "meta_keywords": "Smith,  Prep,  Sunglasses",
     "detected_rows": [
@@ -501,7 +501,7 @@
     "id": 67601,
     "name": "Suncloud Beyond Sunglasses",
     "url": "/suncloud-beyond-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67601/images/172451/2022-suncloud-beyond-black-sunglasses-w-polarized-gray__24941.1734463563.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67601/images/172919/2022-suncloud-beyond-black-sunglasses-w-polarized-gray__29977.1774396531.500.659.jpg?c=2",
     "price": 35.99,
     "meta_keywords": "Suncloud,  Beyond,  Sunglasses",
     "detected_rows": [
@@ -552,7 +552,7 @@
     "id": 67700,
     "name": "Anon Diego Sunglasses",
     "url": "/anon-diego-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67700/images/173312/716812600306__1__70634.1768040492.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67700/images/172718/716812600306__1__78156.1774396538.500.659.jpg?c=2",
     "price": 39.99,
     "meta_keywords": "Anon,  Diego,  Sunglasses",
     "detected_rows": [
@@ -603,7 +603,7 @@
     "id": 67910,
     "name": "Suncloud Tabor Sunglasses",
     "url": "/suncloud-tabor-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67910/images/173350/19001578-1000__54653.1774383353.500.659.png?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/67910/images/173350/19001578-1000__81780.1774396538.500.659.png?c=2",
     "price": 35.99,
     "meta_keywords": "Suncloud,  Tabor,  Sunglasses",
     "detected_rows": [
@@ -1221,7 +1221,7 @@
     "id": 76046,
     "name": "Suncloud Affect Sunglasses",
     "url": "/suncloud-affect-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/76046/images/172169/2022-suncloud-affect-blue-tortoise-sunglasses-w-polarized-blue-mirror__04106.1774383287.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/76046/images/172169/2022-suncloud-affect-blue-tortoise-sunglasses-w-polarized-blue-mirror__52813.1774396536.500.659.jpg?c=2",
     "price": 35.99,
     "meta_keywords": "Suncloud,  Affect,  Sunglasses",
     "detected_rows": [
@@ -1306,7 +1306,7 @@
     "id": 76124,
     "name": "Smith Boomtown Sunglasses",
     "url": "/smith-boomtown-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/76124/images/175062/smith-boomtown-matte-stone-crystal-cp-green-mirror__08265.1768039824.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/76124/images/175062/smith-boomtown-matte-stone-crystal-cp-green-mirror__29287.1774396537.500.659.jpg?c=2",
     "price": 224.99,
     "meta_keywords": "Smith,  Boomtown,  Sunglasses",
     "detected_rows": [
@@ -1964,27 +1964,6 @@
       "womens",
       "neck",
       "warmer"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "goggle",
-    "bucket": "goggle"
-  },
-  {
-    "id": 78918,
-    "name": "Anon MFI Midweight Mens Neck Warmer 2023",
-    "url": "/2023-anon-mfi-midweight-mens-neck-warmer/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/78918/images/206622/2023-anon-mfi-midweight-neck-warmer-amber__03621.1768040929.500.659.jpg?c=2",
-    "price": 58.99,
-    "meta_keywords": "Anon,  MFI,  Midweight,  Mens,  Neck,  Warmer,  2023",
-    "detected_rows": [
-      "anon",
-      "mfi",
-      "midweight",
-      "mens",
-      "neck",
-      "warmer",
-      "2023"
     ],
     "gender": "kids",
     "sport": "other",
@@ -6401,7 +6380,7 @@
     "id": 87209,
     "name": "Smith Bayside Sunglasses",
     "url": "/smith-bayside-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/87209/images/144244/smith-bayside-black-w-cp-polarized-opal-mirrow-1000-n__92717.1768040388.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/87209/images/144244/smith-bayside-tortoise-w-cp-polarized-brown-1000-n__28957.1774396539.500.659.jpg?c=2",
     "price": 119.99,
     "meta_keywords": "Smith,  Bayside,  Sunglasses",
     "detected_rows": [
@@ -6592,7 +6571,7 @@
     "id": 88158,
     "name": "Smith Joya Sunglasses",
     "url": "/smith-joya-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88158/images/143215/smith-joya-tortoise-chromapop-polarized-green-mirror__80373.1734463410.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88158/images/143215/smith-joya-tortoise-chromapop-polarized-green-mirror__06707.1774396533.500.659.jpg?c=2",
     "price": 269.99,
     "meta_keywords": "Smith,  Joya,  Sunglasses",
     "detected_rows": [
@@ -6626,7 +6605,7 @@
     "id": 88160,
     "name": "Smith Momentum Sunglasses",
     "url": "/smith-momentum-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88160/images/143876/smith-momentum-matte-black-chromapop-black__09481.1734463436.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88160/images/143876/smith-momentum-matte-black-chromapop-black__44831.1774396534.500.659.jpg?c=2",
     "price": 169.99,
     "meta_keywords": "Smith,  Momentum,  Sunglasses",
     "detected_rows": [
@@ -6643,7 +6622,7 @@
     "id": 88163,
     "name": "Smith Riptide Sunglasses",
     "url": "/smith-riptide-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88163/images/143520/smith-riptide-matte-tortoise-sunglasses-w-cp-polarized-brown__02842.1774382737.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88163/images/143520/smith-riptide-matte-tortoise-sunglasses-w-cp-polarized-brown__70615.1774396525.500.659.jpg?c=2",
     "price": 254.99,
     "meta_keywords": "Smith,  Riptide,  Sunglasses",
     "detected_rows": [
@@ -6660,7 +6639,7 @@
     "id": 88228,
     "name": "Suncloud Bridge City Sunglasses",
     "url": "/suncloud-bridge-city-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88228/images/144737/suncloud_birdge_city_gold_brown_gradient__94677.1768039825.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88228/images/145438/suncloud_birdge_city_gold_brown_gradient__81144.1774396537.500.659.jpg?c=2",
     "price": 69.99,
     "meta_keywords": "Suncloud,  Bridge,  City,  Sunglasses",
     "detected_rows": [
@@ -6678,7 +6657,7 @@
     "id": 88229,
     "name": "Suncloud Glacier Sunglasses",
     "url": "/suncloud-glacier-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88229/images/144380/suncloud_glacier_white-bluemirror__72053.1734463366.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88229/images/145287/suncloud_glacier_white-bluemirror__23428.1774396531.500.659.jpg?c=2",
     "price": 89.99,
     "meta_keywords": "Suncloud,  Glacier,  Sunglasses",
     "detected_rows": [
@@ -6695,7 +6674,7 @@
     "id": 88230,
     "name": "Suncloud Cadence Sunglasses",
     "url": "/suncloud-cadence-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88230/images/143498/suncloud_cadence_matteblack-grey__14878.1734463435.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88230/images/143498/suncloud_cadence-white-bluepolar__89511.1774396529.500.659.jpg?c=2",
     "price": 89.99,
     "meta_keywords": "Suncloud,  Cadence,  Sunglasses",
     "detected_rows": [
@@ -6712,7 +6691,7 @@
     "id": 88231,
     "name": "Suncloud Double Up Sunglasses",
     "url": "/suncloud-double-up-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88231/images/143687/suncloud_double_up_matteblack-blue__92663.1734463427.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88231/images/143687/suncloud_double_up_matteblack-blue__74019.1774396527.500.659.jpg?c=2",
     "price": 89.99,
     "meta_keywords": "Suncloud,  Double,  Up,  Sunglasses",
     "detected_rows": [
@@ -6730,7 +6709,7 @@
     "id": 88232,
     "name": "Suncloud Milestone Sunglasses",
     "url": "/suncloud-milestone-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88232/images/143271/suncloud-milestone-matte-black-blue-mirror__53813.1774382392.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/88232/images/143559/suncloud-mileston--black-yellow__32802.1774396530.500.659.jpg?c=2",
     "price": 59.99,
     "meta_keywords": "Suncloud,  Milestone,  Sunglasses",
     "detected_rows": [
@@ -16064,7 +16043,7 @@
     "id": 95827,
     "name": "Smith Emerge Sunglasses",
     "url": "/smith-emerge-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/95827/images/161645/smith-emerge-lifestyle-image__61022.1773260293.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/95827/images/161645/smith-emerge-lifestyle-image__32904.1774396526.500.659.jpg?c=2",
     "price": 229.99,
     "meta_keywords": "Smith,  Emerge,  Sunglasses",
     "detected_rows": [
@@ -35724,7 +35703,7 @@
     "id": 109830,
     "name": "Smith Lowdown Split Sunglasses",
     "url": "/smith-lowdown-split-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/109830/images/201446/smith-lowdown-split-sunglasses-vintage-tortoise-cp-polarized-gray-green__94844.1774384571.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/109830/images/201446/smith-lowdown-split-sunglasses-vintage-tortoise-cp-polarized-gray-green__28488.1774396524.500.659.jpg?c=2",
     "price": 167.99,
     "meta_keywords": "Smith,  Lowdown,  Split,  Sunglasses",
     "detected_rows": [
@@ -36346,7 +36325,7 @@
     "id": 110527,
     "name": "Suncloud Range Sunglasses",
     "url": "/suncloud-range-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/110527/images/203319/suncloud-range-black-blue__74765.1770269354.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/110527/images/203303/suncloud-range-black-blue__23743.1774396532.500.659.jpg?c=2",
     "price": 59.99,
     "meta_keywords": "Suncloud,  Range,  Sunglasses",
     "detected_rows": [
@@ -36363,7 +36342,7 @@
     "id": 110541,
     "name": "Suncloud Patrol Sunglasses",
     "url": "/suncloud-patrol-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/110541/images/203714/19001633-1000__47337.1774384366.500.659.png?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/110541/images/203714/19001633-1000__00362.1774396540.500.659.png?c=2",
     "price": 41.99,
     "meta_keywords": "Suncloud,  Patrol,  Sunglasses",
     "detected_rows": [
@@ -37912,7 +37891,7 @@
     "id": 112052,
     "name": "Smith Layback Sunnies",
     "url": "/smith-layback-sunnies/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112052/images/207120/smith-smith-layback-sunnies__25544.1774384315.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112052/images/207120/smith%252520layback%252520gold%252520sunglasses%252520-%252520chromapop%252520polarized%252520gray%252520green__91950.1774396535.500.659.jpg?c=2",
     "price": 239.99,
     "meta_keywords": "Smith,  Layback,  Sunnies",
     "detected_rows": [
@@ -37954,7 +37933,7 @@
     "id": 112077,
     "name": "Suncloud Boundary Sunglasses",
     "url": "/suncloud-boundary-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112077/images/207140/suncloud-suncloud-boundary-sunglasses__35853.1774384228.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112077/images/207126/suncloud-boundary-burnished-brown-sunglasses-polarized-brown-lens__50957.1774396532.500.659.jpg?c=2",
     "price": 35.99,
     "meta_keywords": "Suncloud,  Boundary,  Sunglasses",
     "detected_rows": [
@@ -83486,7 +83465,7 @@
     "id": 118007,
     "name": "Blenders Active Sci-Fi Sunglasses 2026",
     "url": "/blenders-active-sci-fi-sunglasses-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118007/images/217915/blenders-active-sci-fi-lifestyle-image__90354.1773175827.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118007/images/217915/blenders-active-sci-fi-lifestyle-image__30388.1774396528.500.659.jpg?c=2",
     "price": 40,
     "meta_keywords": "Blenders,  Active,  Sci-Fi,  Sunglasses,  2026",
     "detected_rows": [
