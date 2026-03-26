@@ -21750,27 +21750,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 103351,
-    "name": "Helly Hansen Marka Junior Fleece Jacket 2025",
-    "url": "/helly-hansen-marka-junior-fleece-jacket-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103351/images/181908/2025-helly-hansen-marka-junior-sugar-pink-fleece-jacket__32853.1734455984.500.659.jpg?c=2",
-    "price": 49,
-    "meta_keywords": "Helly,  Hansen,  Marka,  Junior,  Fleece,  Jacket,  2025",
-    "detected_rows": [
-      "helly",
-      "hansen",
-      "marka",
-      "junior",
-      "fleece",
-      "jacket",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 103377,
     "name": "Stockli Edge FT Skis 2023",
     "url": "/stockli-edge-ft-skis-2025/",
@@ -36513,7 +36492,7 @@
     "name": "Rossignol Arcade W 84 Womens Skis w/ NX 12 GW Bindings 2026",
     "url": "/rossignol-arcade-w-84-womens-skis-w-nx-12-gw-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/110983/images/204560/rossignol-rossignol-arcade-w-84-womens-skis-w-nx-12-gw-bindings-2026__54451.1739601381.500.659.jpg?c=2",
-    "price": 899.99,
+    "price": 719.99,
     "meta_keywords": "Rossignol,  Arcade,  W,  84,  Womens,  Skis,  w/,  NX,  12,  GW,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -36565,7 +36544,7 @@
     "name": "Rossignol Arcade W 88 Womens Skis w/ NX 12 GW Bindings 2026",
     "url": "/rossignol-arcade-w-88-womens-skis-w-nx-12-gw-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/110993/images/204559/2026-rossignol-arcade-88-womens-skis-w-nx-12-binding__39320.1772132345.500.659.jpg?c=2",
-    "price": 949.99,
+    "price": 759.99,
     "meta_keywords": "Rossignol,  Arcade,  W,  88,  Womens,  Skis,  w/,  NX,  12,  GW,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -40343,7 +40322,7 @@
     "name": "Look SPX 13 GW Ski Bindings 2026",
     "url": "/look-spx-13-gw-ski-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/113460/images/212101/2026-look-spx-13-gw-bindings-white__59866.1753373618.500.659.jpg?c=2",
-    "price": 249.99,
+    "price": 199.99,
     "meta_keywords": "Look,  SPX,  13,  GW,  Ski,  Bindings,  2026",
     "detected_rows": [
       "look",
@@ -40445,7 +40424,7 @@
     "name": "Lange WORLD CUP RS ZSOFT+ Ski Boots 2026",
     "url": "/lange-world-cup-rs-zsoft-ski-boots-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/113465/images/209824/2025-lange-world-cup-rs-zsoft%25252b-adult-race-boots__99884.1748970114.500.659.jpg?c=2",
-    "price": 699.99,
+    "price": 559.99,
     "meta_keywords": "Lange,  WORLD,  CUP,  RS,  ZSOFT+,  Ski,  Boots,  2026",
     "detected_rows": [
       "lange",
@@ -40633,7 +40612,7 @@
     "name": "Lange WORLD CUP RS ZJ+ Ski Boots 2026",
     "url": "/lange-world-cup-rs-zj-ski-boots-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/113474/images/209833/2025-lange-world-cup-rs-zj-plus-ski-boots-2025__81737.1748970125.500.659.jpg?c=2",
-    "price": 799.99,
+    "price": 639.99,
     "meta_keywords": "Lange,  WORLD,  CUP,  RS,  ZJ+,  Ski,  Boots,  2026",
     "detected_rows": [
       "lange",
@@ -40655,7 +40634,7 @@
     "name": "Lange RS 110 SC JR Ski Boots 2026",
     "url": "/lange-rs-110-sc-jr-ski-boots-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/113475/images/209834/2025-lange-rs-110-sc-junior-ski-boots__65530.1773352746.500.659.jpg?c=2",
-    "price": 599.99,
+    "price": 479.99,
     "meta_keywords": "Lange,  RS,  110,  SC,  JR,  Ski,  Boots,  2026",
     "detected_rows": [
       "lange",
@@ -41490,7 +41469,7 @@
     "name": "Rossignol Arcade 88 Skis w/ SPX 12 GW Bindings 2026",
     "url": "/rossignol-arcade-88-skis-w-spx-12-gw-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/113536/images/209903/2025-rossignol-arcade-88-skis-w-spx-12-gw-bindings__13587.1748970216.500.659.jpg?c=2",
-    "price": 999.99,
+    "price": 799.99,
     "meta_keywords": "Rossignol,  Arcade,  88,  Skis,  w/,  SPX,  12,  GW,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -41514,7 +41493,7 @@
     "name": "Rossignol Arcade 84 Skis 2026",
     "url": "/rossignol-arcade-84-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/113537/images/227175/2025-look-spx-13-gw-black-ski-bindings__48451.1767126827.500.659.jpg?c=2",
-    "price": 749.99,
+    "price": 599.99,
     "meta_keywords": "Rossignol,  Arcade,  84,  Skis,  2026",
     "detected_rows": [
       "rossignol",
@@ -41533,7 +41512,7 @@
     "name": "Rossignol Arcade 84 Skis w/ SPX 12 GW Bindings 2026",
     "url": "/rossignol-arcade-84-skis-w-spx-12-gw-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/113539/images/209906/2025-rossignol-arcade-84-skis-w-spx-12-gw-bindings__94481.1748970221.500.659.jpg?c=2",
-    "price": 949.99,
+    "price": 759.99,
     "meta_keywords": "Rossignol,  Arcade,  84,  Skis,  w/,  SPX,  12,  GW,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -42970,7 +42949,7 @@
     "name": "Look Pivot 2.0 18 GW Ski Bindings 2026",
     "url": "/look-pivot-2-0-18-gw-ski-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/113633/images/214478/2026-look-pivot-2.0-18-gw-bindings-black-metal__76373.1756407785.500.659.jpg?c=2",
-    "price": 459.99,
+    "price": 367.99,
     "meta_keywords": "Look,  Pivot,  2.0,  18,  GW,  Ski,  Bindings,  2026",
     "detected_rows": [
       "look",
@@ -48694,7 +48673,7 @@
     "name": "Rossignol Arcade W 82 Womens Skis w/ XP 11 GW Bindings 2026",
     "url": "/rossignol-arcade-w-82-womens-skis-w-xp-11-gw-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114733/images/211814/2026-rossignol-arcade-w-82-skis-w-xp-11-gw-bindings__32647.1753199428.500.659.jpg?c=2",
-    "price": 799.99,
+    "price": 639.99,
     "meta_keywords": "Rossignol,  Arcade,  W,  82,  Womens,  Skis,  w/,  XP,  11,  GW,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -48720,7 +48699,7 @@
     "name": "Rossignol Arcade W 94 Womens Skis 2026",
     "url": "/rossignol-arcade-w-94-womens-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114734/images/227174/2026-look-pivot-2.0-11-gw-bindings-black%252520metal__94420.1767126825.500.659.jpg?c=2",
-    "price": 849.99,
+    "price": 679.99,
     "meta_keywords": "Rossignol,  Arcade,  W,  94,  Womens,  Skis,  2026",
     "detected_rows": [
       "rossignol",
@@ -48741,7 +48720,7 @@
     "name": "Rossignol Arcade W 78 Womens Skis w/ XP 10 GW Bindings 2026",
     "url": "/rossignol-arcade-w-78-womens-skis-w-xp-10-gw-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114735/images/211817/2026-rossignol-arcade-w-78-skis-w-xp-10-gw-bindings__52191.1753199433.500.659.jpg?c=2",
-    "price": 549.99,
+    "price": 439.99,
     "meta_keywords": "Rossignol,  Arcade,  W,  78,  Womens,  Skis,  w/,  XP,  10,  GW,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -49061,7 +49040,7 @@
     "name": "Rossignol Arcade 82 Skis w/ Xpress 11 GW Bindings 2026",
     "url": "/rossignol-arcade-82-skis-w-xpress-11-gw-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114751/images/211850/2026-rossignol-arcade-82-skis-w-xpress-11-gw-bindings__04118.1753199489.500.659.jpg?c=2",
-    "price": 799.99,
+    "price": 639.99,
     "meta_keywords": "Rossignol,  Arcade,  82,  Skis,  w/,  Xpress,  11,  GW,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -49110,7 +49089,7 @@
     "name": "Rossignol Arcade 78 Skis w/ Xpress 10 GW Bindings 2026",
     "url": "/rossignol-arcade-78-skis-w-xpress-10-gw-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114753/images/211852/2026-rossignol-arcade-78-skis-w-xpress-10-gw-bindings__14823.1753199493.500.659.jpg?c=2",
-    "price": 549.99,
+    "price": 439.99,
     "meta_keywords": "Rossignol,  Arcade,  78,  Skis,  w/,  Xpress,  10,  GW,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -49368,7 +49347,7 @@
     "name": "Lange Shadow 85 MV GW Womens Ski Boots 2026",
     "url": "/lange-shadow-85-w-mv-gw-womens-ski-boots-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114806/images/211959/2026-lange-shadow-85-w-mv-gw-ski-boots__09100.1768849670.500.659.jpg?c=2",
-    "price": 549.99,
+    "price": 439.99,
     "meta_keywords": "Lange,  Shadow,  85,  MV,  GW,  Womens,  Ski,  Boots,  2026",
     "detected_rows": [
       "lange",
@@ -49464,7 +49443,7 @@
     "name": "Lange Shadow 130 MV GW Ski Boots 2026",
     "url": "/lange-shadow-130-mv-gw-ski-boots-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114810/images/211963/2026-lange-shadow-130-mv-gw-ski-boots__84850.1753373443.500.659.jpg?c=2",
-    "price": 849.99,
+    "price": 679.99,
     "meta_keywords": "Lange,  Shadow,  130,  MV,  GW,  Ski,  Boots,  2026",
     "detected_rows": [
       "lange",
@@ -50228,7 +50207,7 @@
     "name": "Lange Shadow 85 LV GW Womens Ski Boots 2026",
     "url": "/lange-shadow-85-w-lv-gw-womens-ski-boots-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114860/images/212018/2026-lange-shadow-85-w-lv-gw-ski-boots__53613.1772465816.500.659.jpg?c=2",
-    "price": 549.99,
+    "price": 439.99,
     "meta_keywords": "Lange,  Shadow,  85,  LV,  GW,  Womens,  Ski,  Boots,  2026",
     "detected_rows": [
       "lange",
@@ -50465,7 +50444,7 @@
     "name": "Dynastar Speed Course Master GS R22 Skis 2026",
     "url": "/dynastar-speed-course-master-gs-r22-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114871/images/231785/2023-look-spx12-rockerracegw-bindings__29327.1768834953.500.659.jpg?c=2",
-    "price": 1199.99,
+    "price": 959.99,
     "meta_keywords": "Dynastar,  Speed,  Course,  Master,  GS,  R22,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -51254,7 +51233,7 @@
     "name": "Lange Shadow 130 LV GW Ski Boots 2026",
     "url": "/lange-shadow-130-lv-gw-ski-boots-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114915/images/212086/2026-lange-shadow-130-lv-gw-ski-boots__32299.1753373597.500.659.jpg?c=2",
-    "price": 849.99,
+    "price": 679.99,
     "meta_keywords": "Lange,  Shadow,  130,  LV,  GW,  Ski,  Boots,  2026",
     "detected_rows": [
       "lange",
@@ -51320,7 +51299,7 @@
     "name": "Lange Shadow 110 LV GW Ski Boots 2026",
     "url": "/lange-shadow-110-lv-gw-ski-boots-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/114919/images/212091/2026-lange-shadow-110-lv-gw-ski-boots__70168.1772465843.500.659.jpg?c=2",
-    "price": 649.99,
+    "price": 519.99,
     "meta_keywords": "Lange,  Shadow,  110,  LV,  GW,  Ski,  Boots,  2026",
     "detected_rows": [
       "lange",
@@ -52709,32 +52688,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 114984,
-    "name": "Atomic Redster X9S Revoshock S Skis w/ I 12 GW Bindings 2026",
-    "url": "/atomic-redster-x9s-revoshock-s-skis-w-i-12-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114984/images/212173/2026-atomic-redster-x9s-revoshock-s-w-i12-skis__15632.1770915365.500.659.jpg?c=2",
-    "price": 1399.99,
-    "meta_keywords": "Atomic,  Redster,  X9S,  Revoshock,  S,  Skis,  w/,  I,  12,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "atomic",
-      "redster",
-      "x9s",
-      "revoshock",
-      "s",
-      "skis",
-      "w/",
-      "i",
-      "12",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 114988,
     "name": "Volkl Racetiger JR Red Skis w/ vMotion 7.0 JR GW Bindings 2026",
     "url": "/volkl-racetiger-jr-red-skis-w-vmotion-7-0-jr-gw-bindings-2026/",
@@ -52825,7 +52778,7 @@
     "name": "Dynastar Speed Course Team GS R21 Pro JR Skis 2026",
     "url": "/dynastar-speed-course-team-gs-r21-pro-jr-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/115082/images/231791/2025-look-spx-11-gw-b73-hot-red-ski-bindings-2025__80458.1768849475.500.659.jpg?c=2",
-    "price": 649.99,
+    "price": 519.99,
     "meta_keywords": "Dynastar,  Speed,  Course,  Team,  GS,  R21,  Pro,  JR,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -52849,7 +52802,7 @@
     "name": "Dynastar Team Comp JR Skis 2026",
     "url": "/dynastar-team-comp-jr-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/115083/images/231797/2023-look-nx7-gw-ski-bindings__88041.1768849486.500.659.jpg?c=2",
-    "price": 299.99,
+    "price": 239.99,
     "meta_keywords": "Dynastar,  Team,  Comp,  JR,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -52869,7 +52822,7 @@
     "name": "Dynastar Speed Omeglass WC SL 150cm R22 Skis 2026",
     "url": "/dynastar-speed-omeglass-wc-sl-150cm-r22-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/115086/images/231803/2023-look-spx12-rockerracegw-bindings__69189.1768849656.500.659.jpg?c=2",
-    "price": 1049.99,
+    "price": 839.99,
     "meta_keywords": "Dynastar,  Speed,  Omeglass,  WC,  SL,  150cm,  R22,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -52892,7 +52845,7 @@
     "name": "Dynastar Speed Course WC GS 185cm R22 Skis 2026",
     "url": "/dynastar-speed-course-wc-gs-185cm-r22-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/115087/images/231800/2023-look-spx15-rockerrace-bindings-redhot__37927.1768849639.500.659.jpg?c=2",
-    "price": 1174.99,
+    "price": 939.99,
     "meta_keywords": "Dynastar,  Speed,  Course,  WC,  GS,  185cm,  R22,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -52940,7 +52893,7 @@
     "name": "Dynastar Speed Course WC GS R22 Skis 2026",
     "url": "/dynastar-speed-course-wc-gs-r22-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/115089/images/231802/2023-look-spx15-rockerrace-bindings-redhot__79935.1768849644.500.659.jpg?c=2",
-    "price": 1049.99,
+    "price": 839.99,
     "meta_keywords": "Dynastar,  Speed,  Course,  WC,  GS,  R22,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -52962,7 +52915,7 @@
     "name": "Dynastar Speed Course WC FIS GS Factory 193cm R22 Skis 2026",
     "url": "/dynastar-speed-course-wc-fis-gs-factory-193cm-r22-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/115090/images/231790/2023-look-spx15-rockerrace-bindings-redhot__59719.1768849468.500.659.jpg?c=2",
-    "price": 1249.99,
+    "price": 999.99,
     "meta_keywords": "Dynastar,  Speed,  Course,  WC,  FIS,  GS,  Factory,  193cm,  R22,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -52987,7 +52940,7 @@
     "name": "Dynastar Speed Omeglass Team SL R21 Pro JR Skis 2026",
     "url": "/dynastar-speed-omeglass-team-sl-r21-pro-jr-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/115091/images/231798/2023-look-nx7-gw-ski-bindings__72696.1768849487.500.659.jpg?c=2",
-    "price": 649.99,
+    "price": 519.99,
     "meta_keywords": "Dynastar,  Speed,  Omeglass,  Team,  SL,  R21,  Pro,  JR,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -63004,7 +62957,7 @@
     "name": "Look Pivot 2.0 11 GW Ski Bindings 2026",
     "url": "/look-pivot-2-0-11-gw-ski-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/116271/images/214470/2026-look-pivot-2.0-11-gw-bindings-black%252520metal__83699.1756407767.500.659.jpg?c=2",
-    "price": 249.99,
+    "price": 199.99,
     "meta_keywords": "Look,  Pivot,  2.0,  11,  GW,  Ski,  Bindings,  2026",
     "detected_rows": [
       "look",
@@ -63069,7 +63022,7 @@
     "name": "Look Pivot 2.0 13 GW Ski Bindings 2026",
     "url": "/look-pivot-2-0-13-gw-ski-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/116274/images/214474/2026-look-pivot-2.0-13-gw-bindings-blue-steel__51735.1756407774.500.659.jpg?c=2",
-    "price": 349.99,
+    "price": 279.99,
     "meta_keywords": "Look,  Pivot,  2.0,  13,  GW,  Ski,  Bindings,  2026",
     "detected_rows": [
       "look",
@@ -84109,7 +84062,7 @@
     "name": "Rossignol Arcade 94 Open Skis 2026",
     "url": "/rossignol-arcade-94-open-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/118077/images/227169/2025-look-spx-13-gw-black-ski-bindings__46871.1767126783.500.659.jpg?c=2",
-    "price": 899.99,
+    "price": 719.99,
     "meta_keywords": "Rossignol,  Arcade,  94,  Open,  Skis,  2026",
     "detected_rows": [
       "rossignol",
@@ -84188,7 +84141,7 @@
     "name": "Rossignol Arcade W 84 Open Womens Skis 2026",
     "url": "/rossignol-arcade-w-84-open-womens-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/118082/images/227163/2026-look-pivot-2.0-11-gw-bindings-white-black__53438.1767126739.500.659.jpg?c=2",
-    "price": 749.99,
+    "price": 599.99,
     "meta_keywords": "Rossignol,  Arcade,  W,  84,  Open,  Womens,  Skis,  2026",
     "detected_rows": [
       "rossignol",
@@ -105797,29 +105750,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 120015,
-    "name": "Kuu Bevel Guide with Clamp - 87 Degrees 2026",
-    "url": "/kuu-bevel-guide-with-clamp-87-degrees-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120015/images/222912/26002717__36888.1766079549.500.659.jpg?c=2",
-    "price": 69.99,
-    "meta_keywords": "Kuu,  Bevel,  Guide,  with,  Clamp,  -,  87,  Degrees,  2026",
-    "detected_rows": [
-      "kuu",
-      "bevel",
-      "guide",
-      "with",
-      "clamp",
-      "-",
-      "87",
-      "degrees",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 120016,
     "name": "Smartwool Second Cut Fleece Womens Jacket 2026",
     "url": "/smartwool-second-cut-fleece-womens-jacket-2026/",
@@ -106897,7 +106827,7 @@
     "name": "Dynastar Speed WC SG Factory R22 Skis 2026",
     "url": "/dynastar-speed-wc-sg-factory-r22-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/121873/images/231799/2023-look-spx15-rockerrace-bindings-redhot__03229.1768849638.500.659.jpg?c=2",
-    "price": 1199.99,
+    "price": 959.99,
     "meta_keywords": "Dynastar,  Speed,  WC,  SG,  Factory,  R22,  Skis,  2026",
     "detected_rows": [
       "dynastar",
@@ -111217,7 +111147,7 @@
     "name": "Rossignol Arcade W 78 Womens Skis w/ Rossignol Alltrack 70 Womens Ski Boots & Rossignol Electra Womens Ski Poles Package 2026",
     "url": "/rossignol-arcade-w-78-womens-skis-w-rossignol-alltrack-70-womens-ski-boots-rossignol-electra-womens-ski-poles-package-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/124099/images/230953/2026-rossignol-arcade-w-78-skis-w-xp-10-gw-bindings__89943.1772989366.500.659.jpg?c=2",
-    "price": 999.97,
+    "price": 799.98,
     "meta_keywords": "Rossignol,  Arcade,  W,  78,  Womens,  Skis,  w/,  Rossignol,  Alltrack,  70,  Womens,  Ski,  Boots,  &,  Rossignol,  Electra,  Womens,  Ski,  Poles,  Package,  2026",
     "detected_rows": [
       "rossignol",
@@ -116155,7 +116085,7 @@
     "name": "Rossignol Arcade 78 Skis w/ Rossignol Speed 100 HV Plus SKi Boots & Rossignol Tactic Ski Poles Package 2026",
     "url": "/rossignol-arcade-78-skis-w-rossignol-speed-100-hv-plus-ski-boots-rossignol-tactic-ski-poles-package-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/124545/images/231812/2026-rossignol-arcade-78-skis-w-xpress-10-gw-bindings__87318.1773685998.500.659.jpg?c=2",
-    "price": 1039.97,
+    "price": 831.98,
     "meta_keywords": "Rossignol,  Arcade,  78,  Skis,  w/,  Rossignol,  Speed,  100,  HV,  Plus,  SKi,  Boots,  &,  Rossignol,  Tactic,  Ski,  Poles,  Package,  2026",
     "detected_rows": [
       "rossignol",
@@ -118064,7 +117994,7 @@
     "name": "Rossignol Arcade 88 Skis w/ SPX 12 GW Blue Steel Bindings 2026",
     "url": "/rossignol-arcade-88-skis-w-spx-12-gw-blue-steel-bindings-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/124682/images/232005/2026-rossignol-arcade-88-w-spx-12-gw-blue-steel-bindings__53971.1770066277.500.659.jpg?c=2",
-    "price": 999.99,
+    "price": 799.99,
     "meta_keywords": "Rossignol,  Arcade,  88,  Skis,  w/,  SPX,  12,  GW,  Blue,  Steel,  Bindings,  2026",
     "detected_rows": [
       "rossignol",
@@ -122254,7 +122184,7 @@
     "name": "Rossignol Arcade 88 Skis 2026",
     "url": "/rossignol-arcade-88-skis-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/124986/images/232704/2025-look-spx-13-gw-black-ski-bindings__10469.1773077174.500.659.jpg?c=2",
-    "price": 799.99,
+    "price": 639.99,
     "meta_keywords": "Rossignol,  Arcade,  88,  Skis,  2026",
     "detected_rows": [
       "rossignol",
@@ -124100,28 +124030,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 125119,
-    "name": "Smith Nexus MIPS Round Contour Fit Helmet 2026",
-    "url": "/smith-nexus-mips-round-contour-fit-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125119/images/232957/2024-smith-nexus-mips-round-contour-fit-adult-helmet-matte-black__11526.1774034154.500.659.jpg?c=2",
-    "price": 224.99,
-    "meta_keywords": "Smith,  Nexus,  MIPS,  Round,  Contour,  Fit,  Helmet,  2026",
-    "detected_rows": [
-      "smith",
-      "nexus",
-      "mips",
-      "round",
-      "contour",
-      "fit",
-      "helmet",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 125120,
     "name": "Rossignol Super Adult Sock 2026",
     "url": "/rossignol-super-adult-sock-2026/",
@@ -124339,25 +124247,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 125136,
-    "name": "Volcom DLM Womens Pant 2026",
-    "url": "/volcom-dlm-womens-pant-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125136/images/232998/volcom-dlm-pant-2026-black__87404.1774237406.500.659.jpg?c=2",
-    "price": 196,
-    "meta_keywords": "Volcom,  DLM,  Womens,  Pant,  2026",
-    "detected_rows": [
-      "volcom",
-      "dlm",
-      "womens",
-      "pant",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 125137,
@@ -124677,26 +124566,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 125153,
-    "name": "Lib Tech Cold Brew Snowboard 2026",
-    "url": "/lib-tech-cold-brew-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125153/images/233023/2026-libtech-cold-brew-lifestyle-image__88918.1774367528.500.659.jpg?c=2",
-    "price": 559.99,
-    "meta_keywords": "Lib,  Tech,  Cold,  Brew,  Snowboard,  2026",
-    "detected_rows": [
-      "lib",
-      "tech",
-      "cold",
-      "brew",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 125154,
     "name": "Salomon S/Lab Shift2 16 MN Ski Bindings 2027",
     "url": "/salomon-s-lab-shift2-16-mn-ski-bindings-2027/",
@@ -124738,26 +124607,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 125156,
-    "name": "Ride Drone Mens Snowboard Bindings 2026",
-    "url": "/ride-drone-mens-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125156/images/233026/2026-ride-lifestyle-drone__12543.1774367532.500.659.jpg?c=2",
-    "price": 303.99,
-    "meta_keywords": "Ride,  Drone,  Mens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "ride",
-      "drone",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 125158,
@@ -124949,5 +124798,23 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
+  },
+  {
+    "id": 125167,
+    "name": "Jones Stratos Snowboard 2026",
+    "url": "/jones-stratos-snowboard-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125167/images/233055/2026-jones-mens-stratos-lifestyle-image__50169.1774483660.500.659.jpg?c=2",
+    "price": 799.99,
+    "meta_keywords": "Jones,  Stratos,  Snowboard,  2026",
+    "detected_rows": [
+      "jones",
+      "stratos",
+      "snowboard",
+      "2026"
+    ],
+    "gender": "mens",
+    "sport": "snowboard",
+    "type": "binding",
+    "bucket": "snowboard_binding"
   }
 ]
