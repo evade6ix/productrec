@@ -184,26 +184,6 @@
     "bucket": "ski_boot"
   },
   {
-    "id": 54946,
-    "name": "K2 Vandal JR Snowboard Boots 2020",
-    "url": "/2020-k2-vandal-jr-snowboard-boots/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/54946/images/172725/2020-k2-vandal-jr-snowboard-boots-1000__45636.1748883424.500.659.jpg?c=2",
-    "price": 72,
-    "meta_keywords": "K2,  Vandal,  JR,  Snowboard,  Boots,  2020",
-    "detected_rows": [
-      "k2",
-      "vandal",
-      "jr",
-      "snowboard",
-      "boots",
-      "2020"
-    ],
-    "gender": "kids",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
-  },
-  {
     "id": 58759,
     "name": "Rossignol Hero WC ZJ+ Ski Boots 2017",
     "url": "/2017-rossignol-hero-wc-zj-ski-boots/",
@@ -1539,27 +1519,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 77927,
-    "name": "Atomic Savor Amid Visor HD Helmet 2023",
-    "url": "/2023-atomic-savor-amid-visor-hd-helmet/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/77927/images/172768/2023-atomic-savor-amid-visor-hd-black-ski-helmet__60429.1767815283.500.659.jpg?c=2",
-    "price": 175,
-    "meta_keywords": "Atomic,  Savor,  Amid,  Visor,  HD,  Helmet,  2023",
-    "detected_rows": [
-      "atomic",
-      "savor",
-      "amid",
-      "visor",
-      "hd",
-      "helmet",
-      "2023"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 77939,
     "name": "Atomic Hawx Magna 85 Womens Ski Boots 2023",
     "url": "/2023-atomic-hawx-magna-85-womens-ski-boots/",
@@ -1836,25 +1795,6 @@
     "bucket": "snowboard_boot"
   },
   {
-    "id": 78741,
-    "name": "Smith Grom JR Goggle 2023",
-    "url": "/2023-smith-grom-jr-goggle/",
-    "image": "",
-    "price": 55,
-    "meta_keywords": "Smith,  Grom,  JR,  Goggle,  2023",
-    "detected_rows": [
-      "smith",
-      "grom",
-      "jr",
-      "goggle",
-      "2023"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 78745,
     "name": "Smith Nexus MIPS Adult Helmet 2023",
     "url": "/2023-smith-nexus-mips-adult-helmet/",
@@ -1873,24 +1813,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 78775,
-    "name": "Smith Moment Goggle 2023",
-    "url": "/2023-smith-moment-goggle/",
-    "image": "",
-    "price": 90,
-    "meta_keywords": "Smith,  Moment,  Goggle,  2023",
-    "detected_rows": [
-      "smith",
-      "moment",
-      "goggle",
-      "2023"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 78877,
@@ -2060,26 +1982,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 79234,
-    "name": "Salomon Goodtime JR Snowboard Bindings 2023",
-    "url": "/2023-salomon-goodtime-jr-snowboard-bindings/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/79234/images/170551/2023-salomon-goodtime-youth-snowboard-bindings__74562.1748886427.500.659.jpg?c=2",
-    "price": 59.99,
-    "meta_keywords": "Salomon,  Goodtime,  JR,  Snowboard,  Bindings,  2023",
-    "detected_rows": [
-      "salomon",
-      "goodtime",
-      "jr",
-      "snowboard",
-      "bindings",
-      "2023"
-    ],
-    "gender": "kids",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 79252,
@@ -2369,26 +2271,6 @@
     "sport": "ski",
     "type": "ski",
     "bucket": "ski"
-  },
-  {
-    "id": 79807,
-    "name": "Head Radar Mens Black Helmet 2023",
-    "url": "/2023-head-radar-mens-black-helmet/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/79807/images/169860/2023-head-radar-black-helmet__01489.1748886169.500.659.jpg?c=2",
-    "price": 200,
-    "meta_keywords": "Head,  Radar,  Mens,  Black,  Helmet,  2023",
-    "detected_rows": [
-      "head",
-      "radar",
-      "mens",
-      "black",
-      "helmet",
-      "2023"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 79812,
@@ -4436,28 +4318,6 @@
     "bucket": "base_layer"
   },
   {
-    "id": 82319,
-    "name": "2023 Icebreaker 260 Tech Adults Black Glove Liner",
-    "url": "/2023-icebreaker-260-tech-adults-black-glove-liner/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/82319/images/120604/2023-icebreaker-260-tech-uni-black-glove-liner-1__88034.1734462838.500.659.jpg?c=2",
-    "price": 55,
-    "meta_keywords": "2023,  Icebreaker,  260,  Tech,  Adults,  Black,  Glove,  Liner",
-    "detected_rows": [
-      "2023",
-      "icebreaker",
-      "260",
-      "tech",
-      "adults",
-      "black",
-      "glove",
-      "liner"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "glove",
-    "bucket": "glove"
-  },
-  {
     "id": 82320,
     "name": "2023 Icebreaker 200 Oasis Adults Black Glove Liner",
     "url": "/2023-icebreaker-200-oasis-adults-black-glove-liner/",
@@ -4581,28 +4441,6 @@
     "sport": "other",
     "type": "base_layer",
     "bucket": "base_layer"
-  },
-  {
-    "id": 82439,
-    "name": "2023 Helly Hansen PS Womens Black Insulator Pant",
-    "url": "/2023-helly-hansen-ps-womens-black-insulator-pant/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/82439/images/120836/2023-helly-hansen-ps-insulator-3-4-womens-black-pant__86267.1734464106.500.659.jpg?c=2",
-    "price": 144,
-    "meta_keywords": "2023,  Helly,  Hansen,  PS,  Womens,  Black,  Insulator,  Pant",
-    "detected_rows": [
-      "2023",
-      "helly",
-      "hansen",
-      "ps",
-      "womens",
-      "black",
-      "insulator",
-      "pant"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "pant",
-    "bucket": "pant"
   },
   {
     "id": 82452,
@@ -5458,144 +5296,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 84497,
-    "name": "2023 Kombi The Original Womens Mitt",
-    "url": "/2023-kombi-the-original-womens-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/84497/images/147665/2023-kombi-the-patroller-womens-mitt-black__83744.1767815396.500.659.jpg?c=2",
-    "price": 39.99,
-    "meta_keywords": "2023,  Kombi,  The,  Original,  Womens,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "original",
-      "womens",
-      "mitt"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 84498,
-    "name": "2023 Kombi The Original Womens Glove",
-    "url": "/2023-kombi-the-original-womens-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/84498/images/147976/2023-kombi-the-original-womens-glove-black__95736.1734463852.500.659.jpg?c=2",
-    "price": 39.99,
-    "meta_keywords": "2023,  Kombi,  The,  Original,  Womens,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "original",
-      "womens",
-      "glove"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 84499,
-    "name": "2023 Kombi The Original Junior Mitt",
-    "url": "/2023-kombi-the-original-junior-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/84499/images/147360/2023-kombi-the-original-jr-mitt-platinum__28460.1767815401.500.659.jpg?c=2",
-    "price": 30.39,
-    "meta_keywords": "2023,  Kombi,  The,  Original,  Junior,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "original",
-      "junior",
-      "mitt"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 84502,
-    "name": "2023 Kombi Kids Mitten Clips",
-    "url": "/2023-kombi-kids-mitten-clips/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/84502/images/147681/2023-kombi-kids-mitten-clips-jr-purple-fiction__60601.1767815619.500.659.jpg?c=2",
-    "price": 5.59,
-    "meta_keywords": "2023,  Kombi,  Kids,  Mitten,  Clips",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "kids",
-      "mitten",
-      "clips"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 84509,
-    "name": "2023 Kombi Serious Junior Mitt",
-    "url": "/2023-kombi-serious-junior-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/84509/images/144011/2023-kombi-serious-jr-mitt-black__72940.1767815409.500.659.jpg?c=2",
-    "price": 43.99,
-    "meta_keywords": "2023,  Kombi,  Serious,  Junior,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "serious",
-      "junior",
-      "mitt"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 84556,
-    "name": "2023 Kombi The Everyday Mens Glove",
-    "url": "/2023-kombi-the-everyday-mens-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/84556/images/143652/2023-kombi-the-everyday-mens-glove-black__84461.1767815398.500.659.jpg?c=2",
-    "price": 27.99,
-    "meta_keywords": "2023,  Kombi,  The,  Everyday,  Mens,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "everyday",
-      "mens",
-      "glove"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 84557,
-    "name": "2023 Kombi The Everyday Mens Mitt",
-    "url": "/2023-kombi-the-everyday-mens-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/84557/images/144113/2023-kombi-the-everyday-mens-mitt-black__35024.1767815379.500.659.jpg?c=2",
-    "price": 27.99,
-    "meta_keywords": "2023,  Kombi,  The,  Everyday,  Mens,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "everyday",
-      "mens",
-      "mitt"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 84740,
     "name": "2023 Turtle Fur Comfort Shell Adult Totally Tubular Solid",
     "url": "/2023-turtle-fur-comfort-shell-adult-totally-tubular-solid/",
@@ -5657,27 +5357,6 @@
     "sport": "ski",
     "type": "ski",
     "bucket": "ski"
-  },
-  {
-    "id": 84831,
-    "name": "Dynastar Speed Team GS JR Skis 2020",
-    "url": "/2020-dynastar-speed-team-gs-jr-skis/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/84831/images/167338/2023-dynastar-lookspxgwb3-redhot-bindings__17622.1748883421.500.659.jpg?c=2",
-    "price": 224,
-    "meta_keywords": "Dynastar,  Speed,  Team,  GS,  JR,  Skis,  2020",
-    "detected_rows": [
-      "dynastar",
-      "speed",
-      "team",
-      "gs",
-      "jr",
-      "skis",
-      "2020"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 84832,
@@ -5920,27 +5599,6 @@
     "sport": "ski",
     "type": "pant",
     "bucket": "pant"
-  },
-  {
-    "id": 85194,
-    "name": "Rossignol Hero 9 Blaze/White FIS Helmet w/Chinguard",
-    "url": "/rossignol-hero-9-blaze-white-fis-helmet-w-chinguard-1/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/85194/images/143748/co23-rossignol-hero-9-fis-helmet-22003689__18804.1748883713.500.659.jpg?c=2",
-    "price": 79.99,
-    "meta_keywords": "Rossignol,  Hero,  9,  Blaze/White,  FIS,  Helmet,  w/Chinguard",
-    "detected_rows": [
-      "rossignol",
-      "hero",
-      "9",
-      "blaze/white",
-      "fis",
-      "helmet",
-      "w/chinguard"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 85266,
@@ -6511,25 +6169,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 87799,
-    "name": "2022 Smith Daredevil JR Goggle",
-    "url": "/2022-smith-daredevil-jr-goggle/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/87799/images/136175/2022-smith-daredevil-jr-goggle-polar-vibrant-w-ignitor-mirror__04112.1734464447.500.659.jpg?c=2",
-    "price": 32.5,
-    "meta_keywords": "2022,  Smith,  Daredevil,  JR,  Goggle",
-    "detected_rows": [
-      "2022",
-      "smith",
-      "daredevil",
-      "jr",
-      "goggle"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 87810,
     "name": "Spyder Mini Expedition Boys Pant 2022",
     "url": "/2022-spyder-mini-expedition-boys-pant/",
@@ -6897,26 +6536,6 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
-  },
-  {
-    "id": 90865,
-    "name": "K2 Orton Mens Snowboard Boots 2024",
-    "url": "/2024-k2-orton-mens-snowboard-boots/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/90865/images/143552/k2-orton-2024-lifestyle-image__74301.1748885539.500.659.jpg?c=2",
-    "price": 299.99,
-    "meta_keywords": "K2,  Orton,  Mens,  Snowboard,  Boots,  2024",
-    "detected_rows": [
-      "k2",
-      "orton",
-      "mens",
-      "snowboard",
-      "boots",
-      "2024"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 90866,
@@ -7678,30 +7297,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 91157,
-    "name": "Atomic Redster G9 FIS Skis w/ Colt 10 Bindings 2024",
-    "url": "/2024-atomic-redster-g9-fis-skis-w-colt-10-bindings/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/91157/images/144876/2024-atomic-redster-g9-fis-w-colt-10-ski__00741.1748884546.500.659.jpg?c=2",
-    "price": 395,
-    "meta_keywords": "Atomic,  Redster,  G9,  FIS,  Skis,  w/,  Colt,  10,  Bindings,  2024",
-    "detected_rows": [
-      "atomic",
-      "redster",
-      "g9",
-      "fis",
-      "skis",
-      "w/",
-      "colt",
-      "10",
-      "bindings",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 91160,
     "name": "Atomic Hawx Prime XTD 115 GW Womens Ski Boots 2024",
     "url": "/2024-atomic-hawx-prime-xtd-115-gw-womens-ski-boots/",
@@ -8391,24 +7986,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 91476,
-    "name": "Smith Moment Goggle 2024",
-    "url": "/2024-smith-moment-goggle/",
-    "image": "",
-    "price": 90,
-    "meta_keywords": "Smith,  Moment,  Goggle,  2024",
-    "detected_rows": [
-      "smith",
-      "moment",
-      "goggle",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 91478,
     "name": "Smith Skyline XL Goggle 2024",
     "url": "/2024-smith-skyline-xl-goggle/",
@@ -8521,27 +8098,6 @@
       "70",
       "sc",
       "jr",
-      "ski",
-      "boots",
-      "2024"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 91523,
-    "name": "Lange RS 90 SC Ski Boots 2024",
-    "url": "/2024-lange-rs-90-sc-ski-boots/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/91523/images/143827/2024-lange-rs-90-sc-ski-boots__57807.1748885261.500.659.jpg?c=2",
-    "price": 250,
-    "meta_keywords": "Lange,  RS,  90,  SC,  Ski,  Boots,  2024",
-    "detected_rows": [
-      "lange",
-      "rs",
-      "90",
-      "sc",
       "ski",
       "boots",
       "2024"
@@ -8686,26 +8242,6 @@
       "tech",
       "ryme",
       "c3",
-      "womens",
-      "snowboard",
-      "2024"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
-    "id": 91665,
-    "name": "Roxy Breeze C2 Womens Snowboard 2024",
-    "url": "/2024-roxy-breeze-c2-womens-snowboard/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/91665/images/147430/2024-roxy-breeze-womens-snowboard__61390.1748885535.500.659.jpg?c=2",
-    "price": 335.99,
-    "meta_keywords": "Roxy,  Breeze,  C2,  Womens,  Snowboard,  2024",
-    "detected_rows": [
-      "roxy",
-      "breeze",
-      "c2",
       "womens",
       "snowboard",
       "2024"
@@ -16608,31 +16144,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 96781,
-    "name": "Smith Level MIPS Adult Helmet w/ Smith Proxy Goggle Package 2024",
-    "url": "/2024-smith-level-mips-adult-helmet-w-smith-proxy-goggle-package/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/96781/images/164659/2024-smith-proxy-midnight-navy-cp-platinum-mirror__70001.1749144703.500.659.jpg?c=2",
-    "price": 229.99,
-    "meta_keywords": "Smith,  Level,  MIPS,  Adult,  Helmet,  w/,  Smith,  Proxy,  Goggle,  Package,  2024",
-    "detected_rows": [
-      "smith",
-      "level",
-      "mips",
-      "adult",
-      "helmet",
-      "w/",
-      "smith",
-      "proxy",
-      "goggle",
-      "package",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 96784,
     "name": "Salomon Grom Visor JR Helmet 2022",
     "url": "/2022-salomon-grom-visor-jr-helmet/",
@@ -17332,27 +16843,6 @@
     "bucket": "snowboard_boot"
   },
   {
-    "id": 99490,
-    "name": "Dakine Heli Pro 20L Womens Backpack 2022",
-    "url": "/2022-dakine-heli-pro-20l-womens-backpack/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/99490/images/172798/2022-dakine-womens-heli-pro-20l-solstice-floral-backpack-front-1__52747.1748886700.500.659.jpg?c=2",
-    "price": 74.99,
-    "meta_keywords": "Dakine,  Heli,  Pro,  20L,  Womens,  Backpack,  2022",
-    "detected_rows": [
-      "dakine",
-      "heli",
-      "pro",
-      "20l",
-      "womens",
-      "backpack",
-      "2022"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 99784,
     "name": "Elan Ripstick Tour 88 Womens Skis 2023",
     "url": "/2023-elan-ripstick-tour-88-womens-skis/",
@@ -17782,25 +17272,6 @@
     "bucket": "snowboard"
   },
   {
-    "id": 101732,
-    "name": "Line Optic 96 Skis 2025",
-    "url": "/line-optic-96-skis-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/101732/images/197755/2021-marker-griffon-13-id-ski-bindings-black-1000__15306.1741376919.500.659.jpg?c=2",
-    "price": 479.99,
-    "meta_keywords": "Line,  Optic,  96,  Skis,  2025",
-    "detected_rows": [
-      "line",
-      "optic",
-      "96",
-      "skis",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 101733,
     "name": "Line Optic 88 Skis 2025",
     "url": "/line-optic-88-skis-2025/",
@@ -17815,25 +17286,6 @@
       "2025"
     ],
     "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 101734,
-    "name": "Line Pandora 106 Skis 2025",
-    "url": "/line-pandora-106-skis-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/101734/images/197770/2025-line-pandora106-lifestyle__00597.1737150058.500.659.jpg?c=2",
-    "price": 449.99,
-    "meta_keywords": "Line,  Pandora,  106,  Skis,  2025",
-    "detected_rows": [
-      "line",
-      "pandora",
-      "106",
-      "skis",
-      "2025"
-    ],
-    "gender": "unisex",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
@@ -19267,26 +18719,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 102620,
-    "name": "Buff Original Ecostretch Adult Neckwear 2025",
-    "url": "/buff-original-ecostretch-adult-neckwear-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/102620/images/179398/2025-buff-original-ecostretch-adult-neckwear-gauxi-night-blue__06485.1768037869.500.659.jpg?c=2",
-    "price": 27,
-    "meta_keywords": "Buff,  Original,  Ecostretch,  Adult,  Neckwear,  2025",
-    "detected_rows": [
-      "buff",
-      "original",
-      "ecostretch",
-      "adult",
-      "neckwear",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 102621,
     "name": "Buff Polar Adult Neckwear 2025",
     "url": "/buff-polar-adult-neckwear-2025/",
@@ -19304,25 +18736,6 @@
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 102623,
-    "name": "Buff Thermonet Adult Neckwear 2025",
-    "url": "/buff-thermonet-adult-neckwear-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/102623/images/179388/2025-buff-thermonet-adult-neckwear-rycal-multi__51732.1759180024.500.659.jpg?c=2",
-    "price": 35,
-    "meta_keywords": "Buff,  Thermonet,  Adult,  Neckwear,  2025",
-    "detected_rows": [
-      "buff",
-      "thermonet",
-      "adult",
-      "neckwear",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
   },
   {
     "id": 102624,
@@ -19623,30 +19036,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 102722,
-    "name": "Dalbello Veloce 75 MV W GW Womens Ski Boots 2025",
-    "url": "/dalbello-veloce-75-mv-w-gw-womens-ski-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/102722/images/180129/2025-dalbello-veloce-75%252520mv-womens__55409.1734452074.500.659.jpg?c=2",
-    "price": 399.99,
-    "meta_keywords": "Dalbello,  Veloce,  75,  MV,  W,  GW,  Womens,  Ski,  Boots,  2025",
-    "detected_rows": [
-      "dalbello",
-      "veloce",
-      "75",
-      "mv",
-      "w",
-      "gw",
-      "womens",
-      "ski",
-      "boots",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 102727,
     "name": "Dalbello Cabrio MV 100 GW Ski Boots 2025",
     "url": "/dalbello-cabrio-mv-100-gw-ski-boots-2025/",
@@ -19738,31 +19127,6 @@
       "2025"
     ],
     "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 102741,
-    "name": "Volkl Peregrine 76 Master Skis w/ Comp 12 GW Bindings 2025",
-    "url": "/volkl-peregrine-76-master-skis-w-comp-12-gw-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/102741/images/198131/2025-volkl-peregrine-76-master-lifestyle__82692.1734453672.500.659.jpg?c=2",
-    "price": 899.99,
-    "meta_keywords": "Volkl,  Peregrine,  76,  Master,  Skis,  w/,  Comp,  12,  GW,  Bindings,  2025",
-    "detected_rows": [
-      "volkl",
-      "peregrine",
-      "76",
-      "master",
-      "skis",
-      "w/",
-      "comp",
-      "12",
-      "gw",
-      "bindings",
-      "2025"
-    ],
-    "gender": "mens",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
@@ -19887,30 +19251,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 102876,
-    "name": "K2 Disruption 82TI Skis w/ MXCELL 12 TXC Bindings 2025",
-    "url": "/k2-disruption-82ti-skis-w-mxcell-12-txc-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/102876/images/181192/2025-k2-disruption-82ti-skis-w-mxcell-12-txc-bindings__72966.1734454386.500.659.jpg?c=2",
-    "price": 599.99,
-    "meta_keywords": "K2,  Disruption,  82TI,  Skis,  w/,  MXCELL,  12,  TXC,  Bindings,  2025",
-    "detected_rows": [
-      "k2",
-      "disruption",
-      "82ti",
-      "skis",
-      "w/",
-      "mxcell",
-      "12",
-      "txc",
-      "bindings",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 102877,
@@ -20660,26 +20000,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 103075,
-    "name": "K2 Mindbender 116C Womens Skis 2025",
-    "url": "/k2-mindbender-116c-womens-skis-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103075/images/198065/2025-mindbender-116c-w-lifestyle__23847.1768040131.500.659.jpg?c=2",
-    "price": 479.99,
-    "meta_keywords": "K2,  Mindbender,  116C,  Womens,  Skis,  2025",
-    "detected_rows": [
-      "k2",
-      "mindbender",
-      "116c",
-      "womens",
-      "skis",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 103081,
     "name": "Burton Emblem Midweight Mens Sock 2025",
     "url": "/burton-emblem-midweight-mens-sock-2025/",
@@ -21144,25 +20464,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 103168,
-    "name": "Rossignol Sender 94 Skis 2025",
-    "url": "/rossignol-sender-94-skis-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103168/images/198389/2025-look-spx-13-gw-dark-sand-ski-bindings__84724.1770051912.500.659.jpg?c=2",
-    "price": 479.99,
-    "meta_keywords": "Rossignol,  Sender,  94,  Skis,  2025",
-    "detected_rows": [
-      "rossignol",
-      "sender",
-      "94",
-      "skis",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 103174,
     "name": "Burton Skylar 2L Junior Pant 2025",
     "url": "/burton-skylar-2l-junior-pant-2025/",
@@ -21219,31 +20520,6 @@
       "2025"
     ],
     "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 103191,
-    "name": "Head Supershape e-Magnum Skis w/ Protector PR 13 GW Bindings 2025",
-    "url": "/head-supershape-e-magnum-skis-w-protector-pr-13-gw-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103191/images/181468/2025-head-supershape-e-magnum-skis-w-protector-pr-13-gw-bindings__92383.1734456665.500.659.jpg?c=2",
-    "price": 839.99,
-    "meta_keywords": "Head,  Supershape,  e-Magnum,  Skis,  w/,  Protector,  PR,  13,  GW,  Bindings,  2025",
-    "detected_rows": [
-      "head",
-      "supershape",
-      "e-magnum",
-      "skis",
-      "w/",
-      "protector",
-      "pr",
-      "13",
-      "gw",
-      "bindings",
-      "2025"
-    ],
-    "gender": "mens",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
@@ -21330,26 +20606,6 @@
       "2025"
     ],
     "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 103225,
-    "name": "Rossignol Rallybird 94 Womens Skis 2025",
-    "url": "/rossignol-rallybird-94-womens-skis-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103225/images/198156/2025-look-spx-11-khaki-black-bindings__68476.1738265834.500.659.jpg?c=2",
-    "price": 449.99,
-    "meta_keywords": "Rossignol,  Rallybird,  94,  Womens,  Skis,  2025",
-    "detected_rows": [
-      "rossignol",
-      "rallybird",
-      "94",
-      "womens",
-      "skis",
-      "2025"
-    ],
-    "gender": "womens",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
@@ -21493,29 +20749,6 @@
       "2025"
     ],
     "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 103292,
-    "name": "Head PROTECTOR ATTACK LYT 13 GW Ski Bindings 2025",
-    "url": "/head-protector-attack-lyt-13-gw-ski-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103292/images/181892/2025-head-protector-attack-lyt-13-gw-bindings-black__00199.1734460920.500.659.jpg?c=2",
-    "price": 269.99,
-    "meta_keywords": "Head,  PROTECTOR,  ATTACK,  LYT,  13,  GW,  Ski,  Bindings,  2025",
-    "detected_rows": [
-      "head",
-      "protector",
-      "attack",
-      "lyt",
-      "13",
-      "gw",
-      "ski",
-      "bindings",
-      "2025"
-    ],
-    "gender": "unisex",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
@@ -24064,25 +23297,6 @@
     "bucket": "other"
   },
   {
-    "id": 104092,
-    "name": "RH+ Hydra Mens Jacket 2025",
-    "url": "/rh-hydra-mens-jacket-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104092/images/184945/rh-hydra-mens-white-black-jacket-2025__45532.1734455737.500.659.jpg?c=2",
-    "price": 910,
-    "meta_keywords": "RH+,  Hydra,  Mens,  Jacket,  2025",
-    "detected_rows": [
-      "rh+",
-      "hydra",
-      "mens",
-      "jacket",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 104093,
     "name": "RH+ Klyma Mens Pant 2025",
     "url": "/rh-klyma-mens-pant-2025/",
@@ -24542,49 +23756,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 104206,
-    "name": "Leki WCR Venom SL 3D Mens Glove 2025",
-    "url": "/leki-wcr-venom-sl-3d-mens-glove-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104206/images/198436/2025-leki-wcr-venom-sl-3d-men-glove-black-neon-pink-gloves__30114.1734454118.500.659.jpg?c=2",
-    "price": 233.99,
-    "meta_keywords": "Leki,  WCR,  Venom,  SL,  3D,  Mens,  Glove,  2025",
-    "detected_rows": [
-      "leki",
-      "wcr",
-      "venom",
-      "sl",
-      "3d",
-      "mens",
-      "glove",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 104207,
-    "name": "Leki WCR C-Tech 3D Mens Glove 2025",
-    "url": "/leki-wcr-c-tech-3d-mens-glove-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104207/images/221159/glove%252520size%252520finder%252520men%252520en__68940.1763413232.500.659.jpg?c=2",
-    "price": 149.99,
-    "meta_keywords": "Leki,  WCR,  C-Tech,  3D,  Mens,  Glove,  2025",
-    "detected_rows": [
-      "leki",
-      "wcr",
-      "c-tech",
-      "3d",
-      "mens",
-      "glove",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 104219,
@@ -25328,29 +24499,6 @@
     "bucket": "pant"
   },
   {
-    "id": 104362,
-    "name": "Salomon S/MAX 12 Skis w/ MI12 GW Bindings 2025",
-    "url": "/salomon-s-max-12-skis-w-mi12-gw-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104362/images/204001/salomon-salomon-smax-12-skis-w-mi12-gw-bindings-2025__17566.1739085147.500.659.jpg?c=2",
-    "price": 719.99,
-    "meta_keywords": "Salomon,  S/MAX,  12,  Skis,  w/,  MI12,  GW,  Bindings,  2025",
-    "detected_rows": [
-      "salomon",
-      "s/max",
-      "12",
-      "skis",
-      "w/",
-      "mi12",
-      "gw",
-      "bindings",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 104370,
     "name": "Salomon S/MAX No10 XT Womens Skis w/ M10 GW Bindings 2025",
     "url": "/salomon-s-max-no10-xt-womens-skis-w-m10-gw-bindings-2025/",
@@ -25827,28 +24975,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 104625,
-    "name": "Rossignol TRACK 70 W Womens Ski Boots 2025",
-    "url": "/rossignol-track-70-w-womens-ski-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104625/images/188975/2024-rossignol-track-70-w-cloud-grey__48706.1768501708.500.659.jpg?c=2",
-    "price": 203.99,
-    "meta_keywords": "Rossignol,  TRACK,  70,  W,  Womens,  Ski,  Boots,  2025",
-    "detected_rows": [
-      "rossignol",
-      "track",
-      "70",
-      "w",
-      "womens",
-      "ski",
-      "boots",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 104626,
     "name": "Rossignol Kelia 50 Womens Ski Boots 2025",
     "url": "/rossignol-kelia-50-womens-ski-boots-2025/",
@@ -25903,31 +25029,6 @@
       "rossignol",
       "experience",
       "w",
-      "pro",
-      "jr",
-      "skis",
-      "w/",
-      "kid",
-      "4",
-      "gw",
-      "bindings",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 104633,
-    "name": "Rossignol EXPERIENCE PRO JR Skis w/ Kid 4 GW Bindings 2025",
-    "url": "/rossignol-experience-pro-jr-skis-w-kid-4-gw-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104633/images/188875/2024-rossignol-experience-pro-jr-kid-4__45072.1768240599.500.659.jpg?c=2",
-    "price": 215.99,
-    "meta_keywords": "Rossignol,  EXPERIENCE,  PRO,  JR,  Skis,  w/,  Kid,  4,  GW,  Bindings,  2025",
-    "detected_rows": [
-      "rossignol",
-      "experience",
       "pro",
       "jr",
       "skis",
@@ -26399,25 +25500,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 104847,
-    "name": "Karbon Ozone Mens Pant 2025",
-    "url": "/karbon-ozone-mens-pant-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104847/images/188791/2025-karbon-ozone-mens-pant-stratosphere__04999.1744033137.500.659.jpg?c=2",
-    "price": 189,
-    "meta_keywords": "Karbon,  Ozone,  Mens,  Pant,  2025",
-    "detected_rows": [
-      "karbon",
-      "ozone",
-      "mens",
-      "pant",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "pant",
-    "bucket": "pant"
   },
   {
     "id": 104864,
@@ -27034,27 +26116,6 @@
     "sport": "ski",
     "type": "bag",
     "bucket": "bag"
-  },
-  {
-    "id": 104945,
-    "name": "Rossignol EVO 70 Mens Ski Boots 2025",
-    "url": "/rossignol-evo-70-mens-ski-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104945/images/188867/2023-rossignol-evo-70-mens-bots__43715.1767816591.500.659.jpg?c=2",
-    "price": 167.99,
-    "meta_keywords": "Rossignol,  EVO,  70,  Mens,  Ski,  Boots,  2025",
-    "detected_rows": [
-      "rossignol",
-      "evo",
-      "70",
-      "mens",
-      "ski",
-      "boots",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 104947,
@@ -27712,26 +26773,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 105168,
-    "name": "Oakley Flight Deck L Goggle 2025",
-    "url": "/oakley-flight-deck-l-goggle-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/105168/images/218469/2025-oakley-flight-deck-l-mikaela-shiffrin-sig-w-prizm-sapphire-iridium__34973.1758727535.500.659.jpg?c=2",
-    "price": 155.39,
-    "meta_keywords": "Oakley,  Flight,  Deck,  L,  Goggle,  2025",
-    "detected_rows": [
-      "oakley",
-      "flight",
-      "deck",
-      "l",
-      "goggle",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 105176,
     "name": "Icebreaker Merino 200 Oasis Mens Long Sleeve Crewe 2025",
     "url": "/icebreaker-merino-200-oasis-mens-long-sleeve-crewe-2025/",
@@ -27857,30 +26898,6 @@
       "shell",
       "tube",
       "print",
-      "adult",
-      "neck",
-      "gaiter",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 105215,
-    "name": "Turtle Fur Comfort Shell Tube Reversible Adult Neck Gaiter 2025",
-    "url": "/turtle-fur-comfort-shell-tube-reversible-adult-neck-gaiter-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/105215/images/189200/2025-turtle-fur-comfort-shell-tube-reversible-adult-wonderland-neck-gaiter-outside__28564.1739855038.500.659.jpg?c=2",
-    "price": 46,
-    "meta_keywords": "Turtle,  Fur,  Comfort,  Shell,  Tube,  Reversible,  Adult,  Neck,  Gaiter,  2025",
-    "detected_rows": [
-      "turtle",
-      "fur",
-      "comfort",
-      "shell",
-      "tube",
-      "reversible",
       "adult",
       "neck",
       "gaiter",
@@ -28608,26 +27625,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 105307,
-    "name": "Swany X-Cell Under Mens Glove 2025",
-    "url": "/swany-x-cell-under-mens-glove-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/105307/images/188999/swany-x-cell-under-mens-black-glove-2025__52330.1734452047.500.659.jpg?c=2",
-    "price": 152,
-    "meta_keywords": "Swany,  X-Cell,  Under,  Mens,  Glove,  2025",
-    "detected_rows": [
-      "swany",
-      "x-cell",
-      "under",
-      "mens",
-      "glove",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 105308,
     "name": "Swany X-Over Mens Glove 2025",
     "url": "/swany-x-over-mens-glove-2025/",
@@ -28715,25 +27712,6 @@
       "falcon",
       "mens",
       "glove",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 105314,
-    "name": "Swany Falcon Mens Mitt 2025",
-    "url": "/swany-falcon-mens-mitt-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/105314/images/188343/swany-falcon-mens-black-mitt-2025__03347.1748537657.500.659.jpg?c=2",
-    "price": 84,
-    "meta_keywords": "Swany,  Falcon,  Mens,  Mitt,  2025",
-    "detected_rows": [
-      "swany",
-      "falcon",
-      "mens",
-      "mitt",
       "2025"
     ],
     "gender": "mens",
@@ -28863,26 +27841,6 @@
     "sport": "ski",
     "type": "base_layer",
     "bucket": "base_layer"
-  },
-  {
-    "id": 105322,
-    "name": "Swany Arctic 2.3 Womens Mitt 2025",
-    "url": "/swany-arctic-2-3-womens-mitt-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/105322/images/188780/swany-arctic-2-3-womens-black-mitt-2025__21054.1734455349.500.659.jpg?c=2",
-    "price": 79.2,
-    "meta_keywords": "Swany,  Arctic,  2.3,  Womens,  Mitt,  2025",
-    "detected_rows": [
-      "swany",
-      "arctic",
-      "2.3",
-      "womens",
-      "mitt",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 105323,
@@ -29553,25 +28511,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 105617,
-    "name": "Komperdell Protector Slalom Shirt 2025",
-    "url": "/komperdell-protector-slalom-shirt-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/105617/images/188399/2025-komperdell-protector-slalom-shirt__93312.1734453651.500.659.jpg?c=2",
-    "price": 137.99,
-    "meta_keywords": "Komperdell,  Protector,  Slalom,  Shirt,  2025",
-    "detected_rows": [
-      "komperdell",
-      "protector",
-      "slalom",
-      "shirt",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
   },
   {
     "id": 105625,
@@ -30978,45 +29917,6 @@
     "bucket": "bag"
   },
   {
-    "id": 106094,
-    "name": "Db Hugger BackPack 30L 2024",
-    "url": "/db-hugger-backpack-30l-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106094/images/192494/2024-db-hugger-backpack-30l-blackout__23219.1768040346.500.659.jpg?c=2",
-    "price": 216.99,
-    "meta_keywords": "Db,  Hugger,  BackPack,  30L,  2024",
-    "detected_rows": [
-      "db",
-      "hugger",
-      "backpack",
-      "30l",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
-    "id": 106095,
-    "name": "Db Hugger Roller Bag 60L 2024",
-    "url": "/db-hugger-roller-bag-60l-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106095/images/193291/2025-db-hugger-roller-bag-60l-lifestyle-image__25086.1738359253.500.659.jpg?c=2",
-    "price": 349.99,
-    "meta_keywords": "Db,  Hugger,  Roller,  Bag,  60L,  2024",
-    "detected_rows": [
-      "db",
-      "hugger",
-      "roller",
-      "bag",
-      "60l",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
     "id": 106096,
     "name": "Db Ramverk Backpack 26L 2024",
     "url": "/db-ramverk-backpack-26l-2025/",
@@ -31385,28 +30285,6 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
-  },
-  {
-    "id": 106196,
-    "name": "POC Fornix MIPS POW JJ Adult Helmet 2025",
-    "url": "/poc-fornix-mips-pow-jj-adult-helmet-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106196/images/192924/2024-poc-fornix-mips-pow-jj-adult-helmet-mineral-grey-matte__49070.1768950838.500.659.jpg?c=2",
-    "price": 167.99,
-    "meta_keywords": "POC,  Fornix,  MIPS,  POW,  JJ,  Adult,  Helmet,  2025",
-    "detected_rows": [
-      "poc",
-      "fornix",
-      "mips",
-      "pow",
-      "jj",
-      "adult",
-      "helmet",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 106206,
@@ -31853,27 +30731,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 106320,
-    "name": "Komperdell NationalTeam Carbon JR Ski Poles 2025",
-    "url": "/komperdell-nationalteam-carbon-jr-ski-poles-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106320/images/192763/2024-komperdell-nationalteam-caarbon-jr__06631.1734461884.500.659.jpg?c=2",
-    "price": 119.99,
-    "meta_keywords": "Komperdell,  NationalTeam,  Carbon,  JR,  Ski,  Poles,  2025",
-    "detected_rows": [
-      "komperdell",
-      "nationalteam",
-      "carbon",
-      "jr",
-      "ski",
-      "poles",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
     "id": 106321,
     "name": "Sweet Clockwork RIG Reflect Goggle 2025",
     "url": "/sweet-clockwork-rig-reflect-goggle-2025/",
@@ -31978,26 +30835,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 106334,
-    "name": "Sweet Winder MIPS Adult Helmet 2025",
-    "url": "/sweet-winder-mips-adult-helmet-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106334/images/192953/2023-sweet-winder-rglm-helmet__28162.1734453992.500.659.jpg?c=2",
-    "price": 95.99,
-    "meta_keywords": "Sweet,  Winder,  MIPS,  Adult,  Helmet,  2025",
-    "detected_rows": [
-      "sweet",
-      "winder",
-      "mips",
-      "adult",
-      "helmet",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 106336,
@@ -32221,28 +31058,6 @@
     "bucket": "ski"
   },
   {
-    "id": 106502,
-    "name": "The North Face Freedom Mens Insulated Pant 2025",
-    "url": "/the-north-face-freedom-mens-insulated-pant-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106502/images/193715/the-north-face-freedom-tnf-black-npf-insulated-pant-2025__59596.1734455595.500.659.jpg?c=2",
-    "price": 195.99,
-    "meta_keywords": "The,  North,  Face,  Freedom,  Mens,  Insulated,  Pant,  2025",
-    "detected_rows": [
-      "the",
-      "north",
-      "face",
-      "freedom",
-      "mens",
-      "insulated",
-      "pant",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 106507,
     "name": "The North Face Chakal Mens Pant 2025",
     "url": "/the-north-face-chakal-mens-pant-2025/",
@@ -32284,26 +31099,6 @@
     ],
     "gender": "mens",
     "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 106527,
-    "name": "POC Womens Race Loft Parka 2025",
-    "url": "/poc-womens-race-loft-parka-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106527/images/192615/2025-poc-ws-race-loft-parka-front-uranium-black-race-clothing__21161.1734451353.500.659.jpg?c=2",
-    "price": 504,
-    "meta_keywords": "POC,  Womens,  Race,  Loft,  Parka,  2025",
-    "detected_rows": [
-      "poc",
-      "womens",
-      "race",
-      "loft",
-      "parka",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "ski",
     "type": "midlayer",
     "bucket": "midlayer"
   },
@@ -33689,29 +32484,6 @@
     "bucket": "other"
   },
   {
-    "id": 106932,
-    "name": "Zipfit Laces Kit - Laces + laces anchors 2025",
-    "url": "/zipfit-laces-kit-laces-laces-anchors-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106932/images/192766/zipfit-laces-kit-laces-laces-anchors-2025__96802.1734459297.500.659.jpg?c=2",
-    "price": 16.99,
-    "meta_keywords": "Zipfit,  Laces,  Kit,  -,  Laces,  +,  laces,  anchors,  2025",
-    "detected_rows": [
-      "zipfit",
-      "laces",
-      "kit",
-      "-",
-      "laces",
-      "+",
-      "laces",
-      "anchors",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 106982,
     "name": "Armada Tantrum JR Skis 2025",
     "url": "/armada-tantrum-jr-skis-2025/",
@@ -33892,25 +32664,6 @@
     "bucket": "base_layer"
   },
   {
-    "id": 107139,
-    "name": "Rossignol Direttisima Mens Jacket 2025",
-    "url": "/rossignol-direttisima-mens-jacket-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/107139/images/197577/rossignol-direttissima-mens-dark-navy-jacket-2025__46843.1734455696.500.659.jpg?c=2",
-    "price": 735,
-    "meta_keywords": "Rossignol,  Direttisima,  Mens,  Jacket,  2025",
-    "detected_rows": [
-      "rossignol",
-      "direttisima",
-      "mens",
-      "jacket",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 107147,
     "name": "Faction Agent 1 Skis 2025",
     "url": "/faction-agent-1-skis-2025/",
@@ -34089,28 +32842,6 @@
     "sport": "ski",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 107203,
-    "name": "Smartwool Ski Light Cushion OTC Junior Socks 2025",
-    "url": "/smartwool-ski-light-cushion-otc-junior-socks-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/107203/images/197852/smartwool-ski-light-cushion-otc-junior-medium-gray-socks-2025-2__95477.1734455373.500.659.jpg?c=2",
-    "price": 26,
-    "meta_keywords": "Smartwool,  Ski,  Light,  Cushion,  OTC,  Junior,  Socks,  2025",
-    "detected_rows": [
-      "smartwool",
-      "ski",
-      "light",
-      "cushion",
-      "otc",
-      "junior",
-      "socks",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "sock",
-    "bucket": "sock"
   },
   {
     "id": 107216,
@@ -34555,24 +33286,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 107467,
-    "name": "Line Ski Bag 2025",
-    "url": "/line-ski-bag-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/107467/images/203178/line-line-ski-bag-2025__33617.1738131402.500.659.jpg?c=2",
-    "price": 83.99,
-    "meta_keywords": "Line,  Ski,  Bag,  2025",
-    "detected_rows": [
-      "line",
-      "ski",
-      "bag",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "bag",
-    "bucket": "bag"
   },
   {
     "id": 107510,
@@ -35728,26 +34441,6 @@
       "volition",
       "womens",
       "pant",
-      "2024"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 110006,
-    "name": "Rab Khroma Volition Womens Jacket 2024",
-    "url": "/rab-khroma-volition-womens-jacket-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/110006/images/201836/2024-rab-khroma-volition-womens-jacket-patriot-blue__29807.1768038308.500.659.jpg?c=2",
-    "price": 495,
-    "meta_keywords": "Rab,  Khroma,  Volition,  Womens,  Jacket,  2024",
-    "detected_rows": [
-      "rab",
-      "khroma",
-      "volition",
-      "womens",
-      "jacket",
       "2024"
     ],
     "gender": "womens",
@@ -37702,26 +36395,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 111997,
-    "name": "Anon Windham WaveCel JR Helmet 2023",
-    "url": "/anon-windham-wavecel-jr-helmet-2023/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/111997/images/206993/2023-anon-windham-wavecel-junior-flora%252520pink__02542.1748886214.500.659.jpg?c=2",
-    "price": 120,
-    "meta_keywords": "Anon,  Windham,  WaveCel,  JR,  Helmet,  2023",
-    "detected_rows": [
-      "anon",
-      "windham",
-      "wavecel",
-      "jr",
-      "helmet",
-      "2023"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 112022,
     "name": "Atomic Hawx Magna 120 S GW Ski Boots 2025",
     "url": "/atomic-hawx-magna-120-s-gw-ski-boots-2025/",
@@ -37861,33 +36534,6 @@
     "sport": "other",
     "type": "pant",
     "bucket": "pant"
-  },
-  {
-    "id": 112176,
-    "name": "Dynastar E Lite 5 Womens Skis w/ Xpress 11 GW BK/SPKL Bindings 2024",
-    "url": "/dynastar-e-lite-5-womens-skis-w-xpress-11-gw-bk-spkl-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112176/images/207354/2024-dynastar-e-lite-w-xpress-11-gw-blk-spkl__14939.1748883543.500.659.jpg?c=2",
-    "price": 449.99,
-    "meta_keywords": "Dynastar,  E,  Lite,  5,  Womens,  Skis,  w/,  Xpress,  11,  GW,  BK/SPKL,  Bindings,  2024",
-    "detected_rows": [
-      "dynastar",
-      "e",
-      "lite",
-      "5",
-      "womens",
-      "skis",
-      "w/",
-      "xpress",
-      "11",
-      "gw",
-      "bk/spkl",
-      "bindings",
-      "2024"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 112253,
@@ -38182,19 +36828,16 @@
   },
   {
     "id": 112487,
-    "name": "Dynastar SG FIS WC Universal Warm Base Ski 2015",
+    "name": "Dynastar SG FIS WC Ski 2015",
     "url": "/2015-dynastar-sg-fis-wc-universal-warm-base-ski/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/112487/images/207956/2015-dynastar-sg-fis-wc-ski__27200.1758785614.500.659.jpg?c=2",
     "price": 250,
-    "meta_keywords": "Dynastar,  SG,  FIS,  WC,  Universal,  Warm,  Base,  Ski,  2015",
+    "meta_keywords": "Dynastar,  SG,  FIS,  WC,  Ski,  2015",
     "detected_rows": [
       "dynastar",
       "sg",
       "fis",
       "wc",
-      "universal",
-      "warm",
-      "base",
       "ski",
       "2015"
     ],
@@ -43781,26 +42424,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 113850,
-    "name": "Poc POCito Opsin JR Goggle 2026",
-    "url": "/poc-pocito-opsin-jr-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113850/images/210349/2025-poc-pocito-opsin-2025-fluorescent-orange-goggle-w-partly-sunny-silver-lens__10489.1767097719.500.659.jpg?c=2",
-    "price": 74.99,
-    "meta_keywords": "Poc,  POCito,  Opsin,  JR,  Goggle,  2026",
-    "detected_rows": [
-      "poc",
-      "pocito",
-      "opsin",
-      "jr",
-      "goggle",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 113851,
     "name": "Poc POCito Skull JR Helmet 2026",
     "url": "/poc-pocito-skull-jr-helmet-2026/",
@@ -44207,28 +42830,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 114123,
-    "name": "Leki Forearm Protector Carbon Flex 3.0 Big 2026",
-    "url": "/leki-forearm-protector-carbon-flex-3-0-big-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114123/images/210805/2025-leki-fore-arm-protector-carbon-flex-3.0-neon-big-%25281-pair%2529-protection__06005.1750953448.500.659.jpg?c=2",
-    "price": 549.99,
-    "meta_keywords": "Leki,  Forearm,  Protector,  Carbon,  Flex,  3.0,  Big,  2026",
-    "detected_rows": [
-      "leki",
-      "forearm",
-      "protector",
-      "carbon",
-      "flex",
-      "3.0",
-      "big",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
   },
   {
     "id": 114124,
@@ -46741,27 +45342,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 114390,
-    "name": "K2 Omen 90 W Womens Skis 2026",
-    "url": "/k2-omen-90-w-womens-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114390/images/222597/2026-lifestyle-k2-omen-90-w__60068.1768041925.500.659.jpg?c=2",
-    "price": 599.99,
-    "meta_keywords": "K2,  Omen,  90,  W,  Womens,  Skis,  2026",
-    "detected_rows": [
-      "k2",
-      "omen",
-      "90",
-      "w",
-      "womens",
-      "skis",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 114391,
@@ -50091,29 +48671,6 @@
       "2026"
     ],
     "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 114859,
-    "name": "Lange Shadow 95 MV GW Womens Ski Boots 2026",
-    "url": "/lange-shadow-95-w-mv-gw-womens-ski-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114859/images/212017/2026-lange-shadow-95-w-mv-gw-ski-boots__01786.1769443515.500.659.jpg?c=2",
-    "price": 649.99,
-    "meta_keywords": "Lange,  Shadow,  95,  MV,  GW,  Womens,  Ski,  Boots,  2026",
-    "detected_rows": [
-      "lange",
-      "shadow",
-      "95",
-      "mv",
-      "gw",
-      "womens",
-      "ski",
-      "boots",
-      "2026"
-    ],
-    "gender": "womens",
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
@@ -55092,26 +53649,6 @@
     "bucket": "ski"
   },
   {
-    "id": 115497,
-    "name": "Oakley MOD BC MIPS Helmet 2026",
-    "url": "/oakley-mod-bc-mips-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115497/images/212984/2025-oakley-mod-bc-matte-black__69729.1755100349.500.659.jpg?c=2",
-    "price": 251.99,
-    "meta_keywords": "Oakley,  MOD,  BC,  MIPS,  Helmet,  2026",
-    "detected_rows": [
-      "oakley",
-      "mod",
-      "bc",
-      "mips",
-      "helmet",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 115498,
     "name": "Salomon S/Pro Supra BOA 120 GW Ski Boots 2026",
     "url": "/salomon-s-pro-supra-boa-120-gw-ski-boots-2026/",
@@ -55637,26 +54174,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 115531,
-    "name": "Salomon S/RACE PRIME SL Skis 2026",
-    "url": "/salomon-s-race-prime-sl-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115531/images/213039/2025-salomon-s-race-prime-sl-skis__90958.1755100423.500.659.jpg?c=2",
-    "price": 959.99,
-    "meta_keywords": "Salomon,  S/RACE,  PRIME,  SL,  Skis,  2026",
-    "detected_rows": [
-      "salomon",
-      "s/race",
-      "prime",
-      "sl",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 115533,
     "name": "Atomic Redster Pack 80L 2026",
     "url": "/atomic-redster-pack-80l-2026/",
@@ -56092,28 +54609,6 @@
     "sport": "snowboard",
     "type": "snowboard",
     "bucket": "snowboard"
-  },
-  {
-    "id": 115582,
-    "name": "Jones Kids Happy Mountain JR Snowboard Package 2026",
-    "url": "/jones-kids-happy-mountain-jr-snowboard-package-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115582/images/213100/2026-jones-kids-happy-mountain-jr-snowboard-package__23437.1755114846.500.659.jpg?c=2",
-    "price": 419.99,
-    "meta_keywords": "Jones,  Kids,  Happy,  Mountain,  JR,  Snowboard,  Package,  2026",
-    "detected_rows": [
-      "jones",
-      "kids",
-      "happy",
-      "mountain",
-      "jr",
-      "snowboard",
-      "package",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 115583,
@@ -57038,27 +55533,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 115647,
-    "name": "Salomon Oh Yeah Grom JR Snowboard 2026",
-    "url": "/salomon-oh-yeah-grom-jr-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115647/images/213220/2026-salomon-oh-yeah-grom-snowboard__37100.1764299799.500.659.jpg?c=2",
-    "price": 329.99,
-    "meta_keywords": "Salomon,  Oh,  Yeah,  Grom,  JR,  Snowboard,  2026",
-    "detected_rows": [
-      "salomon",
-      "oh",
-      "yeah",
-      "grom",
-      "jr",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 115650,
     "name": "Salomon Grace JR Snowboard 2026",
     "url": "/salomon-grace-jr-snowboard-2026/",
@@ -57600,26 +56074,6 @@
       "2026"
     ],
     "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 115684,
-    "name": "Salomon No Drama Womens Snowboard 2026",
-    "url": "/salomon-no-drama-womens-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115684/images/213261/2026-salomon-no-drama-snowboard__32042.1755115131.500.659.jpg?c=2",
-    "price": 384.99,
-    "meta_keywords": "Salomon,  No,  Drama,  Womens,  Snowboard,  2026",
-    "detected_rows": [
-      "salomon",
-      "no",
-      "drama",
-      "womens",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
@@ -59295,27 +57749,6 @@
       "fleece",
       "womens",
       "pant",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 115815,
-    "name": "Burton Crown Weatherproof Womens Pullover Fleece 2026",
-    "url": "/burton-crown-weatherproof-womens-pullover-fleece-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115815/images/213556/burton-crown-weatherproof-pullover-fleece-2026-city-streets-lifestyle__25107.1762269082.500.659.jpg?c=2",
-    "price": 124.99,
-    "meta_keywords": "Burton,  Crown,  Weatherproof,  Womens,  Pullover,  Fleece,  2026",
-    "detected_rows": [
-      "burton",
-      "crown",
-      "weatherproof",
-      "womens",
-      "pullover",
-      "fleece",
       "2026"
     ],
     "gender": "womens",
@@ -61531,25 +59964,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 115928,
-    "name": "Burton Warmest Junior Mitten 2026",
-    "url": "/burton-warmest-junior-mitten-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115928/images/213815/burton-warmest-mitten-2026-true-black__88419.1755202280.500.659.jpg?c=2",
-    "price": 89.99,
-    "meta_keywords": "Burton,  Warmest,  Junior,  Mitten,  2026",
-    "detected_rows": [
-      "burton",
-      "warmest",
-      "junior",
-      "mitten",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 115929,
     "name": "Burton [ak] Acamar Gore-Tex Pro 3L Mens Bib Pant 2026",
     "url": "/burton-ak-acamar-gore-tex-pro-3l-mens-bib-pant-2026/",
@@ -62664,26 +61078,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 116223,
-    "name": "Union Flite Mens Snowboard Bindings 2026",
-    "url": "/union-flite-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116223/images/214379/2026-union-flite-black-snowboard-bindings__30312.1767812371.500.659.jpg?c=2",
-    "price": 199.99,
-    "meta_keywords": "Union,  Flite,  Mens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "union",
-      "flite",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 116224,
     "name": "Union Juliet Womens Snowboard Bindings 2026",
     "url": "/union-juliet-womens-snowboard-bindings-2026/",
@@ -63530,26 +61924,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 116335,
-    "name": "Salomon Sentry Pro Sigma Goggle 2026",
-    "url": "/salomon-sentry-pro-sigma-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116335/images/214562/2026-salomon-sentry-pro-sigma-silver-metal-w-sigma-gun-metal-sigma-light-blue__45592.1766196079.500.659.jpg?c=2",
-    "price": 159.99,
-    "meta_keywords": "Salomon,  Sentry,  Pro,  Sigma,  Goggle,  2026",
-    "detected_rows": [
-      "salomon",
-      "sentry",
-      "pro",
-      "sigma",
-      "goggle",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "goggle",
-    "bucket": "goggle"
-  },
-  {
     "id": 116337,
     "name": "Salomon S/View 3 Photo Goggle 2026",
     "url": "/salomon-s-view-3-photo-goggle-2026/",
@@ -63860,26 +62234,6 @@
       "2026"
     ],
     "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 116430,
-    "name": "Lib Tech Glider Womens Snowboard 2026",
-    "url": "/lib-tech-glider-womens-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116430/images/219709/2026-libtech-glider-lifestyle-image__32024.1759876015.500.659.jpg?c=2",
-    "price": 599.99,
-    "meta_keywords": "Lib,  Tech,  Glider,  Womens,  Snowboard,  2026",
-    "detected_rows": [
-      "lib",
-      "tech",
-      "glider",
-      "womens",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
@@ -65289,26 +63643,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 116567,
-    "name": "Sweet Back Protector Vest 2.0 2026",
-    "url": "/sweet-back-protector-vest-2-0-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116567/images/214937/sweet-2026-back-protector-vest-2.0__58935.1757002859.500.659.jpg?c=2",
-    "price": 229.99,
-    "meta_keywords": "Sweet,  Back,  Protector,  Vest,  2.0,  2026",
-    "detected_rows": [
-      "sweet",
-      "back",
-      "protector",
-      "vest",
-      "2.0",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
   },
   {
     "id": 116568,
@@ -67148,25 +65482,6 @@
     "sport": "other",
     "type": "pant",
     "bucket": "pant"
-  },
-  {
-    "id": 116698,
-    "name": "Buff Windproof Adult Neckwear 2026",
-    "url": "/buff-windproof-adult-neckwear-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116698/images/215204/2025-buff-windproof-adult-solid-black-neckwear__22182.1757090167.500.659.jpg?c=2",
-    "price": 55,
-    "meta_keywords": "Buff,  Windproof,  Adult,  Neckwear,  2026",
-    "detected_rows": [
-      "buff",
-      "windproof",
-      "adult",
-      "neckwear",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
   },
   {
     "id": 116699,
@@ -70551,25 +68866,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 116922,
-    "name": "Patagonia SnowDrifter Adult Beanie 2026",
-    "url": "/patagonia-snowdrifter-adult-beanie-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116922/images/215746/2026-patagonia-snowdrifter-adult-black-beanie__44148.1757104330.500.659.jpg?c=2",
-    "price": 55,
-    "meta_keywords": "Patagonia,  SnowDrifter,  Adult,  Beanie,  2026",
-    "detected_rows": [
-      "patagonia",
-      "snowdrifter",
-      "adult",
-      "beanie",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 116924,
     "name": "Patagonia PowSlayer Adult Beanie 2026",
     "url": "/patagonia-powslayer-adult-beanie-2026/",
@@ -72908,27 +71204,6 @@
     "bucket": "glove"
   },
   {
-    "id": 117072,
-    "name": "Icebreaker Merino 200 Oasis Adult Beanie 2026",
-    "url": "/icebreaker-merino-200-oasis-adult-beanie-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117072/images/216051/2026%252520icebreaker%252520merino%252520200%252520oases%252520adult%252520beanie%252520black%252520-%252520onmodel__27544.1757104780.500.659.jpg?c=2",
-    "price": 38,
-    "meta_keywords": "Icebreaker,  Merino,  200,  Oasis,  Adult,  Beanie,  2026",
-    "detected_rows": [
-      "icebreaker",
-      "merino",
-      "200",
-      "oasis",
-      "adult",
-      "beanie",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 117074,
     "name": "Icebreaker Merino 260 Apex Adult Chute 2026",
     "url": "/icebreaker-merino-260-apex-adult-chute-2026/",
@@ -74132,26 +72407,6 @@
     "sport": "ski",
     "type": "pant",
     "bucket": "pant"
-  },
-  {
-    "id": 117134,
-    "name": "Karbon Solitude GS Adult Suit 2026",
-    "url": "/karbon-solitude-gs-adult-suit-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117134/images/216160/2026%252520karbon%252520solitude%252520gs%252520adult%252520j%252520suit__87799.1757104948.500.659.jpg?c=2",
-    "price": 800,
-    "meta_keywords": "Karbon,  Solitude,  GS,  Adult,  Suit,  2026",
-    "detected_rows": [
-      "karbon",
-      "solitude",
-      "gs",
-      "adult",
-      "suit",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "boot",
-    "bucket": "other"
   },
   {
     "id": 117135,
@@ -75959,25 +74214,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 117318,
-    "name": "Bula Sherpa Womens Mitt 2026",
-    "url": "/bula-sherpa-womens-mitt-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117318/images/216597/2026-bula-sherpa-womens-mitt-white__21589.1757365456.500.659.jpg?c=2",
-    "price": 30,
-    "meta_keywords": "Bula,  Sherpa,  Womens,  Mitt,  2026",
-    "detected_rows": [
-      "bula",
-      "sherpa",
-      "womens",
-      "mitt",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "mitt",
-    "bucket": "mitt"
-  },
-  {
     "id": 117321,
     "name": "Bula Rainbow Junior Base Layer Set 2026",
     "url": "/bula-rainbow-junior-base-layer-set-2026/",
@@ -76055,27 +74291,6 @@
       "2026"
     ],
     "gender": "kids",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 117328,
-    "name": "Bula Soft Lux Adult Convertible Balaclava 2026",
-    "url": "/bula-soft-lux-adult-convertible-balaclava-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117328/images/216645/2026-bula-soft-lux-adult-convertible-balaclava-light-heather-grey__02527.1770080796.500.659.jpg?c=2",
-    "price": 30,
-    "meta_keywords": "Bula,  Soft,  Lux,  Adult,  Convertible,  Balaclava,  2026",
-    "detected_rows": [
-      "bula",
-      "soft",
-      "lux",
-      "adult",
-      "convertible",
-      "balaclava",
-      "2026"
-    ],
-    "gender": "womens",
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
@@ -76945,25 +75160,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 117379,
-    "name": "Howl Shell Adult Pant 2026",
-    "url": "/howl-shell-adult-pant-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117379/images/220893/howl-shell-adult-black-pant-2026-action__77279.1762298181.500.659.jpg?c=2",
-    "price": 290,
-    "meta_keywords": "Howl,  Shell,  Adult,  Pant,  2026",
-    "detected_rows": [
-      "howl",
-      "shell",
-      "adult",
-      "pant",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 117380,
     "name": "Howl Polar Adult Mitt 2026",
     "url": "/howl-polar-adult-mitt-2026/",
@@ -77409,27 +75605,6 @@
     "sport": "snowboard",
     "type": "base_layer",
     "bucket": "base_layer"
-  },
-  {
-    "id": 117409,
-    "name": "Krimson Klover Graffiti Girls Womens Beanie 2026",
-    "url": "/krimson-klover-graffiti-girls-womens-beanie-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117409/images/216849/krimson-klover-graffiti-girls-wmn-multi-beanie-2026__61655.1757365741.500.659.jpg?c=2",
-    "price": 40,
-    "meta_keywords": "Krimson,  Klover,  Graffiti,  Girls,  Womens,  Beanie,  2026",
-    "detected_rows": [
-      "krimson",
-      "klover",
-      "graffiti",
-      "girls",
-      "womens",
-      "beanie",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 117410,
@@ -80336,26 +78511,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 117684,
-    "name": "Armada ARW 94 Womens Skis 2026",
-    "url": "/armada-arw-94-womens-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117684/images/222319/2026-armada-lifestyle-arw-94__10514.1768240820.500.659.jpg?c=2",
-    "price": 699.99,
-    "meta_keywords": "Armada,  ARW,  94,  Womens,  Skis,  2026",
-    "detected_rows": [
-      "armada",
-      "arw",
-      "94",
-      "womens",
-      "skis",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 117686,
     "name": "Armada N Strive 14 GW Ski Bindings 2026",
     "url": "/armada-n-strive-14-gw-ski-bindings-2026/",
@@ -80866,28 +79021,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 117792,
-    "name": "Anon M5 Goggle + MFI Face Mask 2026",
-    "url": "/anon-m5-goggle-mfi-face-mask-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117792/images/217536/2026-anon-m5-goggle-smoke-perceive-sunny-onyx-1__88110.1764734176.500.659.jpg?c=2",
-    "price": 389.99,
-    "meta_keywords": "Anon,  M5,  Goggle,  +,  MFI,  Face,  Mask,  2026",
-    "detected_rows": [
-      "anon",
-      "m5",
-      "goggle",
-      "+",
-      "mfi",
-      "face",
-      "mask",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 117794,
@@ -81505,25 +79638,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 117842,
-    "name": "Toko All-In-One Universal 120g 2026",
-    "url": "/toko-all-in-one-universal-120g-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117842/images/217625/toko-all-in-one-universal-120g-2025__70347.1757959666.500.659.jpg?c=2",
-    "price": 29.99,
-    "meta_keywords": "Toko,  All-In-One,  Universal,  120g,  2026",
-    "detected_rows": [
-      "toko",
-      "all-in-one",
-      "universal",
-      "120g",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
   },
   {
     "id": 117843,
@@ -84608,27 +82722,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 118144,
-    "name": "Salomon Oh Yeah Grom JR Snowboard 2025",
-    "url": "/salomon-oh-yeah-grom-jr-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118144/images/218167/2025-salomon-oh%252520yeah-grom-snowboard__72200.1758307236.500.659.jpg?c=2",
-    "price": 229.99,
-    "meta_keywords": "Salomon,  Oh,  Yeah,  Grom,  JR,  Snowboard,  2025",
-    "detected_rows": [
-      "salomon",
-      "oh",
-      "yeah",
-      "grom",
-      "jr",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
     "id": 118154,
     "name": "Indyeva Selimut Womens Full Zip 2026",
     "url": "/indyeva-selimut-womens-full-zip-2026/",
@@ -86262,26 +84355,6 @@
     "bucket": "other"
   },
   {
-    "id": 118301,
-    "name": "Oakley Fall Line L Goggle 2025",
-    "url": "/oakley-fall-line-l-goggle-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118301/images/218463/2025-oakley-fall-line-l-goggle-bengal-blue-w-prizm-snow-sapphire-iridium__26519.1767825874.500.659.jpg?c=2",
-    "price": 155.39,
-    "meta_keywords": "Oakley,  Fall,  Line,  L,  Goggle,  2025",
-    "detected_rows": [
-      "oakley",
-      "fall",
-      "line",
-      "l",
-      "goggle",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 118302,
     "name": "Oakley Flight Tracker L Goggle 2025",
     "url": "/oakley-flight-tracker-l-goggle-2025/",
@@ -86590,26 +84663,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 118323,
-    "name": "Arc'teryx Rho Womens Zip Neck 2026",
-    "url": "/arc-teryx-rho-womens-zip-neck-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118323/images/218510/2025-arc%252527teryx-rho-womens-zip-neck-black-onmodel__65687.1762457539.500.659.jpg?c=2",
-    "price": 140,
-    "meta_keywords": "Arc'teryx,  Rho,  Womens,  Zip,  Neck,  2026",
-    "detected_rows": [
-      "arc'teryx",
-      "rho",
-      "womens",
-      "zip",
-      "neck",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "base_layer",
-    "bucket": "base_layer"
   },
   {
     "id": 118325,
@@ -87025,25 +85078,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 118352,
-    "name": "Rossignol Diva Womens Snowboard 2026",
-    "url": "/rossignol-diva-womens-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118352/images/218566/2026-rossignol-diva-womens-snowboard__66783.1758802696.500.659.jpg?c=2",
-    "price": 629.99,
-    "meta_keywords": "Rossignol,  Diva,  Womens,  Snowboard,  2026",
-    "detected_rows": [
-      "rossignol",
-      "diva",
-      "womens",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 118353,
     "name": "Rossignol Viper Mens Snowboard Bindings 2026",
     "url": "/rossignol-viper-snowboard-bindings-2026/",
@@ -87412,26 +85446,6 @@
       "chrome",
       "file",
       "8\"",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
-    "id": 118373,
-    "name": "Kuu Cobra Coiler Lock III 2026",
-    "url": "/kuu-cobra-coiler-lock-iii-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118373/images/218588/24002410-kuu-cobra-coiler-lock-iii__60904.1758802722.500.659.jpg?c=2",
-    "price": 29.99,
-    "meta_keywords": "Kuu,  Cobra,  Coiler,  Lock,  III,  2026",
-    "detected_rows": [
-      "kuu",
-      "cobra",
-      "coiler",
-      "lock",
-      "iii",
       "2026"
     ],
     "gender": "unisex",
@@ -88216,25 +86230,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 118435,
-    "name": "Arc'teryx Atom Mens Jacket 2026",
-    "url": "/arc-teryx-atom-mens-jacket-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118435/images/218687/arcteryx-atom-jacket-2026-black__76910.1758831841.500.659.jpg?c=2",
-    "price": 272,
-    "meta_keywords": "Arc'teryx,  Atom,  Mens,  Jacket,  2026",
-    "detected_rows": [
-      "arc'teryx",
-      "atom",
-      "mens",
-      "jacket",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 118436,
@@ -89753,26 +87748,6 @@
     "bucket": "sock"
   },
   {
-    "id": 118534,
-    "name": "Crab Grab Mini Shark Teeth 2026",
-    "url": "/crab-grab-mini-shark-teeth-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118534/images/218866/crab-grab-mini-shark-teeth-clear__55571.1759252449.500.659.jpg?c=2",
-    "price": 11.99,
-    "meta_keywords": "Crab,  Grab,  Mini,  Shark,  Teeth,  2026",
-    "detected_rows": [
-      "crab",
-      "grab",
-      "mini",
-      "shark",
-      "teeth",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 118535,
     "name": "Crab Grab Shark Teeth 2026",
     "url": "/crab-grab-shark-teeth-2026/",
@@ -90060,26 +88035,6 @@
       "2026"
     ],
     "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 118564,
-    "name": "Volcom Snow Creature Junior Hood 2026",
-    "url": "/volcom-snow-creature-junior-hood-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118564/images/218916/volcom-snow-creature-hood-2026-henna__06200.1759266899.500.659.jpg?c=2",
-    "price": 38,
-    "meta_keywords": "Volcom,  Snow,  Creature,  Junior,  Hood,  2026",
-    "detected_rows": [
-      "volcom",
-      "snow",
-      "creature",
-      "junior",
-      "hood",
-      "2026"
-    ],
-    "gender": "kids",
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
@@ -95084,25 +93039,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 118870,
-    "name": "Salomon Hermitage Adult Beanie 2026",
-    "url": "/salomon-hermitage-adult-beanie-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118870/images/219645/salomon-hermitage-beanie-2026-whisper-white__27395.1767825711.500.659.jpg?c=2",
-    "price": 40,
-    "meta_keywords": "Salomon,  Hermitage,  Adult,  Beanie,  2026",
-    "detected_rows": [
-      "salomon",
-      "hermitage",
-      "adult",
-      "beanie",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 118871,
     "name": "Salomon Venom Mens Pant 2026",
     "url": "/salomon-venom-mens-pant-2026/",
@@ -97992,26 +95928,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 119123,
-    "name": "Bula Power Fleece Adult Gaiter 2025",
-    "url": "/bula-power-fleece-adult-gaiter-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119123/images/220259/bula-power-fleece-adult-purple-gaiter-2025__52984.1760992090.500.659.jpg?c=2",
-    "price": 15,
-    "meta_keywords": "Bula,  Power,  Fleece,  Adult,  Gaiter,  2025",
-    "detected_rows": [
-      "bula",
-      "power",
-      "fleece",
-      "adult",
-      "gaiter",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 119124,
     "name": "Bula Therma-Comfort Sharp Adult Balaclava 2025",
     "url": "/bula-therma-comfort-sharp-adult-balaclava-2025/",
@@ -98295,26 +96211,6 @@
     "sport": "snowboard",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 119147,
-    "name": "Volcom V.Snow Over Womens Mitt 2026",
-    "url": "/volcom-v-snow-over-womens-mitt-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119147/images/220299/volcom-vsnow-over-mitt-2026-lavenderaura__35459.1761078909.500.659.jpg?c=2",
-    "price": 65,
-    "meta_keywords": "Volcom,  V.Snow,  Over,  Womens,  Mitt,  2026",
-    "detected_rows": [
-      "volcom",
-      "v.snow",
-      "over",
-      "womens",
-      "mitt",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "mitt",
-    "bucket": "mitt"
   },
   {
     "id": 119150,
@@ -99811,27 +97707,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 119250,
-    "name": "Reusch Down Spirit Gore-Tex Mens Mitten 2026",
-    "url": "/reusch-down-spirit-gore-tex-mens-mitten-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119250/images/220479/reusch-down-spirit-gtx-mens-black-mitten-2025__94937.1761267531.500.659.jpg?c=2",
-    "price": 220,
-    "meta_keywords": "Reusch,  Down,  Spirit,  Gore-Tex,  Mens,  Mitten,  2026",
-    "detected_rows": [
-      "reusch",
-      "down",
-      "spirit",
-      "gore-tex",
-      "mens",
-      "mitten",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 119257,
     "name": "Burton Ion Step On Mens Snowboard Boots 2025",
     "url": "/burton-ion-step-on-mens-snowboard-boots-2025/",
@@ -99890,26 +97765,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 119260,
-    "name": "K2 Bedford Womens Snowboard Bindings 2026",
-    "url": "/k2-bedford-womens-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119260/images/222285/2026-k2-lifestyle-bedford__06856.1767736226.500.659.jpg?c=2",
-    "price": 259.99,
-    "meta_keywords": "K2,  Bedford,  Womens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "k2",
-      "bedford",
-      "womens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 119261,
@@ -100574,7 +98429,7 @@
     "name": "Ivanhoe Morel Womens Hood 2026",
     "url": "/ivanhoe-morel-womens-hood-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/119338/images/221138/ivanhoe-morel-light-silver-grey-hood-2026-womens__84041.1763079908.500.659.jpg?c=2",
-    "price": 319.99,
+    "price": 363,
     "meta_keywords": "Ivanhoe,  Morel,  Womens,  Hood,  2026",
     "detected_rows": [
       "ivanhoe",
@@ -100915,55 +98770,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 119669,
-    "name": "K2 Medium Snowboard w/ K2 Formula Snowboard Bindings Package 2026",
-    "url": "/k2-medium-snowboard-w-k2-formula-snowboard-bindings-package-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119669/images/221813/k2%252520formula%252520silv%2525202026__85742.1767812303.500.659.jpg?c=2",
-    "price": 827.98,
-    "meta_keywords": "K2,  Medium,  Snowboard,  w/,  K2,  Formula,  Snowboard,  Bindings,  Package,  2026",
-    "detected_rows": [
-      "k2",
-      "medium",
-      "snowboard",
-      "w/",
-      "k2",
-      "formula",
-      "snowboard",
-      "bindings",
-      "package",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 119670,
-    "name": "K2 World Peace Snowboard w/ K2 Formula Snowboard Bindings Package 2026",
-    "url": "/k2-world-peace-snowboard-w-k2-formula-snowboard-bindings-package-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119670/images/221816/k2%252520formula%252520silv%2525202026__86782.1767812289.500.659.jpg?c=2",
-    "price": 746.98,
-    "meta_keywords": "K2,  World,  Peace,  Snowboard,  w/,  K2,  Formula,  Snowboard,  Bindings,  Package,  2026",
-    "detected_rows": [
-      "k2",
-      "world",
-      "peace",
-      "snowboard",
-      "w/",
-      "k2",
-      "formula",
-      "snowboard",
-      "bindings",
-      "package",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 119671,
     "name": "K2 Hypnotist Snowboard w/ K2 Edition Snowboard Bindings Package 2026",
     "url": "/k2-hypnotist-snowboard-w-k2-edition-snowboard-bindings-package-2026/",
@@ -100983,32 +98789,6 @@
       "2026"
     ],
     "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 119672,
-    "name": "K2 Dreamsicle Womens Snowboard w/ K2 Bedford Womens Snowboard Bindings Package 2026",
-    "url": "/k2-dreamsicle-womens-snowboard-w-k2-bedford-womens-snowboard-bindings-package-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119672/images/221822/2026-k2-bedford-white-womens-snowboard-bindings__68290.1767736264.500.659.jpg?c=2",
-    "price": 683.98,
-    "meta_keywords": "K2,  Dreamsicle,  Womens,  Snowboard,  w/,  K2,  Bedford,  Womens,  Snowboard,  Bindings,  Package,  2026",
-    "detected_rows": [
-      "k2",
-      "dreamsicle",
-      "womens",
-      "snowboard",
-      "w/",
-      "k2",
-      "bedford",
-      "womens",
-      "snowboard",
-      "bindings",
-      "package",
-      "2026"
-    ],
-    "gender": "womens",
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
@@ -101389,48 +99169,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 119721,
-    "name": "Cotopaxi Kapai Del Dia Hip Pack 1.5L 2026",
-    "url": "/cotopaxi-kapai-del-dia-hip-pack-1-5l-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119721/images/221951/cotopaxi-kapai-1-5l-del-dia-hip-pack-2026__05108.1764270847.500.659.jpg?c=2",
-    "price": 40,
-    "meta_keywords": "Cotopaxi,  Kapai,  Del,  Dia,  Hip,  Pack,  1.5L,  2026",
-    "detected_rows": [
-      "cotopaxi",
-      "kapai",
-      "del",
-      "dia",
-      "hip",
-      "pack",
-      "1.5l",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
-    "id": 119723,
-    "name": "Cotopaxi Bataan Fanny Pack 3L 2026",
-    "url": "/cotopaxi-bataan-fanny-pack-3l-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119723/images/221956/cotopaxi-bataan-3l-del-dia-fanny-pack-2026-open__19849.1764270850.500.659.jpg?c=2",
-    "price": 45,
-    "meta_keywords": "Cotopaxi,  Bataan,  Fanny,  Pack,  3L,  2026",
-    "detected_rows": [
-      "cotopaxi",
-      "bataan",
-      "fanny",
-      "pack",
-      "3l",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
   },
   {
     "id": 119724,
@@ -101936,26 +99674,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 119755,
-    "name": "Patagonia Classic Retro-X Womens Vest 2026",
-    "url": "/patagonia-classic-retro-x-womens-vest-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119755/images/222025/2026-patagonia-classic-retro-x-river-river-amanita-red-womens-vest__78684.1764271413.500.659.jpg?c=2",
-    "price": 225,
-    "meta_keywords": "Patagonia,  Classic,  Retro-X,  Womens,  Vest,  2026",
-    "detected_rows": [
-      "patagonia",
-      "classic",
-      "retro-x",
-      "womens",
-      "vest",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 119757,
@@ -102910,27 +100628,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 119809,
-    "name": "Krimson Klover Multi Skiers Womens Beanie 2026",
-    "url": "/krimson-klover-multi-skiers-womens-beanie-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119809/images/222119/krimson-klover-multi-skiers-wmn-black-beanie-2026__70692.1764271821.500.659.jpg?c=2",
-    "price": 40,
-    "meta_keywords": "Krimson,  Klover,  Multi,  Skiers,  Womens,  Beanie,  2026",
-    "detected_rows": [
-      "krimson",
-      "klover",
-      "multi",
-      "skiers",
-      "womens",
-      "beanie",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 119811,
     "name": "Krimson Klover Sugarbush Womens Turtleneck 2026",
     "url": "/krimson-klover-sugarbush-womens-turtleneck-2026/",
@@ -103665,26 +101362,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 119880,
-    "name": "Bula Therma-Comfort Sharp Junior Balaclava 2025",
-    "url": "/bula-therma-comfort-sharp-junior-balaclava-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119880/images/222496/bula-therma-comfort-sharp-jr-mont-black-balaclava-2025__18406.1764800032.500.659.jpg?c=2",
-    "price": 26,
-    "meta_keywords": "Bula,  Therma-Comfort,  Sharp,  Junior,  Balaclava,  2025",
-    "detected_rows": [
-      "bula",
-      "therma-comfort",
-      "sharp",
-      "junior",
-      "balaclava",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 119881,
@@ -105082,30 +102759,6 @@
     "bucket": "ski"
   },
   {
-    "id": 119987,
-    "name": "Arc'teryx Kragg SL Cotton Bird Word Mens Short Sleeve 2026",
-    "url": "/arc-teryx-kragg-sl-cotton-bird-word-mens-short-sleeve-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119987/images/222848/arcteryx-kragg-sl-cotton-bird-word-short-sleeve-2026-24k-black__10123.1765840543.500.659.jpg?c=2",
-    "price": 80,
-    "meta_keywords": "Arc'teryx,  Kragg,  SL,  Cotton,  Bird,  Word,  Mens,  Short,  Sleeve,  2026",
-    "detected_rows": [
-      "arc'teryx",
-      "kragg",
-      "sl",
-      "cotton",
-      "bird",
-      "word",
-      "mens",
-      "short",
-      "sleeve",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "binding",
-    "bucket": "other"
-  },
-  {
     "id": 119992,
     "name": "Jones Kids Eclipse JR Snowboard Bindings 2026",
     "url": "/jones-kids-eclipse-jr-snowboard-bindings-2026/",
@@ -105697,26 +103350,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 120042,
-    "name": "Smartwool Thermal Merino Adult Balaclava 2026",
-    "url": "/smartwool-thermal-merino-adult-balaclava-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120042/images/222946/smartwool-thermal-merino-adult-winter-moss-balaclava-2026-onmodel__29043.1766166497.500.659.jpg?c=2",
-    "price": 50,
-    "meta_keywords": "Smartwool,  Thermal,  Merino,  Adult,  Balaclava,  2026",
-    "detected_rows": [
-      "smartwool",
-      "thermal",
-      "merino",
-      "adult",
-      "balaclava",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 120044,
     "name": "Smartwool Thermal Merino Reversible Cuffed Adult Beanie 2026",
     "url": "/smartwool-thermal-merino-reversible-cuffed-adult-beanie-2026/",
@@ -106218,150 +103851,6 @@
     "bucket": "sock"
   },
   {
-    "id": 120234,
-    "name": "Cotopaxi Chiquillo Del Dia Backpack 26L 2026",
-    "url": "/cotopaxi-chiquillo-del-dia-backpack-26l-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120234/images/223267/cotopaxi-chiquillo-26l-del-dia-backpack-2026-open__79252.1767822501.500.659.jpg?c=2",
-    "price": 110,
-    "meta_keywords": "Cotopaxi,  Chiquillo,  Del,  Dia,  Backpack,  26L,  2026",
-    "detected_rows": [
-      "cotopaxi",
-      "chiquillo",
-      "del",
-      "dia",
-      "backpack",
-      "26l",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
-    "id": 120400,
-    "name": "Poc Youth VPD Air Vest 2026",
-    "url": "/poc-youth-vpd-air-vest-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120400/images/223611/2026-poc-youth-vpd-air-vest__20323.1767736238.500.659.jpg?c=2",
-    "price": 179.99,
-    "meta_keywords": "Poc,  Youth,  VPD,  Air,  Vest,  2026",
-    "detected_rows": [
-      "poc",
-      "youth",
-      "vpd",
-      "air",
-      "vest",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
-    "id": 120411,
-    "name": "2023 Burton Gore-Tex Warmest Womens True Black Mitt",
-    "url": "/2023-burton-gore-tex-warmest-womens-true-black-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120411/images/223628/2023-burton-gore-tex-warmest-womens-true-black-mitt-1__02855.1767822138.500.659.jpg?c=2",
-    "price": 179.99,
-    "meta_keywords": "2023,  Burton,  Gore-Tex,  Warmest,  Womens,  True,  Black,  Mitt",
-    "detected_rows": [
-      "2023",
-      "burton",
-      "gore-tex",
-      "warmest",
-      "womens",
-      "true",
-      "black",
-      "mitt"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 120676,
-    "name": "Oakley MOD BC Helmet 2025",
-    "url": "/oakley-mod-bc-helmet-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120676/images/224152/2025-oakley-mod-bc-matte-black__55743.1767819177.500.659.jpg?c=2",
-    "price": 188.99,
-    "meta_keywords": "Oakley,  MOD,  BC,  Helmet,  2025",
-    "detected_rows": [
-      "oakley",
-      "mod",
-      "bc",
-      "helmet",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 120691,
-    "name": "Leki WCR Venom 3D Junior Mitt 2025",
-    "url": "/leki-wcr-venom-3d-junior-mitt-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120691/images/224177/glove%252520size%252520finder%252520kids%252520en__53961.1767819163.500.659.jpg?c=2",
-    "price": 299.99,
-    "meta_keywords": "Leki,  WCR,  Venom,  3D,  Junior,  Mitt,  2025",
-    "detected_rows": [
-      "leki",
-      "wcr",
-      "venom",
-      "3d",
-      "junior",
-      "mitt",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 120771,
-    "name": "Salmon Arms Team Adult Mitt 2025",
-    "url": "/salmon-arms-team-adult-mitt-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120771/images/224393/salmon-arms-team-adult-kai-mitt-2025__03777.1767818938.500.659.jpg?c=2",
-    "price": 80,
-    "meta_keywords": "Salmon,  Arms,  Team,  Adult,  Mitt,  2025",
-    "detected_rows": [
-      "salmon",
-      "arms",
-      "team",
-      "adult",
-      "mitt",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 120912,
-    "name": "Leki Carbon 14 3D Ski Poles 2025",
-    "url": "/leki-carbon-14-3d-ski-poles-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120912/images/224679/2025-leki-carbon-14-3d-poles__42033.1767817475.500.659.jpg?c=2",
-    "price": 125.99,
-    "meta_keywords": "Leki,  Carbon,  14,  3D,  Ski,  Poles,  2025",
-    "detected_rows": [
-      "leki",
-      "carbon",
-      "14",
-      "3d",
-      "ski",
-      "poles",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "glove",
-    "bucket": "glove"
-  },
-  {
     "id": 121639,
     "name": "Burton Toe Slider 2026",
     "url": "/burton-toe-slider-2026/",
@@ -106378,27 +103867,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 121791,
-    "name": "POC Meninx RS MIPS Adult Helmet 2022",
-    "url": "/poc-meninx-rs-mips-adult-helmet-2022/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/121791/images/226337/23003409-hywhmgmt-poc-meninx-rs-mips__58323.1767814558.500.659.jpg?c=2",
-    "price": 145,
-    "meta_keywords": "POC,  Meninx,  RS,  MIPS,  Adult,  Helmet,  2022",
-    "detected_rows": [
-      "poc",
-      "meninx",
-      "rs",
-      "mips",
-      "adult",
-      "helmet",
-      "2022"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 121873,
@@ -106449,26 +103917,6 @@
     "sport": "ski",
     "type": "mitt",
     "bucket": "mitt"
-  },
-  {
-    "id": 121881,
-    "name": "Burton Gore-Tex Under Womens Mitten 2026",
-    "url": "/burton-gore-tex-under-womens-mitten-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/121881/images/226510/burton-gore-tex-under-mitten-2026-true-black__81344.1767039850.500.659.jpg?c=2",
-    "price": 99.99,
-    "meta_keywords": "Burton,  Gore-Tex,  Under,  Womens,  Mitten,  2026",
-    "detected_rows": [
-      "burton",
-      "gore-tex",
-      "under",
-      "womens",
-      "mitten",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 121883,
@@ -106717,46 +104165,6 @@
     "sport": "other",
     "type": "base_layer",
     "bucket": "base_layer"
-  },
-  {
-    "id": 121897,
-    "name": "Dakine Boot Backpack DLX 75L 2026",
-    "url": "/dakine-boot-backpack-dlx-75l-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/121897/images/226537/2026-dakine-boot-backpack-dlx-75l-port-royale__14655.1767634953.500.659.jpg?c=2",
-    "price": 139.99,
-    "meta_keywords": "Dakine,  Boot,  Backpack,  DLX,  75L,  2026",
-    "detected_rows": [
-      "dakine",
-      "boot",
-      "backpack",
-      "dlx",
-      "75l",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
-    "id": 121904,
-    "name": "Armada AK Adjustable Ski Poles 2026",
-    "url": "/armada-ak-adjustable-ski-poles-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/121904/images/226552/2026-armada-ak-adjustable-poles-blue-green__64114.1767098287.500.659.jpg?c=2",
-    "price": 159.99,
-    "meta_keywords": "Armada,  AK,  Adjustable,  Ski,  Poles,  2026",
-    "detected_rows": [
-      "armada",
-      "ak",
-      "adjustable",
-      "ski",
-      "poles",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
   },
   {
     "id": 121910,
@@ -108030,25 +105438,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 122086,
-    "name": "POC Obex MIPS Helmet 2025",
-    "url": "/poc-obex-mips-helmet-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122086/images/226898/2025-poc-obex-mips-lifestyle-image__70942.1768343739.500.659.jpg?c=2",
-    "price": 155.99,
-    "meta_keywords": "POC,  Obex,  MIPS,  Helmet,  2025",
-    "detected_rows": [
-      "poc",
-      "obex",
-      "mips",
-      "helmet",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 122087,
     "name": "Reusch Worldcup Warrior Prime Race R-TEX XT Junior Glove 2025",
     "url": "/reusch-worldcup-warrior-prime-race-r-tex-xt-junior-glove-2025/",
@@ -108111,24 +105500,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 122094,
-    "name": "Smith Daredevil Goggle 2025",
-    "url": "/smith-daredevil-goggle-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122094/images/226917/2025-smith-daredevil-2025-proper-pink-paint-brush-goggle-w-rc36-lens__77814.1770760503.500.659.jpg?c=2",
-    "price": 29.99,
-    "meta_keywords": "Smith,  Daredevil,  Goggle,  2025",
-    "detected_rows": [
-      "smith",
-      "daredevil",
-      "goggle",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 122095,
     "name": "Head Rachel White Womens Helmet 2025",
     "url": "/head-rachel-white-womens-helmet-2025/",
@@ -108187,24 +105558,6 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
-  },
-  {
-    "id": 122116,
-    "name": "POC Nexal Goggles 2025",
-    "url": "/poc-nexal-goggles-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122116/images/226961/2025-poc-nexal-goggles-lifestyle-image__69349.1769153942.500.659.jpg?c=2",
-    "price": 179.99,
-    "meta_keywords": "POC,  Nexal,  Goggles,  2025",
-    "detected_rows": [
-      "poc",
-      "nexal",
-      "goggles",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 122118,
@@ -108410,25 +105763,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 122144,
-    "name": "Crab Grab Binding Bag 2025",
-    "url": "/crab-grab-binding-bag-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122144/images/227009/2025-crab%252520grab-snowboard%252520binding%252520bag-grey__76033.1768037112.500.659.jpg?c=2",
-    "price": 29.99,
-    "meta_keywords": "Crab,  Grab,  Binding,  Bag,  2025",
-    "detected_rows": [
-      "crab",
-      "grab",
-      "binding",
-      "bag",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
   },
   {
     "id": 122152,
@@ -108730,27 +106064,6 @@
     "bucket": "mitt"
   },
   {
-    "id": 122219,
-    "name": "Dalbello DRS 60 JR Ski Boots 2023",
-    "url": "/dalbello-drs-60-jr-ski-boots-2023/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122219/images/227150/2023-dalbello-drs-60-jr-ski-boots__14357.1767112151.500.659.jpg?c=2",
-    "price": 114.99,
-    "meta_keywords": "Dalbello,  DRS,  60,  JR,  Ski,  Boots,  2023",
-    "detected_rows": [
-      "dalbello",
-      "drs",
-      "60",
-      "jr",
-      "ski",
-      "boots",
-      "2023"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 122220,
     "name": "Smith Squad Low Bridge Fit Goggle 2026",
     "url": "/smith-squad-low-bridge-fit-goggle-2026/",
@@ -108937,27 +106250,6 @@
     "bucket": "sock"
   },
   {
-    "id": 122242,
-    "name": "Electric Hex Goggle + Spare Lens 2023",
-    "url": "/electric-hex-goggle-spare-lens-2023/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122242/images/227610/2023-electric-hex-mattespeckledwhite-goldchrome-yellow-goggles__28707.1767812366.500.659.jpg?c=2",
-    "price": 68,
-    "meta_keywords": "Electric,  Hex,  Goggle,  +,  Spare,  Lens,  2023",
-    "detected_rows": [
-      "electric",
-      "hex",
-      "goggle",
-      "+",
-      "spare",
-      "lens",
-      "2023"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 122243,
     "name": "Spyder Vyper Mens Jacket 2026",
     "url": "/spyder-vyper-mens-jacket-2026/",
@@ -109073,27 +106365,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 122250,
-    "name": "Dakine NST High Roller Snowboard Bag 2026",
-    "url": "/dakine-nst-high-roller-snowboard-bag-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122250/images/227260/2026-dakine-nst-high-roller-snowboard-bag-black-coated__93182.1768501698.500.659.jpg?c=2",
-    "price": 339.99,
-    "meta_keywords": "Dakine,  NST,  High,  Roller,  Snowboard,  Bag,  2026",
-    "detected_rows": [
-      "dakine",
-      "nst",
-      "high",
-      "roller",
-      "snowboard",
-      "bag",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "snowboard",
-    "type": "glove",
-    "bucket": "glove"
-  },
-  {
     "id": 122255,
     "name": "K2 x Sean Pettit K2000 ATSB Snowboard 2026",
     "url": "/k2-x-sean-pettit-k2000-atsb-snowboard-2026/",
@@ -109167,26 +106438,6 @@
     "bucket": "mitt"
   },
   {
-    "id": 122258,
-    "name": "Cotopaxi Todo Convertible Tote 22L 2026",
-    "url": "/cotopaxi-todo-convertible-tote-22l-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122258/images/227276/cotopaxi-todo-22l-convertible-tote%2525202026-del-dia-back__50360.1767634722.500.659.jpg?c=2",
-    "price": 100,
-    "meta_keywords": "Cotopaxi,  Todo,  Convertible,  Tote,  22L,  2026",
-    "detected_rows": [
-      "cotopaxi",
-      "todo",
-      "convertible",
-      "tote",
-      "22l",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
     "id": 122260,
     "name": "Smartwool Merino Mens Boxer Brief 2026",
     "url": "/smartwool-merino-mens-boxer-brief-2026/",
@@ -109227,49 +106478,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 122262,
-    "name": "Arctica Pinnacle GS Youth Race Suit 2026",
-    "url": "/arctica-pinnacle-gs-youth-race-suit-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122262/images/227282/2026-arctica-pinnacle-gs-youth-midnight-royal-lime-race-suit__92273.1767635228.500.659.jpg?c=2",
-    "price": 640,
-    "meta_keywords": "Arctica,  Pinnacle,  GS,  Youth,  Race,  Suit,  2026",
-    "detected_rows": [
-      "arctica",
-      "pinnacle",
-      "gs",
-      "youth",
-      "race",
-      "suit",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
-    "id": 122263,
-    "name": "Arctica Black Kat GS Adult Race Suit 2026",
-    "url": "/arctica-black-kat-gs-adult-race-suit-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122263/images/227284/arctica-black-kat-gs-adult-race-suit-black-2025__04644.1767635237.500.659.jpg?c=2",
-    "price": 700,
-    "meta_keywords": "Arctica,  Black,  Kat,  GS,  Adult,  Race,  Suit,  2026",
-    "detected_rows": [
-      "arctica",
-      "black",
-      "kat",
-      "gs",
-      "adult",
-      "race",
-      "suit",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
   },
   {
     "id": 122264,
@@ -109606,27 +106814,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 122286,
-    "name": "Armada Rosalie 2L Womens Insulated Anorak 2025",
-    "url": "/armada-rosalie-2l-womens-insulated-anorak-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122286/images/227352/armada-rosalie-2l-womens-indigo-olive-safari-insulated-anorak-2025__77608.1767721682.500.659.jpg?c=2",
-    "price": 247.96,
-    "meta_keywords": "Armada,  Rosalie,  2L,  Womens,  Insulated,  Anorak,  2025",
-    "detected_rows": [
-      "armada",
-      "rosalie",
-      "2l",
-      "womens",
-      "insulated",
-      "anorak",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 122287,
     "name": "Spyder Bormio Mens Pant 2026",
     "url": "/spyder-bormio-mens-pant-2026/",
@@ -109906,27 +107093,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 122311,
-    "name": "Kuu Side Kick Pro Ski Vise 2026",
-    "url": "/kuu-side-kick-pro-ski-vise-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122311/images/227437/2023-kuu-sidekick-provice__57247.1767808775.500.659.jpg?c=2",
-    "price": 177.99,
-    "meta_keywords": "Kuu,  Side,  Kick,  Pro,  Ski,  Vise,  2026",
-    "detected_rows": [
-      "kuu",
-      "side",
-      "kick",
-      "pro",
-      "ski",
-      "vise",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
     "id": 122312,
     "name": "Dynastar Speed 363 Konect Skis w/ Xpress 11 GW Bindings 2025",
     "url": "/dynastar-speed-363-konect-skis-w-xpress-11-gw-bindings-2025/",
@@ -109950,385 +107116,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 122326,
-    "name": "Arctica Speedster Side Zip Womens Ski Pant 2026",
-    "url": "/arctica-speedster-side-zip-womens-ski-pant-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122326/images/227473/arctica-speedster-womens-black-side-zip-ski-pant-2026__34463.1767810667.500.659.jpg?c=2",
-    "price": 300,
-    "meta_keywords": "Arctica,  Speedster,  Side,  Zip,  Womens,  Ski,  Pant,  2026",
-    "detected_rows": [
-      "arctica",
-      "speedster",
-      "side",
-      "zip",
-      "womens",
-      "ski",
-      "pant",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 122357,
-    "name": "Smith Tribute Goggle 2026",
-    "url": "/smith-tribute-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122357/images/227516/2026-smith-tribute-goggle-black-w-red-sol-x-mirror__14778.1767811204.500.659.jpg?c=2",
-    "price": 69.99,
-    "meta_keywords": "Smith,  Tribute,  Goggle,  2026",
-    "detected_rows": [
-      "smith",
-      "tribute",
-      "goggle",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "goggle",
-    "bucket": "goggle"
-  },
-  {
-    "id": 122429,
-    "name": "Volcom Chaos Full Zip Boys Jacket 2026",
-    "url": "/volcom-chaos-full-zip-boys-jacket-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122429/images/227622/volcom-chaos-full-zip-jacket-2026-black__25292.1767812583.500.659.jpg?c=2",
-    "price": 190,
-    "meta_keywords": "Volcom,  Chaos,  Full,  Zip,  Boys,  Jacket,  2026",
-    "detected_rows": [
-      "volcom",
-      "chaos",
-      "full",
-      "zip",
-      "boys",
-      "jacket",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122483,
-    "name": "2023 Kombi The Edge Womens Glove",
-    "url": "/2023-kombi-the-edge-womens-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122483/images/227812/2023-kombi-the-edge-womens-glove-black-capu__83044.1767814426.500.659.jpg?c=2",
-    "price": 67.99,
-    "meta_keywords": "2023,  Kombi,  The,  Edge,  Womens,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "edge",
-      "womens",
-      "glove"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122511,
-    "name": "2023 Kombi The Everyday Womens Glove",
-    "url": "/2023-kombi-the-everyday-womens-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122511/images/227856/2023-kombi-the-everyday-womens-glove-asphalt__68175.1767814492.500.659.jpg?c=2",
-    "price": 27.99,
-    "meta_keywords": "2023,  Kombi,  The,  Everyday,  Womens,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "everyday",
-      "womens",
-      "glove"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122516,
-    "name": "POC Fornix SPIN Adult Helmet 2022",
-    "url": "/poc-fornix-spin-adult-helmet-2022/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122516/images/227864/2022-poc-fornix-spin-adult-helmet-hydrogen-white__77801.1767814503.500.659.jpg?c=2",
-    "price": 99.99,
-    "meta_keywords": "POC,  Fornix,  SPIN,  Adult,  Helmet,  2022",
-    "detected_rows": [
-      "poc",
-      "fornix",
-      "spin",
-      "adult",
-      "helmet",
-      "2022"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122518,
-    "name": "Ride Blackened Snowboard Bag 2024",
-    "url": "/ride-blackened-snowboard-bag-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122518/images/227866/2024-ride-blackened-board-bag__45311.1767814506.500.659.jpg?c=2",
-    "price": 50,
-    "meta_keywords": "Ride,  Blackened,  Snowboard,  Bag,  2024",
-    "detected_rows": [
-      "ride",
-      "blackened",
-      "snowboard",
-      "bag",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
-    "id": 122519,
-    "name": "2023 Kombi La Cushy Womens Mitt",
-    "url": "/2023-kombi-la-cushy-womens-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122519/images/227868/2023-kombi-la-cushy-womens-mitt-black-heather__79107.1767814508.500.659.jpg?c=2",
-    "price": 67.99,
-    "meta_keywords": "2023,  Kombi,  La,  Cushy,  Womens,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "la",
-      "cushy",
-      "womens",
-      "mitt"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122550,
-    "name": "2023 Kombi The Edge Womens Mitt",
-    "url": "/2023-kombi-the-edge-womens-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122550/images/227911/2023-kombi-the-edge-womens-mitt-black-capu__03502.1767814551.500.659.jpg?c=2",
-    "price": 67.99,
-    "meta_keywords": "2023,  Kombi,  The,  Edge,  Womens,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "edge",
-      "womens",
-      "mitt"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122551,
-    "name": "2023 Kombi The Womens Turtleneck",
-    "url": "/2023-kombi-the-womens-turtleneck/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122551/images/227913/2023-kombi-the-turtleneck-womens-black__85764.1767814554.500.659.jpg?c=2",
-    "price": 34.39,
-    "meta_keywords": "2023,  Kombi,  The,  Womens,  Turtleneck",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "womens",
-      "turtleneck"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
-    "id": 122555,
-    "name": "2023 Kombi The Mens Turtleneck",
-    "url": "/2023-kombi-the-mens-turtleneck/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122555/images/227918/2023-kombi-the-turtleneck-mens-heather-charcoal__83794.1767814564.500.659.jpg?c=2",
-    "price": 34.39,
-    "meta_keywords": "2023,  Kombi,  The,  Mens,  Turtleneck",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "mens",
-      "turtleneck"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
-    "id": 122559,
-    "name": "Oakley MOD1 MIPS Youth Helmet 2024",
-    "url": "/oakley-mod1-mips-youth-helmet-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122559/images/227927/2024-oakley-mod1-mips-youth-white-helmet__37475.1767814569.500.659.jpg?c=2",
-    "price": 69,
-    "meta_keywords": "Oakley,  MOD1,  MIPS,  Youth,  Helmet,  2024",
-    "detected_rows": [
-      "oakley",
-      "mod1",
-      "mips",
-      "youth",
-      "helmet",
-      "2024"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
-    "id": 122590,
-    "name": "2023 Volcom Arthur Mens Pant",
-    "url": "/2023-volcom-arthur-mens-pant/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122590/images/227984/2023-volcom-arthur-mens-pant-dark-teak2__18677.1767814621.500.659.jpg?c=2",
-    "price": 117,
-    "meta_keywords": "2023,  Volcom,  Arthur,  Mens,  Pant",
-    "detected_rows": [
-      "2023",
-      "volcom",
-      "arthur",
-      "mens",
-      "pant"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122604,
-    "name": "2022 Look SPX 10 GW Ski Bindings",
-    "url": "/2022-look-spx-10-gw-ski-bindings/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122604/images/228014/2021-look-spx-10-gw-ski-bindings-ss-1000__86758.1767814647.500.659.jpg?c=2",
-    "price": 90,
-    "meta_keywords": "2022,  Look,  SPX,  10,  GW,  Ski,  Bindings",
-    "detected_rows": [
-      "2022",
-      "look",
-      "spx",
-      "10",
-      "gw",
-      "ski",
-      "bindings"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 122616,
-    "name": "2023 Dakine Sequoia Leather Gore-Tex Womens Mitt",
-    "url": "/2023-dakine-sequoia-leather-gore-tex-womens-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122616/images/228032/2023-dakine-sequoia-leather-gore-tex-womens-mitt-black-2__70101.1767814665.500.659.jpg?c=2",
-    "price": 96,
-    "meta_keywords": "2023,  Dakine,  Sequoia,  Leather,  Gore-Tex,  Womens,  Mitt",
-    "detected_rows": [
-      "2023",
-      "dakine",
-      "sequoia",
-      "leather",
-      "gore-tex",
-      "womens",
-      "mitt"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 122619,
-    "name": "2023 Airblaster Sassy Beast Jacket",
-    "url": "/2023-airblaster-sassy-beast-jacket/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122619/images/228037/2023-airblaster-sassy-beast-womens-jacket-teal-spruce__98501.1767814668.500.659.jpg?c=2",
-    "price": 234,
-    "meta_keywords": "2023,  Airblaster,  Sassy,  Beast,  Jacket",
-    "detected_rows": [
-      "2023",
-      "airblaster",
-      "sassy",
-      "beast",
-      "jacket"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122627,
-    "name": "Spyder Leader Boys Jacket 2024",
-    "url": "/spyder-leader-boys-jacket-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122627/images/228054/2024-spyder-leader-boys-jacket-black-combo__95763.1767814685.500.659.jpg?c=2",
-    "price": 155.4,
-    "meta_keywords": "Spyder,  Leader,  Boys,  Jacket,  2024",
-    "detected_rows": [
-      "spyder",
-      "leader",
-      "boys",
-      "jacket",
-      "2024"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122628,
-    "name": "2023 Burton AK Embark Gore-Tex 2L Womens Jacket",
-    "url": "/2023-burton-ak-embark-gore-tex-2l-womens-jacket/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122628/images/228056/2023-burton-ak-embark-gore-tex-2l-womens-jacket-true-black-1__22713.1767814686.500.659.jpg?c=2",
-    "price": 359.99,
-    "meta_keywords": "2023,  Burton,  AK,  Embark,  Gore-Tex,  2L,  Womens,  Jacket",
-    "detected_rows": [
-      "2023",
-      "burton",
-      "ak",
-      "embark",
-      "gore-tex",
-      "2l",
-      "womens",
-      "jacket"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 122741,
-    "name": "K2 Black Snowboard Sleeve Bag 2025",
-    "url": "/k2-black-snowboard-sleeve-bag-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122741/images/228253/2024-k2-snowboardsleeve-black__82400.1767814858.500.659.jpg?c=2",
-    "price": 59.99,
-    "meta_keywords": "K2,  Black,  Snowboard,  Sleeve,  Bag,  2025",
-    "detected_rows": [
-      "k2",
-      "black",
-      "snowboard",
-      "sleeve",
-      "bag",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "bag",
-    "bucket": "bag"
   },
   {
     "id": 123347,
@@ -110355,309 +107142,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 123397,
-    "name": "Nordica The Cruise Mens Ski Boots 2025",
-    "url": "/nordica-the-cruise-mens-ski-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123397/images/229524/2024-nordica-the-cruise-ski-boots__04738.1767818632.500.659.jpg?c=2",
-    "price": 140.99,
-    "meta_keywords": "Nordica,  The,  Cruise,  Mens,  Ski,  Boots,  2025",
-    "detected_rows": [
-      "nordica",
-      "the",
-      "cruise",
-      "mens",
-      "ski",
-      "boots",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 123407,
-    "name": "Smith Skyline XL Low Bridge Fit Goggle 2024",
-    "url": "/smith-skyline-xl-low-bridge-fit-goggle-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123407/images/229543/2024-smith-skyline-xl-black-cpphotochromicredmirror__76797.1767818653.500.659.jpg?c=2",
-    "price": 130,
-    "meta_keywords": "Smith,  Skyline,  XL,  Low,  Bridge,  Fit,  Goggle,  2024",
-    "detected_rows": [
-      "smith",
-      "skyline",
-      "xl",
-      "low",
-      "bridge",
-      "fit",
-      "goggle",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
-    "id": 123489,
-    "name": "Smith Mission MIPS Matte Black Adult Helmet w/ Goggle Package",
-    "url": "/smith-mission-mips-matte-black-adult-helmet-w-goggle-package/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123489/images/229724/2024-smith-skyline-poppy-cp-sun-black__56660.1767818927.500.659.jpg?c=2",
-    "price": 322.98,
-    "meta_keywords": "Smith,  Mission,  MIPS,  Matte,  Black,  Adult,  Helmet,  w/,  Goggle,  Package",
-    "detected_rows": [
-      "smith",
-      "mission",
-      "mips",
-      "matte",
-      "black",
-      "adult",
-      "helmet",
-      "w/",
-      "goggle",
-      "package"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
-    "id": 123502,
-    "name": "Ride Compact Womens Snowboard 2025",
-    "url": "/ride-compact-womens-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123502/images/229759/2025-ride-compact-womens-snowboard__76183.1767818959.500.659.jpg?c=2",
-    "price": 287.99,
-    "meta_keywords": "Ride,  Compact,  Womens,  Snowboard,  2025",
-    "detected_rows": [
-      "ride",
-      "compact",
-      "womens",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
-    "id": 123686,
-    "name": "Armada ARV 84 Skis 2025",
-    "url": "/armada-arv-84-skis-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123686/images/230160/2025-armada-n-stage-10-black-gw-bindings__77262.1767820350.500.659.jpg?c=2",
-    "price": 317.99,
-    "meta_keywords": "Armada,  ARV,  84,  Skis,  2025",
-    "detected_rows": [
-      "armada",
-      "arv",
-      "84",
-      "skis",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 123699,
-    "name": "GNU Money Snowboard 2025",
-    "url": "/gnu-money-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123699/images/230186/2025-gnu-money-lifestyle__29074.1767821118.500.659.jpg?c=2",
-    "price": 335.99,
-    "meta_keywords": "GNU,  Money,  Snowboard,  2025",
-    "detected_rows": [
-      "gnu",
-      "money",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
-    "id": 123714,
-    "name": "2023 Kombi Serious Junior Glove",
-    "url": "/2023-kombi-serious-junior-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123714/images/230217/2023-kombi-serious-jr-glove-black__02224.1767821812.500.659.jpg?c=2",
-    "price": 43.99,
-    "meta_keywords": "2023,  Kombi,  Serious,  Junior,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "serious",
-      "junior",
-      "glove"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 123723,
-    "name": "2023 Kombi Outdoor-Zy Womens Black Glove",
-    "url": "/2023-kombi-outdoor-zy-womens-black-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123723/images/230232/2023-kombi-outdoor-zy-womens-glove-black__15038.1767821855.500.659.jpg?c=2",
-    "price": 59.99,
-    "meta_keywords": "2023,  Kombi,  Outdoor-Zy,  Womens,  Black,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "outdoor-zy",
-      "womens",
-      "black",
-      "glove"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 123731,
-    "name": "2023 Kombi Rocket Junior Black Mitt",
-    "url": "/2023-kombi-rocket-junior-black-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123731/images/230249/2023-kombi-rocket-jr-mitt-black-2__41176.1767821880.500.659.jpg?c=2",
-    "price": 103.99,
-    "meta_keywords": "2023,  Kombi,  Rocket,  Junior,  Black,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "rocket",
-      "junior",
-      "black",
-      "mitt"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 123733,
-    "name": "2023 Kombi Downhill Junior Black Mitt",
-    "url": "/2023-kombi-downhill-junior-black-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123733/images/230252/2023-kombi-downhill-jr-mitt-black-2__01422.1767821884.500.659.jpg?c=2",
-    "price": 55.99,
-    "meta_keywords": "2023,  Kombi,  Downhill,  Junior,  Black,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "downhill",
-      "junior",
-      "black",
-      "mitt"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 123734,
-    "name": "2023 Kombi Rocket Junior Black Glove",
-    "url": "/2023-kombi-rocket-junior-black-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123734/images/230253/2023-kombi-rocket-jr-glove-black__21593.1767821888.500.659.jpg?c=2",
-    "price": 103.99,
-    "meta_keywords": "2023,  Kombi,  Rocket,  Junior,  Black,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "rocket",
-      "junior",
-      "black",
-      "glove"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 123737,
-    "name": "2023 Kombi The Original Junior Glove",
-    "url": "/2023-kombi-the-original-junior-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123737/images/230257/2023-kombi-the-original-jr-glove-maple-leaf-red-2__92361.1767821892.500.659.jpg?c=2",
-    "price": 30.39,
-    "meta_keywords": "2023,  Kombi,  The,  Original,  Junior,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "original",
-      "junior",
-      "glove"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 123790,
-    "name": "2023 Kombi The Fastrider Mens Glove",
-    "url": "/2023-kombi-the-fastrider-mens-glove/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123790/images/230345/2023-kombi-fastrider-mens-glove-black__94620.1767822003.500.659.jpg?c=2",
-    "price": 59.99,
-    "meta_keywords": "2023,  Kombi,  The,  Fastrider,  Mens,  Glove",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "fastrider",
-      "mens",
-      "glove"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 123795,
-    "name": "2023 Kombi P1 Adults Black Balaclava",
-    "url": "/2023-kombi-p1-adults-black-balaclava/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123795/images/230356/2023-kombi-p1-balaclava-uni-black__58542.1767822076.500.659.jpg?c=2",
-    "price": 19.99,
-    "meta_keywords": "2023,  Kombi,  P1,  Adults,  Black,  Balaclava",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "p1",
-      "adults",
-      "black",
-      "balaclava"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "glove",
-    "bucket": "glove"
-  },
-  {
-    "id": 123797,
-    "name": "2023 Kombi The Wanderer Mens Black Mitt",
-    "url": "/2023-kombi-the-wanderer-mens-black-mitt/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/123797/images/230357/2023-kombi-the-wanderer-mens-mitt-black__33778.1767822078.500.659.jpg?c=2",
-    "price": 43.99,
-    "meta_keywords": "2023,  Kombi,  The,  Wanderer,  Mens,  Black,  Mitt",
-    "detected_rows": [
-      "2023",
-      "kombi",
-      "the",
-      "wanderer",
-      "mens",
-      "black",
-      "mitt"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 124098,
@@ -110796,26 +107280,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 124104,
-    "name": "Oakley Flow Scape L Goggle 2026",
-    "url": "/oakley-flow-scape-l-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124104/images/230999/2026-oakley-flow-scape-l-matte-black-prizm-sapphire-iridium-prizm-iced-iridium__10698.1767978862.500.659.jpg?c=2",
-    "price": 442,
-    "meta_keywords": "Oakley,  Flow,  Scape,  L,  Goggle,  2026",
-    "detected_rows": [
-      "oakley",
-      "flow",
-      "scape",
-      "l",
-      "goggle",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "goggle",
-    "bucket": "goggle"
-  },
-  {
     "id": 124105,
     "name": "K2 Mindbender 90C Womens Skis 2026",
     "url": "/k2-mindbender-90c-womens-skis-2026/",
@@ -110834,26 +107298,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 124108,
-    "name": "Union Strata Mens Snowboard Bindings 2024",
-    "url": "/union-strata-mens-snowboard-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124108/images/231005/2024-union-strata-black-bindings__29717.1767978909.500.659.jpg?c=2",
-    "price": 197.99,
-    "meta_keywords": "Union,  Strata,  Mens,  Snowboard,  Bindings,  2024",
-    "detected_rows": [
-      "union",
-      "strata",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2024"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 124110,
@@ -110878,48 +107322,6 @@
     "sport": "snowboard",
     "type": "boot",
     "bucket": "snowboard_boot"
-  },
-  {
-    "id": 124113,
-    "name": "Jones Rally Cat Womens Snowboard 2025",
-    "url": "/jones-rally-cat-womens-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124113/images/231013/2025-jones-ralleycat-lifestyle__07528.1767993323.500.659.jpg?c=2",
-    "price": 359.99,
-    "meta_keywords": "Jones,  Rally,  Cat,  Womens,  Snowboard,  2025",
-    "detected_rows": [
-      "jones",
-      "rally",
-      "cat",
-      "womens",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
-    "id": 124115,
-    "name": "Sweet Trooper 2Vi MIPS Limited Edition Helmet 2025",
-    "url": "/sweet-trooper-2vi-mips-limited-edition-helmet-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124115/images/231017/2025-sweet-trooper-2vi-limited-edition-lifestyle-image__51915.1767993325.500.659.jpg?c=2",
-    "price": 279.99,
-    "meta_keywords": "Sweet,  Trooper,  2Vi,  MIPS,  Limited,  Edition,  Helmet,  2025",
-    "detected_rows": [
-      "sweet",
-      "trooper",
-      "2vi",
-      "mips",
-      "limited",
-      "edition",
-      "helmet",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 124118,
@@ -111074,25 +107476,6 @@
     "sport": "ski",
     "type": "ski",
     "bucket": "ski"
-  },
-  {
-    "id": 124135,
-    "name": "Ride Saturday Womens Snowboard 2024",
-    "url": "/ride-saturday-womens-snowboard-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124135/images/231048/2024-ride-resort-boards__48014.1768037581.500.659.jpg?c=2",
-    "price": 275,
-    "meta_keywords": "Ride,  Saturday,  Womens,  Snowboard,  2024",
-    "detected_rows": [
-      "ride",
-      "saturday",
-      "womens",
-      "snowboard",
-      "2024"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 124137,
@@ -111280,26 +107663,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 124152,
-    "name": "ThirtyTwo Shifty BOA Snowboard Boots 2025",
-    "url": "/thirtytwo-shifty-boa-snowboard-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124152/images/231075/2025-thirtytwo-shifty%252520boa-snowboard%252520boot__36098.1768038737.500.659.jpg?c=2",
-    "price": 197.99,
-    "meta_keywords": "ThirtyTwo,  Shifty,  BOA,  Snowboard,  Boots,  2025",
-    "detected_rows": [
-      "thirtytwo",
-      "shifty",
-      "boa",
-      "snowboard",
-      "boots",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
   },
   {
     "id": 124155,
@@ -111897,24 +108260,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 124207,
-    "name": "K2 Hypnotist Snowboard 2025",
-    "url": "/k2-hypnotist-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124207/images/231178/2025-k2-hypnotist-exploded__58022.1768040307.500.659.jpg?c=2",
-    "price": 407.99,
-    "meta_keywords": "K2,  Hypnotist,  Snowboard,  2025",
-    "detected_rows": [
-      "k2",
-      "hypnotist",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
     "id": 124209,
     "name": "Suncloud Hundo Sunglasses",
     "url": "/suncloud-hundo-sunglasses/",
@@ -111989,26 +108334,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124214,
-    "name": "Burton Lexa Womens Snowboard Bindings 2024",
-    "url": "/burton-lexa-womens-snowboard-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124214/images/231194/2024-burton-lexa-whitgrap-womens-snowboard-bindings-2__14632.1768040426.500.659.jpg?c=2",
-    "price": 221.99,
-    "meta_keywords": "Burton,  Lexa,  Womens,  Snowboard,  Bindings,  2024",
-    "detected_rows": [
-      "burton",
-      "lexa",
-      "womens",
-      "snowboard",
-      "bindings",
-      "2024"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 124215,
@@ -112581,26 +108906,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 124258,
-    "name": "K2 Benes Womens Snowboard Boot 2023",
-    "url": "/k2-benes-womens-snowboard-boot-2023/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124258/images/231269/2023-k2-benes-womens-snowboard-boots-black__52598.1768040880.500.659.jpg?c=2",
-    "price": 130,
-    "meta_keywords": "K2,  Benes,  Womens,  Snowboard,  Boot,  2023",
-    "detected_rows": [
-      "k2",
-      "benes",
-      "womens",
-      "snowboard",
-      "boot",
-      "2023"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
-  },
-  {
     "id": 124259,
     "name": "Stance Grinch and Max Adult Sock 2026",
     "url": "/stance-grinch-and-max-adult-sock-2026/",
@@ -112639,26 +108944,6 @@
     "sport": "ski",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 124261,
-    "name": "K2 Meridian Womens Snowboard Bindings 2024",
-    "url": "/k2-meridian-womens-snowboard-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124261/images/231274/2024-k2-meridian-fade-womens-snowboard-bindings__78252.1768040887.500.659.jpg?c=2",
-    "price": 173.99,
-    "meta_keywords": "K2,  Meridian,  Womens,  Snowboard,  Bindings,  2024",
-    "detected_rows": [
-      "k2",
-      "meridian",
-      "womens",
-      "snowboard",
-      "bindings",
-      "2024"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 124262,
@@ -112741,25 +109026,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 124267,
-    "name": "Eivy Hinge Womens Balaclava 2026",
-    "url": "/eivy-hinge-womens-balaclava-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124267/images/231285/eivy-hinge-wmn-black-balaclava-2026__92345.1768041072.500.659.jpg?c=2",
-    "price": 59.95,
-    "meta_keywords": "Eivy,  Hinge,  Womens,  Balaclava,  2026",
-    "detected_rows": [
-      "eivy",
-      "hinge",
-      "womens",
-      "balaclava",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "base_layer",
-    "bucket": "base_layer"
   },
   {
     "id": 124270,
@@ -112896,27 +109162,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 124284,
-    "name": "Nordica Enforcer 94/Santa Ana 93 Skins 2022",
-    "url": "/nordica-enforcer-94-santa-ana-93-skins-2022/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124284/images/231320/2022-nordica-enforcer-94-santa-ana-93-skin__03696.1768041234.500.659.jpg?c=2",
-    "price": 130,
-    "meta_keywords": "Nordica,  Enforcer,  94/Santa,  Ana,  93,  Skins,  2022",
-    "detected_rows": [
-      "nordica",
-      "enforcer",
-      "94/santa",
-      "ana",
-      "93",
-      "skins",
-      "2022"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
   },
   {
     "id": 124285,
@@ -113507,27 +109752,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 124339,
-    "name": "Head RAPTOR WCR 120 Ski Boots 2025",
-    "url": "/head-raptor-wcr-120-ski-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124339/images/231445/2025-head-raptor-wcr-120-boots__49229.1768041485.500.659.jpg?c=2",
-    "price": 437.99,
-    "meta_keywords": "Head,  RAPTOR,  WCR,  120,  Ski,  Boots,  2025",
-    "detected_rows": [
-      "head",
-      "raptor",
-      "wcr",
-      "120",
-      "ski",
-      "boots",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 124340,
     "name": "Obermeyer Lissa Girls Jacket 2024",
     "url": "/obermeyer-lissa-girls-jacket-2024/",
@@ -113566,27 +109790,6 @@
     "sport": "snowboard",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124342,
-    "name": "Volcom Stay Dry GORE-TEX Mens Mitt 2025",
-    "url": "/volcom-stay-dry-gore-tex-mens-mitt-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124342/images/231451/2025-volcom-stay-dry-gore-tex-mens-mitt-black__51889.1768041494.500.659.jpg?c=2",
-    "price": 90,
-    "meta_keywords": "Volcom,  Stay,  Dry,  GORE-TEX,  Mens,  Mitt,  2025",
-    "detected_rows": [
-      "volcom",
-      "stay",
-      "dry",
-      "gore-tex",
-      "mens",
-      "mitt",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "mitt",
-    "bucket": "mitt"
   },
   {
     "id": 124345,
@@ -113636,25 +109839,6 @@
     "detected_rows": [
       "coal",
       "houdini",
-      "adult",
-      "beanie",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
-    "id": 124350,
-    "name": "Howl Paragon Adult Beanie 2026",
-    "url": "/howl-paragon-adult-beanie-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124350/images/231468/howl-paragon-adult-black-beanie-2026__11644.1768041545.500.659.jpg?c=2",
-    "price": 37,
-    "meta_keywords": "Howl,  Paragon,  Adult,  Beanie,  2026",
-    "detected_rows": [
-      "howl",
-      "paragon",
       "adult",
       "beanie",
       "2026"
@@ -113746,46 +109930,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 124357,
-    "name": "Oakley Line Miner L Goggle 2025",
-    "url": "/oakley-line-miner-l-goggle-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124357/images/231481/2025-oakley-line-miner-l-goggle-2025-multi-digital-ellipse-w-prizm-snow-sapphire-iridium__45280.1768041561.500.659.jpg?c=2",
-    "price": 115.19,
-    "meta_keywords": "Oakley,  Line,  Miner,  L,  Goggle,  2025",
-    "detected_rows": [
-      "oakley",
-      "line",
-      "miner",
-      "l",
-      "goggle",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
-    "id": 124358,
-    "name": "Spyder Pro Liner Womens Socks 2025",
-    "url": "/spyder-pro-liner-womens-socks-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124358/images/231483/2025-spyder-pro-liner-womens-socks-aether-blue__19357.1768041562.500.659.jpg?c=2",
-    "price": 35,
-    "meta_keywords": "Spyder,  Pro,  Liner,  Womens,  Socks,  2025",
-    "detected_rows": [
-      "spyder",
-      "pro",
-      "liner",
-      "womens",
-      "socks",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "sock",
-    "bucket": "sock"
-  },
-  {
     "id": 124360,
     "name": "Nordica Sportmachine 3 100 Mens Ski Boots 2025",
     "url": "/nordica-sportmachine-3-100-mens-ski-boots-2025/",
@@ -113866,25 +110010,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124368,
-    "name": "Smith Showcase OTG Goggle 2025",
-    "url": "/smith-showcase-otg-goggle-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124368/images/231503/2025-smith-showcase-otg-2025-arctic-apricot-daydream-goggle-w-cp-everyday-violet-mirror-lens__91595.1768041747.500.659.jpg?c=2",
-    "price": 92.99,
-    "meta_keywords": "Smith,  Showcase,  OTG,  Goggle,  2025",
-    "detected_rows": [
-      "smith",
-      "showcase",
-      "otg",
-      "goggle",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 124370,
@@ -114099,27 +110224,6 @@
     "bucket": "goggle"
   },
   {
-    "id": 124389,
-    "name": "Sweet Trooper 2Vi SL Mips Helmet 2026",
-    "url": "/sweet-trooper-2vi-sl-mips-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124389/images/231534/2024-sweet-protection-trooper-2vi-mips-sl-helmet-dirtblack__48106.1769646295.500.659.jpg?c=2",
-    "price": 300.99,
-    "meta_keywords": "Sweet,  Trooper,  2Vi,  SL,  Mips,  Helmet,  2026",
-    "detected_rows": [
-      "sweet",
-      "trooper",
-      "2vi",
-      "sl",
-      "mips",
-      "helmet",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 124392,
     "name": "Arctica Rain Adult Poncho 2026",
     "url": "/arctica-rain-adult-poncho-2026/",
@@ -114159,30 +110263,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124394,
-    "name": "Burton [ak] Freebird Gore-Tex 3L Stretch Mens Bib Pant 2026",
-    "url": "/burton-ak-freebird-gore-tex-3l-stretch-mens-bib-pant-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124394/images/231540/burton-ak-freebird-gore%2525e2%252580%252591tex-3l-stretch-true-black-bib-pant-2026-detail__67366.1771103383.500.659.jpg?c=2",
-    "price": 629.99,
-    "meta_keywords": "Burton,  [ak],  Freebird,  Gore-Tex,  3L,  Stretch,  Mens,  Bib,  Pant,  2026",
-    "detected_rows": [
-      "burton",
-      "[ak]",
-      "freebird",
-      "gore-tex",
-      "3l",
-      "stretch",
-      "mens",
-      "bib",
-      "pant",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "pant",
-    "bucket": "pant"
   },
   {
     "id": 124395,
@@ -114321,24 +110401,6 @@
     "bucket": "snowboard"
   },
   {
-    "id": 124405,
-    "name": "POC Fovea Goggles 2025",
-    "url": "/poc-fovea-goggles-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124405/images/231563/2025-poc-fovea-2025-raw-black-goggle-w-partly-sunny-grey-lens__62106.1768043473.500.659.jpg?c=2",
-    "price": 149.99,
-    "meta_keywords": "POC,  Fovea,  Goggles,  2025",
-    "detected_rows": [
-      "poc",
-      "fovea",
-      "goggles",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 124407,
     "name": "Elan Wingman 83 TI Skis w/ ELX 11.0 GW Bindings 2026",
     "url": "/elan-wingman-83-ti-skis-w-elx-11-0-gw-bindings-2026/",
@@ -114383,24 +110445,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124415,
-    "name": "GNU Hyper Snowboard 2025",
-    "url": "/gnu-hyper-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124415/images/231585/2025-gnu-hyper-lifestyle__92063.1768066337.500.659.jpg?c=2",
-    "price": 479.99,
-    "meta_keywords": "GNU,  Hyper,  Snowboard,  2025",
-    "detected_rows": [
-      "gnu",
-      "hyper",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
   },
   {
     "id": 124417,
@@ -114463,50 +110507,6 @@
     "bucket": "snowboard"
   },
   {
-    "id": 124429,
-    "name": "Stance x Misfits Snow Mid Cushion Adult Wool Sock 2026",
-    "url": "/stance-x-misfits-snow-mid-cushion-adult-wool-sock-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124429/images/231603/stance-x-misfits-snow-mid-cushion-adult-black-wool-sock-2026__10225.1768240608.500.659.jpg?c=2",
-    "price": 46,
-    "meta_keywords": "Stance,  x,  Misfits,  Snow,  Mid,  Cushion,  Adult,  Wool,  Sock,  2026",
-    "detected_rows": [
-      "stance",
-      "x",
-      "misfits",
-      "snow",
-      "mid",
-      "cushion",
-      "adult",
-      "wool",
-      "sock",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "sock",
-    "bucket": "sock"
-  },
-  {
-    "id": 124430,
-    "name": "Picture Akna Baggy Mens Pant 2026",
-    "url": "/picture-akna-baggy-mens-pant-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124430/images/231605/picture-akna-baggy-mens-black-pant-2026-2__52700.1768240610.500.659.jpg?c=2",
-    "price": 216,
-    "meta_keywords": "Picture,  Akna,  Baggy,  Mens,  Pant,  2026",
-    "detected_rows": [
-      "picture",
-      "akna",
-      "baggy",
-      "mens",
-      "pant",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "pant",
-    "bucket": "pant"
-  },
-  {
     "id": 124432,
     "name": "Swany X-Over Womens Mitt 2026",
     "url": "/swany-x-over-womens-mitt-2026/",
@@ -114524,26 +110524,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124433,
-    "name": "Rab Xenair Mens 3/4 Pant 2026",
-    "url": "/rab-xenair-mens-3-4-pant-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124433/images/231608/rab-xenair-3q-pant-2026-black__94986.1768240647.500.659.jpg?c=2",
-    "price": 180,
-    "meta_keywords": "Rab,  Xenair,  Mens,  3/4,  Pant,  2026",
-    "detected_rows": [
-      "rab",
-      "xenair",
-      "mens",
-      "3/4",
-      "pant",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 124434,
@@ -114565,26 +110545,6 @@
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 124435,
-    "name": "Nitro Lectra Abstract Womens Snowboard 2026",
-    "url": "/nitro-lectra-abstract-womens-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124435/images/231610/2026-nitro-lectra-abstract-snowboard__25810.1768240826.500.659.jpg?c=2",
-    "price": 399.99,
-    "meta_keywords": "Nitro,  Lectra,  Abstract,  Womens,  Snowboard,  2026",
-    "detected_rows": [
-      "nitro",
-      "lectra",
-      "abstract",
-      "womens",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 124438,
@@ -114670,26 +110630,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 124445,
-    "name": "Salomon Rhythm Adult Snowboard Bindings 2024",
-    "url": "/salomon-rhythm-adult-snowboard-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124445/images/231628/2024-solomon-rhythm-black-bindings__06785.1768255111.500.659.jpg?c=2",
-    "price": 119.99,
-    "meta_keywords": "Salomon,  Rhythm,  Adult,  Snowboard,  Bindings,  2024",
-    "detected_rows": [
-      "salomon",
-      "rhythm",
-      "adult",
-      "snowboard",
-      "bindings",
-      "2024"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 124446,
     "name": "K2 Method B&E Ski Boots 2025",
     "url": "/k2-method-b-e-ski-boots-2025/",
@@ -114708,29 +110648,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124448,
-    "name": "Salomon Ivy BOA SJ BOA Womens Snowboard Boots 2025",
-    "url": "/salomon-ivy-boa-sj-boa-womens-snowboard-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124448/images/231633/2025-salomon-ivy%252520boa%252520sj-snowboard%252520boot__46503.1768313111.500.659.jpg?c=2",
-    "price": 272.99,
-    "meta_keywords": "Salomon,  Ivy,  BOA,  SJ,  BOA,  Womens,  Snowboard,  Boots,  2025",
-    "detected_rows": [
-      "salomon",
-      "ivy",
-      "boa",
-      "sj",
-      "boa",
-      "womens",
-      "snowboard",
-      "boots",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
   },
   {
     "id": 124450,
@@ -114877,28 +110794,6 @@
     "bucket": "base_layer"
   },
   {
-    "id": 124461,
-    "name": "Burton Step On Genesis Mens Snowboard Bindings 2025",
-    "url": "/burton-step-on-genesis-mens-snowboard-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124461/images/231646/2025-burton-step-on-genesis-mens-snowboard-bindings-white__90066.1768327649.500.659.jpg?c=2",
-    "price": 299.99,
-    "meta_keywords": "Burton,  Step,  On,  Genesis,  Mens,  Snowboard,  Bindings,  2025",
-    "detected_rows": [
-      "burton",
-      "step",
-      "on",
-      "genesis",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 124463,
     "name": "Komperdell NationalTeam Carbon GS 2026",
     "url": "/komperdell-nationalteam-carbon-gs-2026/",
@@ -114962,26 +110857,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 124470,
-    "name": "Flow NX2-TM Fusion Snowboard Bindings 2024",
-    "url": "/flow-nx2-tm-fusion-snowboard-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124470/images/231661/2024-flow-nx2-tm-fusion-sbbindings-black__70041.1768327658.500.659.jpg?c=2",
-    "price": 239.99,
-    "meta_keywords": "Flow,  NX2-TM,  Fusion,  Snowboard,  Bindings,  2024",
-    "detected_rows": [
-      "flow",
-      "nx2-tm",
-      "fusion",
-      "snowboard",
-      "bindings",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 124473,
@@ -115049,31 +110924,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124480,
-    "name": "Salomon S/Race SL 12 Skis w/ X12 TL GW Bindings 2024",
-    "url": "/salomon-s-race-sl-12-skis-w-x12-tl-gw-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124480/images/231674/2023-salomon-xsracesl12-x12tlgw-skis-bindings__98592.1768342223.500.659.jpg?c=2",
-    "price": 659.99,
-    "meta_keywords": "Salomon,  S/Race,  SL,  12,  Skis,  w/,  X12,  TL,  GW,  Bindings,  2024",
-    "detected_rows": [
-      "salomon",
-      "s/race",
-      "sl",
-      "12",
-      "skis",
-      "w/",
-      "x12",
-      "tl",
-      "gw",
-      "bindings",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 124483,
@@ -115257,91 +111107,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 124495,
-    "name": "Dalbello Cabrio LV Free 120 Mens Ski Boots 2024",
-    "url": "/dalbello-cabrio-lv-free-120-mens-ski-boots-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124495/images/231696/2024-dalbello-cabrio-free-lv-120__44712.1768342247.500.659.jpg?c=2",
-    "price": 400,
-    "meta_keywords": "Dalbello,  Cabrio,  LV,  Free,  120,  Mens,  Ski,  Boots,  2024",
-    "detected_rows": [
-      "dalbello",
-      "cabrio",
-      "lv",
-      "free",
-      "120",
-      "mens",
-      "ski",
-      "boots",
-      "2024"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 124497,
-    "name": "Rossignol Ultraviolet Womens Snowboard Bindings 2025",
-    "url": "/rossignol-ultraviolet-womens-snowboard-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124497/images/231698/2025-rossignol-ultraviolet-black-womens-snowboard-binding__48038.1768342249.500.659.jpg?c=2",
-    "price": 125.99,
-    "meta_keywords": "Rossignol,  Ultraviolet,  Womens,  Snowboard,  Bindings,  2025",
-    "detected_rows": [
-      "rossignol",
-      "ultraviolet",
-      "womens",
-      "snowboard",
-      "bindings",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 124498,
-    "name": "Marker Squire 11 TCX Demo Ski Bindings 2024",
-    "url": "/marker-squire-11-tcx-demo-ski-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124498/images/231699/2022-marker-squire-11-tcx-demo-black-ski-binding-1__90757.1768342250.500.659.jpg?c=2",
-    "price": 152.99,
-    "meta_keywords": "Marker,  Squire,  11,  TCX,  Demo,  Ski,  Bindings,  2024",
-    "detected_rows": [
-      "marker",
-      "squire",
-      "11",
-      "tcx",
-      "demo",
-      "ski",
-      "bindings",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 124503,
-    "name": "Burton Freestyle Mens Snowboard Bindings 2024",
-    "url": "/burton-freestyle-mens-snowboard-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124503/images/231705/2023-burton-freestyle-blk-mens-snowboard-bindings__41219.1768342262.500.659.jpg?c=2",
-    "price": 143.99,
-    "meta_keywords": "Burton,  Freestyle,  Mens,  Snowboard,  Bindings,  2024",
-    "detected_rows": [
-      "burton",
-      "freestyle",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2024"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 124506,
     "name": "Burton Limelight Step On Womens Snowboard Boots 2024",
     "url": "/burton-limelight-step-on-womens-snowboard-boots-2024/",
@@ -115388,27 +111153,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 124517,
-    "name": "Arc'teryx Rho LT Mens Zip Neck 2026",
-    "url": "/arc-teryx-rho-lt-mens-zip-neck-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124517/images/231729/arcteryx-rho-lt-zip-neck-2026-forage-tatsu__14406.1769617335.500.659.jpg?c=2",
-    "price": 140,
-    "meta_keywords": "Arc'teryx,  Rho,  LT,  Mens,  Zip,  Neck,  2026",
-    "detected_rows": [
-      "arc'teryx",
-      "rho",
-      "lt",
-      "mens",
-      "zip",
-      "neck",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "base_layer",
-    "bucket": "base_layer"
   },
   {
     "id": 124518,
@@ -115471,46 +111215,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 124529,
-    "name": "Vans Aura Pro Mens Snowboard Boots 2025",
-    "url": "/vans-aura-pro-mens-snowboard-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124529/images/231759/2023-vans-aura-pro-mens-snowboard-boots-bkwh__54441.1768516042.500.659.jpg?c=2",
-    "price": 261.59,
-    "meta_keywords": "Vans,  Aura,  Pro,  Mens,  Snowboard,  Boots,  2025",
-    "detected_rows": [
-      "vans",
-      "aura",
-      "pro",
-      "mens",
-      "snowboard",
-      "boots",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
-  },
-  {
-    "id": 124535,
-    "name": "CAPiTA The Navigator Snowboard 2025",
-    "url": "/capita-the-navigator-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124535/images/231776/capita_2425_miles%252520fallon_jack%252520dawe-lifestyle__85862.1768588784.500.659.jpg?c=2",
-    "price": 479.99,
-    "meta_keywords": "CAPiTA,  The,  Navigator,  Snowboard,  2025",
-    "detected_rows": [
-      "capita",
-      "the",
-      "navigator",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
     "id": 124538,
     "name": "Komperdell Carbon Elbow Guard World Cup - Large 2026",
     "url": "/komperdell-carbon-elbow-guard-world-cup-large-2026/",
@@ -115554,27 +111258,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 124541,
-    "name": "Burton Lexa X Womens Snowboard Bindings 2023",
-    "url": "/burton-lexa-x-womens-snowboard-bindings-2023/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124541/images/231787/2023-burton-lexa-x-blk-womens-bindings__26327.1768849435.500.659.jpg?c=2",
-    "price": 239.99,
-    "meta_keywords": "Burton,  Lexa,  X,  Womens,  Snowboard,  Bindings,  2023",
-    "detected_rows": [
-      "burton",
-      "lexa",
-      "x",
-      "womens",
-      "snowboard",
-      "bindings",
-      "2023"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 124543,
@@ -115787,28 +111470,6 @@
     "bucket": "other"
   },
   {
-    "id": 124560,
-    "name": "Look NX 7 GW JR Ski Bindings 2025",
-    "url": "/look-nx-7-gw-jr-ski-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124560/images/231844/2024-look-nx-7-gw-b83-black-jr-ski-bindings__88856.1769037930.500.659.jpg?c=2",
-    "price": 95.99,
-    "meta_keywords": "Look,  NX,  7,  GW,  JR,  Ski,  Bindings,  2025",
-    "detected_rows": [
-      "look",
-      "nx",
-      "7",
-      "gw",
-      "jr",
-      "ski",
-      "bindings",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 124562,
     "name": "Sidas IPS C shape cover (Pair) 2026",
     "url": "/sidas-ips-c-shape-cover-pair-2026/",
@@ -115957,27 +111618,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 124576,
-    "name": "2023 Nordica HF 75 Womens Ski Boots",
-    "url": "/2023-nordica-hf-75-womens-ski-boots/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124576/images/231874/2023-nordica-hf75-w-boots__96768.1769197106.500.659.jpg?c=2",
-    "price": 329.99,
-    "meta_keywords": "2023,  Nordica,  HF,  75,  Womens,  Ski,  Boots",
-    "detected_rows": [
-      "2023",
-      "nordica",
-      "hf",
-      "75",
-      "womens",
-      "ski",
-      "boots"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 124582,
     "name": "Salomon S/Pro Supra Dual BOA 120 GW Hematite Met. / Black / Estate Blue Ski Boots 2026",
     "url": "/salomon-s-pro-supra-dual-boa-120-gw-hematite-met-black-estate-blue-ski-boots-2026/",
@@ -116007,26 +111647,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 124585,
-    "name": "2023 Oakley Line Miner L Goggle",
-    "url": "/2023-oakley-line-miner-l-goggle/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124585/images/231884/2023-oakley-lineminerm-b1bdarkbrush-prizmdarkgrey-goggles__69157.1769197118.500.659.jpg?c=2",
-    "price": 95,
-    "meta_keywords": "2023,  Oakley,  Line,  Miner,  L,  Goggle",
-    "detected_rows": [
-      "2023",
-      "oakley",
-      "line",
-      "miner",
-      "l",
-      "goggle"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 124588,
@@ -116156,28 +111776,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 124598,
-    "name": "2023 Anon Relapse JR Goggle + MFI Mask",
-    "url": "/2023-anon-relapse-jr-goggle-mfi-mask/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124598/images/231905/2023-anon-relapse-jr-w-mfi-amber__23497.1769211545.500.659.jpg?c=2",
-    "price": 89.99,
-    "meta_keywords": "2023,  Anon,  Relapse,  JR,  Goggle,  +,  MFI,  Mask",
-    "detected_rows": [
-      "2023",
-      "anon",
-      "relapse",
-      "jr",
-      "goggle",
-      "+",
-      "mfi",
-      "mask"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 124599,
     "name": "Anon Burner JR Helmet 2023",
     "url": "/anon-burner-jr-helmet-2023/",
@@ -116214,29 +111812,6 @@
     "sport": "snowboard",
     "type": "snowboard",
     "bucket": "snowboard"
-  },
-  {
-    "id": 124603,
-    "name": "Lange Shadow 115 LV GW Womens Ski Boots 2026",
-    "url": "/lange-shadow-115-lv-gw-womens-ski-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124603/images/231910/2026-lange-shadow-115-w-lv-gw-ski-boots__94919.1769443513.500.659.jpg?c=2",
-    "price": 729.99,
-    "meta_keywords": "Lange,  Shadow,  115,  LV,  GW,  Womens,  Ski,  Boots,  2026",
-    "detected_rows": [
-      "lange",
-      "shadow",
-      "115",
-      "lv",
-      "gw",
-      "womens",
-      "ski",
-      "boots",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 124607,
@@ -117956,26 +113531,6 @@
     "bucket": "other"
   },
   {
-    "id": 124712,
-    "name": "Smith Method Pro MIPS Helmet 2025",
-    "url": "/smith-method-pro-mips-helmet-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124712/images/232053/2025-smith-method-pro-mips-mthf-helmet__13921.1773927452.500.659.jpg?c=2",
-    "price": 122.99,
-    "meta_keywords": "Smith,  Method,  Pro,  MIPS,  Helmet,  2025",
-    "detected_rows": [
-      "smith",
-      "method",
-      "pro",
-      "mips",
-      "helmet",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "glove",
-    "bucket": "glove"
-  },
-  {
     "id": 124714,
     "name": "Line 1.0 Apres Booties 2023",
     "url": "/line-1-0-apres-booties-2023/",
@@ -118121,28 +113676,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 124722,
-    "name": "Rossignol Crank BOA H4 Mens Snowboard Boots-BLKORNG 2025",
-    "url": "/rossignol-crank-boa-h4-mens-snowboard-boots-blkorng-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124722/images/232067/rossignol_crank_boa__96328.1770847483.500.659.jpg?c=2",
-    "price": 191.99,
-    "meta_keywords": "Rossignol,  Crank,  BOA,  H4,  Mens,  Snowboard,  Boots-BLKORNG,  2025",
-    "detected_rows": [
-      "rossignol",
-      "crank",
-      "boa",
-      "h4",
-      "mens",
-      "snowboard",
-      "boots-blkorng",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
   },
   {
     "id": 124723,
@@ -118814,28 +114347,6 @@
     "bucket": "other"
   },
   {
-    "id": 124769,
-    "name": "2023 POC Skull Dura X MIPS Adult Helmet",
-    "url": "/2023-poc-skull-dura-x-mips-adult-helmet/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124769/images/232151/2023-poc-skull-dura-x-mips-adult-helmet-hywh__52472.1770929930.500.659.jpg?c=2",
-    "price": 194.99,
-    "meta_keywords": "2023,  POC,  Skull,  Dura,  X,  MIPS,  Adult,  Helmet",
-    "detected_rows": [
-      "2023",
-      "poc",
-      "skull",
-      "dura",
-      "x",
-      "mips",
-      "adult",
-      "helmet"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 124770,
     "name": "Atomic Savor M Goggle 2026",
     "url": "/atomic-savor-m-goggle-2026/",
@@ -119116,26 +114627,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 124786,
-    "name": "Thule RoundTrip Boot Backpack 60L 2026",
-    "url": "/thule-roundtrip-boot-backpack-60l-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124786/images/232188/2025-thule-roundtrip-boot-pack-60l-backpack-deep-khaki__16318.1771016950.500.659.jpg?c=2",
-    "price": 179.99,
-    "meta_keywords": "Thule,  RoundTrip,  Boot,  Backpack,  60L,  2026",
-    "detected_rows": [
-      "thule",
-      "roundtrip",
-      "boot",
-      "backpack",
-      "60l",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "glove",
-    "bucket": "glove"
   },
   {
     "id": 124789,
@@ -124012,28 +119503,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 125150,
-    "name": "K2 Lockjaw Carbon Black Adjustable Ski Poles 2026",
-    "url": "/k2-lockjaw-carbon-black-adjustable-ski-poles-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125150/images/233015/2023-k2-lockjaw-carbon-adult-ski-poles__40065.1774295088.500.659.jpg?c=2",
-    "price": 139.99,
-    "meta_keywords": "K2,  Lockjaw,  Carbon,  Black,  Adjustable,  Ski,  Poles,  2026",
-    "detected_rows": [
-      "k2",
-      "lockjaw",
-      "carbon",
-      "black",
-      "adjustable",
-      "ski",
-      "poles",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
     "id": 125151,
     "name": "Faction Prodigy 3 Skis 2026",
     "url": "/faction-prodigy-3-skis-2026/",
@@ -124359,6 +119828,801 @@
       "ski",
       "bindings",
       "2025"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125170,
+    "name": "Smith Nexus MIPS Helmet 2025",
+    "url": "/smith-nexus-mips-helmet-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125170/images/233061/2025-smith-nexus-mips-mtchsl-helmet__16893.1774633867.500.659.jpg?c=2",
+    "price": 224.99,
+    "meta_keywords": "Smith,  Nexus,  MIPS,  Helmet,  2025",
+    "detected_rows": [
+      "smith",
+      "nexus",
+      "mips",
+      "helmet",
+      "2025"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125171,
+    "name": "Smith Rodeo Jr. MIPS Helmet 2025",
+    "url": "/smith-rodeo-jr-mips-helmet-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125171/images/233064/2025-smith-rodeo-jr-mips-mtco-junior-helmet__51524.1774633868.500.659.jpg?c=2",
+    "price": 77.99,
+    "meta_keywords": "Smith,  Rodeo,  Jr.,  MIPS,  Helmet,  2025",
+    "detected_rows": [
+      "smith",
+      "rodeo",
+      "jr.",
+      "mips",
+      "helmet",
+      "2025"
+    ],
+    "gender": "kids",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125172,
+    "name": "Smith Vantage W MIPS Womens Helmet 2025",
+    "url": "/smith-vantage-w-mips-womens-helmet-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125172/images/233068/2023-smith-vantage-mips-womens-helmet-w-mabk__69034.1774633869.500.659.jpg?c=2",
+    "price": 194.99,
+    "meta_keywords": "Smith,  Vantage,  W,  MIPS,  Womens,  Helmet,  2025",
+    "detected_rows": [
+      "smith",
+      "vantage",
+      "w",
+      "mips",
+      "womens",
+      "helmet",
+      "2025"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125173,
+    "name": "Smith Code MIPS Helmet 2025",
+    "url": "/smith-code-mips-helmet-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125173/images/233070/2025-smith-code-mips-mtco-helmet__91578.1774633870.500.659.jpg?c=2",
+    "price": 152.99,
+    "meta_keywords": "Smith,  Code,  MIPS,  Helmet,  2025",
+    "detected_rows": [
+      "smith",
+      "code",
+      "mips",
+      "helmet",
+      "2025"
+    ],
+    "gender": "unisex",
+    "sport": "snowboard",
+    "type": "helmet",
+    "bucket": "helmet"
+  },
+  {
+    "id": 125174,
+    "name": "Smith Glide Jr. MIPS Helmet 2025",
+    "url": "/smith-glide-jr-mips-helmet-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125174/images/233072/2025-smith-glide-jr-mips-prpi-junior-helmet__61522.1774633871.500.659.jpg?c=2",
+    "price": 71.99,
+    "meta_keywords": "Smith,  Glide,  Jr.,  MIPS,  Helmet,  2025",
+    "detected_rows": [
+      "smith",
+      "glide",
+      "jr.",
+      "mips",
+      "helmet",
+      "2025"
+    ],
+    "gender": "kids",
+    "sport": "other",
+    "type": "helmet",
+    "bucket": "helmet"
+  },
+  {
+    "id": 125175,
+    "name": "Smith Vantage W MIPS Womens Helmet w/ Goggle Package",
+    "url": "/smith-vantage-w-mips-womens-helmet-w-goggle-package/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125175/images/233076/2025-smith-vantage-w-mips-matte-alpine-ice__71447.1774633872.500.659.jpg?c=2",
+    "price": 714.98,
+    "meta_keywords": "Smith,  Vantage,  W,  MIPS,  Womens,  Helmet,  w/,  Goggle,  Package",
+    "detected_rows": [
+      "smith",
+      "vantage",
+      "w",
+      "mips",
+      "womens",
+      "helmet",
+      "w/",
+      "goggle",
+      "package"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125176,
+    "name": "Jones Twin Sister JR Snowboard 2026",
+    "url": "/jones-twin-sister-jr-snowboard-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125176/images/233083/2026-jones-twin-sister-jr-lifestyle-image__66672.1774633876.500.659.jpg?c=2",
+    "price": 359.99,
+    "meta_keywords": "Jones,  Twin,  Sister,  JR,  Snowboard,  2026",
+    "detected_rows": [
+      "jones",
+      "twin",
+      "sister",
+      "jr",
+      "snowboard",
+      "2026"
+    ],
+    "gender": "kids",
+    "sport": "snowboard",
+    "type": "binding",
+    "bucket": "snowboard_binding"
+  },
+  {
+    "id": 125177,
+    "name": "Atomic Strive 14 GW Ski Bindings 2026",
+    "url": "/atomic-strive-14-gw-ski-bindings-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125177/images/233084/2024-atomic-strive-14-gw-ski-bindings__24000.1774633892.500.659.jpg?c=2",
+    "price": 195.99,
+    "meta_keywords": "Atomic,  Strive,  14,  GW,  Ski,  Bindings,  2026",
+    "detected_rows": [
+      "atomic",
+      "strive",
+      "14",
+      "gw",
+      "ski",
+      "bindings",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125178,
+    "name": "Rossignol Hero World Cup ZB Ski Boots 2026",
+    "url": "/rossignol-hero-world-cup-zb-ski-boots-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125178/images/233085/2026-rossignol-hero-world-cup-zb-ski-boots__13153.1774648300.500.659.jpg?c=2",
+    "price": 577.49,
+    "meta_keywords": "Rossignol,  Hero,  World,  Cup,  ZB,  Ski,  Boots,  2026",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "world",
+      "cup",
+      "zb",
+      "ski",
+      "boots",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125179,
+    "name": "Dynastar M-Menace Team JR Skis w/ Team 4 GW Bindings 2026",
+    "url": "/dynastar-m-menace-team-jr-skis-w-team-4-gw-bindings-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125179/images/233086/2026-dynastar-m-menace-team-jr-skis-w-team-4-gw-binding-__41587.1774648300.500.659.jpg?c=2",
+    "price": 215.99,
+    "meta_keywords": "Dynastar,  M-Menace,  Team,  JR,  Skis,  w/,  Team,  4,  GW,  Bindings,  2026",
+    "detected_rows": [
+      "dynastar",
+      "m-menace",
+      "team",
+      "jr",
+      "skis",
+      "w/",
+      "team",
+      "4",
+      "gw",
+      "bindings",
+      "2026"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125180,
+    "name": "Lange RS 130 MV Adult Ski Boots 2024",
+    "url": "/lange-rs-130-mv-adult-ski-boots-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125180/images/233087/2023-lange-rs130-mv-boots__08494.1774648301.500.659.jpg?c=2",
+    "price": 497.99,
+    "meta_keywords": "Lange,  RS,  130,  MV,  Adult,  Ski,  Boots,  2024",
+    "detected_rows": [
+      "lange",
+      "rs",
+      "130",
+      "mv",
+      "adult",
+      "ski",
+      "boots",
+      "2024"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125181,
+    "name": "Rossignol Hero Giant Carbon 2.0 FIS Helmet 2026",
+    "url": "/rossignol-hero-giant-carbon-2-0-fis-helmet-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125181/images/233088/2026-rossignol-hero-giant-carbon-2-0-fis-helmet__88186.1774648302.500.659.jpg?c=2",
+    "price": 300.99,
+    "meta_keywords": "Rossignol,  Hero,  Giant,  Carbon,  2.0,  FIS,  Helmet,  2026",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "giant",
+      "carbon",
+      "2.0",
+      "fis",
+      "helmet",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125182,
+    "name": "Rossignol Super Virage 105 SC Ski Boots 2023",
+    "url": "/rossignol-super-virage-105-sc-ski-boots-2023/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125182/images/233089/2023-rossignol-super-virage-105-sc-ski-boots__27350.1774648303.500.659.jpg?c=2",
+    "price": 344.99,
+    "meta_keywords": "Rossignol,  Super,  Virage,  105,  SC,  Ski,  Boots,  2023",
+    "detected_rows": [
+      "rossignol",
+      "super",
+      "virage",
+      "105",
+      "sc",
+      "ski",
+      "boots",
+      "2023"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125183,
+    "name": "Rossignol Hero World Cup ZC Ski Boots 2026",
+    "url": "/rossignol-hero-world-cup-zc-ski-boots-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125183/images/233090/2026-rossignol-hero-world-cup-zc-ski-boots__87890.1774648303.500.659.jpg?c=2",
+    "price": 577.49,
+    "meta_keywords": "Rossignol,  Hero,  World,  Cup,  ZC,  Ski,  Boots,  2026",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "world",
+      "cup",
+      "zc",
+      "ski",
+      "boots",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125184,
+    "name": "Lange World Cup RS ZA Adult Ski Boots 2022",
+    "url": "/lange-world-cup-rs-za-adult-ski-boots-2022/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125184/images/233091/co23-lange-world-cup-rs-za-ski-boots-22003669__76861.1774648304.500.659.jpg?c=2",
+    "price": 399.99,
+    "meta_keywords": "Lange,  World,  Cup,  RS,  ZA,  Adult,  Ski,  Boots,  2022",
+    "detected_rows": [
+      "lange",
+      "world",
+      "cup",
+      "rs",
+      "za",
+      "adult",
+      "ski",
+      "boots",
+      "2022"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125185,
+    "name": "Rossignol Hero Slalom Impacts Helmet 2026",
+    "url": "/rossignol-hero-slalom-impacts-helmet-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125185/images/233092/2026-rossignol-hero-slalom-impact-fis-helmet__29221.1774648305.500.659.jpg?c=2",
+    "price": 174.99,
+    "meta_keywords": "Rossignol,  Hero,  Slalom,  Impacts,  Helmet,  2026",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "slalom",
+      "impacts",
+      "helmet",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125186,
+    "name": "Rossignol Hero World Cup 140 Ski Boots 2024",
+    "url": "/rossignol-hero-world-cup-140-ski-boots-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125186/images/233093/2024-rossignol-hero-world-cup-140-ski-boots__11857.1774648306.500.659.jpg?c=2",
+    "price": 497.99,
+    "meta_keywords": "Rossignol,  Hero,  World,  Cup,  140,  Ski,  Boots,  2024",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "world",
+      "cup",
+      "140",
+      "ski",
+      "boots",
+      "2024"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125187,
+    "name": "Rossignol Hero World Cup ZC Ski Boots 2024",
+    "url": "/rossignol-hero-world-cup-zc-ski-boots-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125187/images/233094/2024-rossignol-hero-world-cup-zc-ski-boots__63492.1774648307.500.659.jpg?c=2",
+    "price": 479.99,
+    "meta_keywords": "Rossignol,  Hero,  World,  Cup,  ZC,  Ski,  Boots,  2024",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "world",
+      "cup",
+      "zc",
+      "ski",
+      "boots",
+      "2024"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125188,
+    "name": "Rossignol Super Virage VI Skis w/ NX 12 GW Bindings 2025",
+    "url": "/rossignol-super-virage-vi-skis-w-nx-12-gw-bindings-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125188/images/233095/2025-rossignol-super-virage-vi-skis-w-nx-12-gw-bindings__52993.1774648309.500.659.jpg?c=2",
+    "price": 539.94,
+    "meta_keywords": "Rossignol,  Super,  Virage,  VI,  Skis,  w/,  NX,  12,  GW,  Bindings,  2025",
+    "detected_rows": [
+      "rossignol",
+      "super",
+      "virage",
+      "vi",
+      "skis",
+      "w/",
+      "nx",
+      "12",
+      "gw",
+      "bindings",
+      "2025"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125189,
+    "name": "Rossignol Hero World Cup 70 SC JR Ski Boots 2024",
+    "url": "/rossignol-hero-world-cup-70-sc-jr-ski-boots-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125189/images/233096/2024-rossignol-hero-world-cup-70-sc-jr-ski-boots__22422.1774648310.500.659.jpg?c=2",
+    "price": 200,
+    "meta_keywords": "Rossignol,  Hero,  World,  Cup,  70,  SC,  JR,  Ski,  Boots,  2024",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "world",
+      "cup",
+      "70",
+      "sc",
+      "jr",
+      "ski",
+      "boots",
+      "2024"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125190,
+    "name": "Dynastar SPEED OMEGLASS WC SL R22 Skis 2025",
+    "url": "/dynastar-speed-omeglass-wc-sl-r22-skis-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125190/images/233098/2023-look-spx12-rockerracegw-bindings__40205.1774648311.500.659.jpg?c=2",
+    "price": 699.99,
+    "meta_keywords": "Dynastar,  SPEED,  OMEGLASS,  WC,  SL,  R22,  Skis,  2025",
+    "detected_rows": [
+      "dynastar",
+      "speed",
+      "omeglass",
+      "wc",
+      "sl",
+      "r22",
+      "skis",
+      "2025"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125191,
+    "name": "Rossignol Hero Elite MT CA Skis w/ NX 12 GW Bindings 2023",
+    "url": "/rossignol-hero-elite-mt-ca-skis-w-nx-12-gw-bindings-2023/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125191/images/233099/rossignol-hero-elite-mt-ca-skis-w-nx-12-gw-bindings-2023__08887.1774648311.500.659.jpg?c=2",
+    "price": 509.99,
+    "meta_keywords": "Rossignol,  Hero,  Elite,  MT,  CA,  Skis,  w/,  NX,  12,  GW,  Bindings,  2023",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "elite",
+      "mt",
+      "ca",
+      "skis",
+      "w/",
+      "nx",
+      "12",
+      "gw",
+      "bindings",
+      "2023"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125192,
+    "name": "Dynastar Speed OMG FIS SL FAC 165 R22 Skis 2025",
+    "url": "/dynastar-speed-omg-fis-sl-fac-165-r22-skis-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125192/images/233101/2023-look-spx12-rockerracegw-bindings__55568.1774648312.500.659.jpg?c=2",
+    "price": 787.49,
+    "meta_keywords": "Dynastar,  Speed,  OMG,  FIS,  SL,  FAC,  165,  R22,  Skis,  2025",
+    "detected_rows": [
+      "dynastar",
+      "speed",
+      "omg",
+      "fis",
+      "sl",
+      "fac",
+      "165",
+      "r22",
+      "skis",
+      "2025"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125193,
+    "name": "Rossignol Experience W JR Skis w/ Team 4 GW Bindings 2025",
+    "url": "/rossignol-experience-w-jr-skis-w-team-4-gw-bindings-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125193/images/233102/2026-rossignol-experience-w-jr-pre-drilled-skis__85813.1774648314.500.659.jpg?c=2",
+    "price": 215.99,
+    "meta_keywords": "Rossignol,  Experience,  W,  JR,  Skis,  w/,  Team,  4,  GW,  Bindings,  2025",
+    "detected_rows": [
+      "rossignol",
+      "experience",
+      "w",
+      "jr",
+      "skis",
+      "w/",
+      "team",
+      "4",
+      "gw",
+      "bindings",
+      "2025"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125194,
+    "name": "2023 Lange RSJ 50 JR Ski Boots",
+    "url": "/2023-lange-rsj-50-jr-ski-boots/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125194/images/233103/2023-lange-rsj50-boots__34770.1774648315.500.659.jpg?c=2",
+    "price": 107.99,
+    "meta_keywords": "2023,  Lange,  RSJ,  50,  JR,  Ski,  Boots",
+    "detected_rows": [
+      "2023",
+      "lange",
+      "rsj",
+      "50",
+      "jr",
+      "ski",
+      "boots"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125195,
+    "name": "Dynastar Speed Team Pro JR Skis 2025",
+    "url": "/dynastar-speed-team-pro-jr-skis-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125195/images/233104/2025-dynastar-speed-team-pro-jr-skis__40270.1774648319.500.659.jpg?c=2",
+    "price": 343.99,
+    "meta_keywords": "Dynastar,  Speed,  Team,  Pro,  JR,  Skis,  2025",
+    "detected_rows": [
+      "dynastar",
+      "speed",
+      "team",
+      "pro",
+      "jr",
+      "skis",
+      "2025"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125196,
+    "name": "Rossignol Hero World Cup ZA Ski Boots 2026",
+    "url": "/rossignol-hero-world-cup-za-ski-boots-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125196/images/233105/2026-rossignol-hero-world-cup-za-ski-boots__77455.1774648320.500.659.jpg?c=2",
+    "price": 577.49,
+    "meta_keywords": "Rossignol,  Hero,  World,  Cup,  ZA,  Ski,  Boots,  2026",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "world",
+      "cup",
+      "za",
+      "ski",
+      "boots",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125197,
+    "name": "Lange RSJ 65 JR Ski Boots 2023",
+    "url": "/lange-rsj-65-jr-ski-boots-2023/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125197/images/233106/2023-lange-rsj65-boots__91240.1774648322.500.659.jpg?c=2",
+    "price": 125,
+    "meta_keywords": "Lange,  RSJ,  65,  JR,  Ski,  Boots,  2023",
+    "detected_rows": [
+      "lange",
+      "rsj",
+      "65",
+      "jr",
+      "ski",
+      "boots",
+      "2023"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125198,
+    "name": "Lange RS 130 LV Ski Boots 2024",
+    "url": "/lange-rs-130-lv-ski-boots-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125198/images/233108/2024-lange-rs-130-lv-ski-boots__49956.1774648329.500.659.jpg?c=2",
+    "price": 497.99,
+    "meta_keywords": "Lange,  RS,  130,  LV,  Ski,  Boots,  2024",
+    "detected_rows": [
+      "lange",
+      "rs",
+      "130",
+      "lv",
+      "ski",
+      "boots",
+      "2024"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125199,
+    "name": "POC Nexal Lens Clarity Intense/Cloudy Coral 2025",
+    "url": "/poc-nexal-lens-clarity-intense-cloudy-coral-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125199/images/233107/2025-poc-nexal-lens-clarity-intense-cloudy-coral__58409.1774648329.500.659.jpg?c=2",
+    "price": 59.99,
+    "meta_keywords": "POC,  Nexal,  Lens,  Clarity,  Intense/Cloudy,  Coral,  2025",
+    "detected_rows": [
+      "poc",
+      "nexal",
+      "lens",
+      "clarity",
+      "intense/cloudy",
+      "coral",
+      "2025"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "goggle",
+    "bucket": "goggle"
+  },
+  {
+    "id": 125200,
+    "name": "Lange RS 120 SC Ski Boots 2024",
+    "url": "/lange-rs-120-sc-ski-boots-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125200/images/233109/2024-lange-rs-120-sc-ski-boots__15944.1774648333.500.659.jpg?c=2",
+    "price": 449.99,
+    "meta_keywords": "Lange,  RS,  120,  SC,  Ski,  Boots,  2024",
+    "detected_rows": [
+      "lange",
+      "rs",
+      "120",
+      "sc",
+      "ski",
+      "boots",
+      "2024"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125201,
+    "name": "Lange XT3 80 Wide SC GW Ski Boots 2025",
+    "url": "/lange-xt3-80-wide-sc-gw-ski-boots-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125201/images/233110/2025-lange-xt3-80-wide-sc-gw-ski-boots__71921.1774648334.500.659.jpg?c=2",
+    "price": 317.99,
+    "meta_keywords": "Lange,  XT3,  80,  Wide,  SC,  GW,  Ski,  Boots,  2025",
+    "detected_rows": [
+      "lange",
+      "xt3",
+      "80",
+      "wide",
+      "sc",
+      "gw",
+      "ski",
+      "boots",
+      "2025"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125202,
+    "name": "Rossignol Hero Giant Impacts FIS Helmet 2026",
+    "url": "/rossignol-hero-giant-impacts-fis-helmet-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125202/images/233111/2026-rossignol-hero-giant-impacts-fis-helmet__95967.1774648335.500.659.jpg?c=2",
+    "price": 209.99,
+    "meta_keywords": "Rossignol,  Hero,  Giant,  Impacts,  FIS,  Helmet,  2026",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "giant",
+      "impacts",
+      "fis",
+      "helmet",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125203,
+    "name": "Lange RSJ 65 JR Ski Boots 2024",
+    "url": "/lange-rsj-65-jr-ski-boots-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125203/images/233112/2024-lange-rsj-65-jr-ski-boots__21712.1774648340.500.659.jpg?c=2",
+    "price": 149.99,
+    "meta_keywords": "Lange,  RSJ,  65,  JR,  Ski,  Boots,  2024",
+    "detected_rows": [
+      "lange",
+      "rsj",
+      "65",
+      "jr",
+      "ski",
+      "boots",
+      "2024"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125204,
+    "name": "Rossignol Super Virage VIII Tech Skis w/ SPX 14 GW Bindings 2026",
+    "url": "/rossignol-super-virage-viii-tech-skis-w-spx-14-gw-bindings-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125204/images/233113/2026-rossignol-super-virage-viii-tech-skis-w-spx-14-gw-ski-boots__01564.1774648345.500.659.jpg?c=2",
+    "price": 779.99,
+    "meta_keywords": "Rossignol,  Super,  Virage,  VIII,  Tech,  Skis,  w/,  SPX,  14,  GW,  Bindings,  2026",
+    "detected_rows": [
+      "rossignol",
+      "super",
+      "virage",
+      "viii",
+      "tech",
+      "skis",
+      "w/",
+      "spx",
+      "14",
+      "gw",
+      "bindings",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125205,
+    "name": "Rossignol Super Virage VIII Skis w/ SPX 14 GW Bindings 2026",
+    "url": "/rossignol-super-virage-viii-skis-w-spx-14-gw-bindings-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125205/images/233114/2026-rossignol-super-virage-viii-w-spx-14-gw-bindings__20993.1774648350.500.659.jpg?c=2",
+    "price": 689.97,
+    "meta_keywords": "Rossignol,  Super,  Virage,  VIII,  Skis,  w/,  SPX,  14,  GW,  Bindings,  2026",
+    "detected_rows": [
+      "rossignol",
+      "super",
+      "virage",
+      "viii",
+      "skis",
+      "w/",
+      "spx",
+      "14",
+      "gw",
+      "bindings",
+      "2026"
     ],
     "gender": "unisex",
     "sport": "ski",
