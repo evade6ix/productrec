@@ -6679,29 +6679,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 90955,
-    "name": "K2 Dreamweaver JR Skis w/ FDT 4.5 Bindings 2024",
-    "url": "/2024-k2-dreamweaver-jr-skis-w-fdt-4-5-bindings/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/90955/images/143690/2024-k2-dreamweaver-jr-fdt-4p5-skis-w-bindings__37797.1748885507.500.659.jpg?c=2",
-    "price": 269.99,
-    "meta_keywords": "K2,  Dreamweaver,  JR,  Skis,  w/,  FDT,  4.5,  Bindings,  2024",
-    "detected_rows": [
-      "k2",
-      "dreamweaver",
-      "jr",
-      "skis",
-      "w/",
-      "fdt",
-      "4.5",
-      "bindings",
-      "2024"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 91020,
     "name": "K2 Mindbender 130 LV Mens Ski Boots 2024",
     "url": "/2024-k2-mindbender-130-lv-mens-ski-boots/",
@@ -19102,31 +19079,6 @@
       "2025"
     ],
     "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 102740,
-    "name": "Volkl Racetiger SC Black Skis w/ vMotion3 12 GW Bindings 2025",
-    "url": "/volkl-racetiger-sc-black-skis-w-vmotion3-12-gw-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/102740/images/198332/2025-volkl-racetiger-sc-black-lifestyle__21675.1774454652.500.659.jpg?c=2",
-    "price": 689.99,
-    "meta_keywords": "Volkl,  Racetiger,  SC,  Black,  Skis,  w/,  vMotion3,  12,  GW,  Bindings,  2025",
-    "detected_rows": [
-      "volkl",
-      "racetiger",
-      "sc",
-      "black",
-      "skis",
-      "w/",
-      "vmotion3",
-      "12",
-      "gw",
-      "bindings",
-      "2025"
-    ],
-    "gender": "unisex",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
@@ -48562,31 +48514,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 114851,
-    "name": "Volkl Peregrine 72 Master Skis w/ Comp 12 GW Bindings 2026",
-    "url": "/volkl-peregrine-72-master-skis-w-comp-12-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114851/images/212009/2026-volkl-peregrine-72-master-w-comp-12-gw-skis__03084.1753373494.500.659.jpg?c=2",
-    "price": 1049.99,
-    "meta_keywords": "Volkl,  Peregrine,  72,  Master,  Skis,  w/,  Comp,  12,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "volkl",
-      "peregrine",
-      "72",
-      "master",
-      "skis",
-      "w/",
-      "comp",
-      "12",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 114852,
     "name": "Dalbello Veloce Space 100 GW Ski Boots 2026",
     "url": "/dalbello-veloce-space-100-gw-ski-boots-2026/",
@@ -50353,26 +50280,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 114948,
-    "name": "Atomic Remedy 130 Ski Boots 2026",
-    "url": "/atomic-remedy-130-ski-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114948/images/232011/2026-atomic-remedy-130-lifestyle__91162.1773671485.500.659.jpg?c=2",
-    "price": 849.99,
-    "meta_keywords": "Atomic,  Remedy,  130,  Ski,  Boots,  2026",
-    "detected_rows": [
-      "atomic",
-      "remedy",
-      "130",
-      "ski",
-      "boots",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 114949,
@@ -94996,28 +94903,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 119054,
-    "name": "Purl Spring Yellow - 1 Pound (454 g)",
-    "url": "/purl-spring-yellow-1-pound-454-g/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119054/images/220122/purl-spring-yellow-1-pound-454g__03603.1760122150.500.659.jpg?c=2",
-    "price": 27.99,
-    "meta_keywords": "Purl,  Spring,  Yellow,  -,  1,  Pound,  (454,  g)",
-    "detected_rows": [
-      "purl",
-      "spring",
-      "yellow",
-      "-",
-      "1",
-      "pound",
-      "(454",
-      "g)"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
     "id": 119057,
     "name": "Purl Pro Formula - Orange - (68g)",
     "url": "/purl-pro-formula-orange-68g/",
@@ -119712,27 +119597,6 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
-  },
-  {
-    "id": 125164,
-    "name": "Salomon Strive 12 GW Ski Bindings 2026",
-    "url": "/salomon-strive-12-gw-ski-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125164/images/233050/salomon-strive-12-mn-ski-bindings-2026-lifestyle__96192.1774425698.500.659.jpg?c=2",
-    "price": 160.99,
-    "meta_keywords": "Salomon,  Strive,  12,  GW,  Ski,  Bindings,  2026",
-    "detected_rows": [
-      "salomon",
-      "strive",
-      "12",
-      "gw",
-      "ski",
-      "bindings",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 125165,
