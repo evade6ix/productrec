@@ -16028,28 +16028,6 @@
     "bucket": "snowboard_boot"
   },
   {
-    "id": 96337,
-    "name": "Suncloud Sequin White Sunglasses w/ Polarized Gray Lens",
-    "url": "/suncloud-sequin-white-sunglasses-w-polarized-gray-lens/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/96337/images/162732/suncloud-sequin-white-sunnies-polarized-grey-lens__06987.1734464591.500.659.jpg?c=2",
-    "price": 49.99,
-    "meta_keywords": "Suncloud,  Sequin,  White,  Sunglasses,  w/,  Polarized,  Gray,  Lens",
-    "detected_rows": [
-      "suncloud",
-      "sequin",
-      "white",
-      "sunglasses",
-      "w/",
-      "polarized",
-      "gray",
-      "lens"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
     "id": 96388,
     "name": "K2 Lil Kat JR Pink Snowboard Bindings 2019",
     "url": "/2019-k2-lil-kat-jr-pink-snowboard-bindings/",
@@ -67896,26 +67874,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 116872,
-    "name": "686 Outline Shell Womens Pant 2026",
-    "url": "/686-outline-shell-womens-pant-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116872/images/215638/2026-686-outline-shell-womens-pant-caramel-ripstop__05546.1769037900.500.659.jpg?c=2",
-    "price": 223.97,
-    "meta_keywords": "686,  Outline,  Shell,  Womens,  Pant,  2026",
-    "detected_rows": [
-      "686",
-      "outline",
-      "shell",
-      "womens",
-      "pant",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 116873,
     "name": "686 Dazey Womens Beanie 2026",
     "url": "/686-dazey-womens-beanie-2026/",
@@ -82011,25 +81969,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 118087,
-    "name": "Atomic Bent 100 Skis 2026",
-    "url": "/atomic-bent-100-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118087/images/227214/2026-atomic-strive-14-gw-bent-chetler-bindings__40501.1768950833.500.659.jpg?c=2",
-    "price": 524.99,
-    "meta_keywords": "Atomic,  Bent,  100,  Skis,  2026",
-    "detected_rows": [
-      "atomic",
-      "bent",
-      "100",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 118088,
     "name": "Atomic Bent Chetler 120 Skis 2026",
     "url": "/atomic-bent-chetler-120-skis-2026/",
@@ -83610,26 +83549,6 @@
     "bucket": "ski"
   },
   {
-    "id": 118237,
-    "name": "Leki Hot Shot Ski Poles 2026",
-    "url": "/leki-hot-shot-ski-poles-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118237/images/218376/2026-leki-hot-shot-black-red-ski-poles__87999.1768501595.500.659.jpg?c=2",
-    "price": 179.99,
-    "meta_keywords": "Leki,  Hot,  Shot,  Ski,  Poles,  2026",
-    "detected_rows": [
-      "leki",
-      "hot",
-      "shot",
-      "ski",
-      "poles",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
     "id": 118238,
     "name": "Leki Artena Airfoil 3D Womens Ski Poles 2026",
     "url": "/leki-artena-airfoil-3d-womens-ski-poles-2026/",
@@ -83671,26 +83590,6 @@
     "sport": "ski",
     "type": "ski",
     "bucket": "ski"
-  },
-  {
-    "id": 118242,
-    "name": "Leki Airfoil 3D Ski Poles 2026",
-    "url": "/leki-airfoil-3d-ski-poles-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118242/images/218381/2026-leki-airfoil-3d-black__89960.1772844467.500.659.jpg?c=2",
-    "price": 169.99,
-    "meta_keywords": "Leki,  Airfoil,  3D,  Ski,  Poles,  2026",
-    "detected_rows": [
-      "leki",
-      "airfoil",
-      "3d",
-      "ski",
-      "poles",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "glove",
-    "bucket": "glove"
   },
   {
     "id": 118243,
@@ -102758,27 +102657,6 @@
     "sport": "snowboard",
     "type": "sock",
     "bucket": "sock"
-  },
-  {
-    "id": 120004,
-    "name": "Atomic Remedy 130 LTD Ski Boots 2026",
-    "url": "/atomic-remedy-130-ltd-ski-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/120004/images/222898/2026-atomic-remedy-130-ltd-ski-boots__65058.1765994172.500.659.jpg?c=2",
-    "price": 769.99,
-    "meta_keywords": "Atomic,  Remedy,  130,  LTD,  Ski,  Boots,  2026",
-    "detected_rows": [
-      "atomic",
-      "remedy",
-      "130",
-      "ltd",
-      "ski",
-      "boots",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 120005,
