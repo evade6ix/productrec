@@ -23166,26 +23166,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 104079,
-    "name": "Krimson Klover Stevie Womens Jacket 2025",
-    "url": "/krimson-klover-stevie-womens-jacket-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104079/images/185018/2025-krimson-klover-stevie-womens-jacket-natural__15671.1734455828.500.659.jpg?c=2",
-    "price": 189,
-    "meta_keywords": "Krimson,  Klover,  Stevie,  Womens,  Jacket,  2025",
-    "detected_rows": [
-      "krimson",
-      "klover",
-      "stevie",
-      "womens",
-      "jacket",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 104082,
     "name": "Krimson Klover Ember Womens Vest 2025",
     "url": "/krimson-klover-ember-womens-vest-2025/",
@@ -45784,26 +45764,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 114523,
-    "name": "Ride Specter Mens Snowboard Bindings 2026",
-    "url": "/ride-specter-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114523/images/211400/2026-ride-lifestyle-specter__78254.1771002605.500.659.jpg?c=2",
-    "price": 209.99,
-    "meta_keywords": "Ride,  Specter,  Mens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "ride",
-      "specter",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 114524,
     "name": "Ride Algorhythm Snowboard 2026",
     "url": "/ride-algorhythm-snowboard-2026/",
@@ -46445,29 +46405,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 114679,
-    "name": "Smith I/O Mag XL Low Bridge Fit Goggle 2026",
-    "url": "/smith-i-o-mag-xl-low-bridge-fit-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114679/images/211659/2026-smith-i-o-mag-xl-low-bridge-fit-goggle-black-w-pro-photochromic-gold-mirror-cp-storm-blue-sensor-mirror__74752.1774295103.500.659.jpg?c=2",
-    "price": 194.99,
-    "meta_keywords": "Smith,  I/O,  Mag,  XL,  Low,  Bridge,  Fit,  Goggle,  2026",
-    "detected_rows": [
-      "smith",
-      "i/o",
-      "mag",
-      "xl",
-      "low",
-      "bridge",
-      "fit",
-      "goggle",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 114681,
@@ -57315,24 +57252,6 @@
     "bucket": "sock"
   },
   {
-    "id": 115798,
-    "name": "Yes Basic Snowboard 2026",
-    "url": "/yes-basic-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115798/images/232646/2026-yes-basic-lifestyle-image__88714.1772640157.500.659.jpg?c=2",
-    "price": 370.99,
-    "meta_keywords": "Yes,  Basic,  Snowboard,  2026",
-    "detected_rows": [
-      "yes",
-      "basic",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 115799,
     "name": "Burton Impact Womens Short 2026",
     "url": "/burton-impact-womens-short-2026/",
@@ -61204,25 +61123,6 @@
       "elan",
       "ripstick",
       "96",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 116277,
-    "name": "Elan Ripstick 88 Skis 2026",
-    "url": "/elan-ripstick-88-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116277/images/222770/2026-elan-ripstick-88-lifestyle-image__93845.1772815789.500.659.jpg?c=2",
-    "price": 524.99,
-    "meta_keywords": "Elan,  Ripstick,  88,  Skis,  2026",
-    "detected_rows": [
-      "elan",
-      "ripstick",
-      "88",
       "skis",
       "2026"
     ],
@@ -74038,27 +73938,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 117316,
-    "name": "Dale of Norway Spirit Mens Jacket 2026",
-    "url": "/dale-of-norway-spirit-mens-jacket-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117316/images/216583/dale-of-norway-spirit-mns-navy-offwhite-raspberry-jacket-2026-2__58934.1757365448.500.659.jpg?c=2",
-    "price": 266,
-    "meta_keywords": "Dale,  of,  Norway,  Spirit,  Mens,  Jacket,  2026",
-    "detected_rows": [
-      "dale",
-      "of",
-      "norway",
-      "spirit",
-      "mens",
-      "jacket",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 117317,
     "name": "Bula Therma-Comfort Sharp Junior Balaclava 2026",
     "url": "/bula-therma-comfort-sharp-junior-balaclava-2026/",
@@ -82228,27 +82107,6 @@
       "gore-tex",
       "adult",
       "3-finger",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 118107,
-    "name": "Hestra Army Leather Gore-Tex Adult Mitt 2026",
-    "url": "/hestra-army-leather-gore-tex-adult-mitt-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118107/images/218103/hestra-army-leather-gore-tex-adult-black-natural-grey-mitt-2026__94783.1764357852.500.659.jpg?c=2",
-    "price": 220,
-    "meta_keywords": "Hestra,  Army,  Leather,  Gore-Tex,  Adult,  Mitt,  2026",
-    "detected_rows": [
-      "hestra",
-      "army",
-      "leather",
-      "gore-tex",
-      "adult",
-      "mitt",
       "2026"
     ],
     "gender": "womens",
@@ -100390,28 +100248,6 @@
     "bucket": "other"
   },
   {
-    "id": 119804,
-    "name": "The North Face Summit Breithorn Womens Jacket 2026",
-    "url": "/the-north-face-summit-breithorn-womens-jacket-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119804/images/222112/2026-the-north-face-summit-breithorn-nebula-green-evergreen-womens-jacket__39432.1764271777.500.659.jpg?c=2",
-    "price": 349.99,
-    "meta_keywords": "The,  North,  Face,  Summit,  Breithorn,  Womens,  Jacket,  2026",
-    "detected_rows": [
-      "the",
-      "north",
-      "face",
-      "summit",
-      "breithorn",
-      "womens",
-      "jacket",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 119811,
     "name": "Krimson Klover Sugarbush Womens Turtleneck 2026",
     "url": "/krimson-klover-sugarbush-womens-turtleneck-2026/",
@@ -104051,32 +103887,6 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
-  },
-  {
-    "id": 121930,
-    "name": "Elan Wildcat 83 TI Womens Skis w/ EL 9.0 GW Bindings 2026",
-    "url": "/elan-wildcat-83-ti-womens-skis-w-el-9-0-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/121930/images/226588/2026-elan-wildcat-83-ti-womens-skis-w-el-9-0-gw-bindings__53513.1773599193.500.659.jpg?c=2",
-    "price": 629.99,
-    "meta_keywords": "Elan,  Wildcat,  83,  TI,  Womens,  Skis,  w/,  EL,  9.0,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "elan",
-      "wildcat",
-      "83",
-      "ti",
-      "womens",
-      "skis",
-      "w/",
-      "el",
-      "9.0",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 121935,
@@ -115858,27 +115668,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 124889,
-    "name": "Head Attack 14 GW Ski Bindings 2025",
-    "url": "/head-attack-14-gw-ski-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124889/images/232475/2022-head-attack-14-ski-binding-red__47458.1774050086.500.659.jpg?c=2",
-    "price": 179.99,
-    "meta_keywords": "Head,  Attack,  14,  GW,  Ski,  Bindings,  2025",
-    "detected_rows": [
-      "head",
-      "attack",
-      "14",
-      "gw",
-      "ski",
-      "bindings",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 124890,
     "name": "2021 Elan Attack 13 AT Black Bindings",
     "url": "/2021-elan-attack-13-at-black-bindings/",
@@ -118504,25 +118293,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 125096,
-    "name": "K2 Omen 90 Skis 2026",
-    "url": "/k2-omen-90-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125096/images/232918/2026-lifestyle-k2-omen-90__35233.1773671494.500.659.jpg?c=2",
-    "price": 419.99,
-    "meta_keywords": "K2,  Omen,  90,  Skis,  2026",
-    "detected_rows": [
-      "k2",
-      "omen",
-      "90",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 125097,
     "name": "Volkl Peregine ST Skis w/ vMotion 10 GW Bindings 2026",
     "url": "/volkl-peregine-st-skis-w-vmotion-10-gw-bindings-2026/",
@@ -119170,33 +118940,6 @@
       "ca",
       "skis",
       "2027"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 125146,
-    "name": "Blizzard Stormbird 80 Ti Skis w/ TP 11 Light GW Demo Bindings 2026",
-    "url": "/blizzard-stormbird-80-ti-skis-w-tp-11-light-gw-demo-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125146/images/233010/2026-blizzard-stormbird-80-ti-skis-w-tp-11-light-gw-demo-bindings__13430.1774295068.500.659.jpg?c=2",
-    "price": 679.99,
-    "meta_keywords": "Blizzard,  Stormbird,  80,  Ti,  Skis,  w/,  TP,  11,  Light,  GW,  Demo,  Bindings,  2026",
-    "detected_rows": [
-      "blizzard",
-      "stormbird",
-      "80",
-      "ti",
-      "skis",
-      "w/",
-      "tp",
-      "11",
-      "light",
-      "gw",
-      "demo",
-      "bindings",
-      "2026"
     ],
     "gender": "mens",
     "sport": "ski",
