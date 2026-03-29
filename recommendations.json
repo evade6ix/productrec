@@ -24750,27 +24750,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 104582,
-    "name": "POC Skull Dura X MIPS Helmet 2025",
-    "url": "/poc-skull-dura-x-mips-helmet-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104582/images/189251/2025-poc-skull-dura-x-mips-helmet-lifestyle-image__03459.1773932751.500.659.jpg?c=2",
-    "price": 209.99,
-    "meta_keywords": "POC,  Skull,  Dura,  X,  MIPS,  Helmet,  2025",
-    "detected_rows": [
-      "poc",
-      "skull",
-      "dura",
-      "x",
-      "mips",
-      "helmet",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 104588,
     "name": "Nitro Cypress BOA Womens Snowboard Boots 2025",
     "url": "/nitro-cypress-boa-womens-snowboard-boots-2025/",
@@ -49896,7 +49875,7 @@
     "id": 114933,
     "name": "Atomic Four Q L HD Goggles 2026",
     "url": "/atomic-four-q-l-hd-goggles-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114933/images/212108/2026-atomic-four-q-l-hd-black-w-green-hd-goggles__64429.1774034210.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114933/images/212108/2026-atomic-four-q-l-hd-black-w-green-hd-goggles__85753.1774822325.500.659.jpg?c=2",
     "price": 209.99,
     "meta_keywords": "Atomic,  Four,  Q,  L,  HD,  Goggles,  2026",
     "detected_rows": [
@@ -50049,7 +50028,7 @@
     "id": 114940,
     "name": "Atomic Revent Q L HD Goggles 2026",
     "url": "/atomic-revent-q-l-hd-goggles-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114940/images/212118/2026-atomic-revent-q-l-hd-maroon-w-pink-copper-hd-goggles__34969.1774034212.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114940/images/212118/2026-atomic-revent-q-l-hd-green-w-green-goggles__32987.1774822326.500.659.jpg?c=2",
     "price": 209.99,
     "meta_keywords": "Atomic,  Revent,  Q,  L,  HD,  Goggles,  2026",
     "detected_rows": [
@@ -103785,25 +103764,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 121928,
-    "name": "GNU Barrett Womens Snowboard 2026",
-    "url": "/gnu-barrett-womens-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/121928/images/226586/2026-gnu-lifestyle-barrett__31127.1767099577.500.659.jpg?c=2",
-    "price": 524.99,
-    "meta_keywords": "GNU,  Barrett,  Womens,  Snowboard,  2026",
-    "detected_rows": [
-      "gnu",
-      "barrett",
-      "womens",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 121935,
     "name": "Salomon Depart 1.0 Skis 2026",
     "url": "/salomon-depart-1-0-skis-2026/",
@@ -108710,26 +108670,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 124292,
-    "name": "Luhta Ikaala Womens Midlayer Jacket 2025",
-    "url": "/luhta-ikaala-womens-midlayer-jacket-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124292/images/231336/luhta-ikaala-wmn-natural-white-midlayer-jacket-2025__52927.1771437986.500.659.jpg?c=2",
-    "price": 105,
-    "meta_keywords": "Luhta,  Ikaala,  Womens,  Midlayer,  Jacket,  2025",
-    "detected_rows": [
-      "luhta",
-      "ikaala",
-      "womens",
-      "midlayer",
-      "jacket",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 124293,
     "name": "Karbon Raven Junior Print Jacket 2025",
     "url": "/karbon-raven-junior-print-jacket-2025/",
@@ -109670,26 +109610,6 @@
     "sport": "ski",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 124384,
-    "name": "Anon Nesa Low Bridge Goggle 2026",
-    "url": "/anon-nesa-low-bridge-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124384/images/231528/2026-anon-nesa-goggle-white-w-perceive-sunny-onyx__23019.1768042023.500.659.jpg?c=2",
-    "price": 119.99,
-    "meta_keywords": "Anon,  Nesa,  Low,  Bridge,  Goggle,  2026",
-    "detected_rows": [
-      "anon",
-      "nesa",
-      "low",
-      "bridge",
-      "goggle",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "goggle",
-    "bucket": "goggle"
   },
   {
     "id": 124392,
@@ -118900,25 +118820,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 125152,
-    "name": "GNU Velvet Womens Snowboard 2026",
-    "url": "/gnu-velvet-womens-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125152/images/233020/2026-gnu-lifestyle-velvet__86843.1774367527.500.659.jpg?c=2",
-    "price": 489.99,
-    "meta_keywords": "GNU,  Velvet,  Womens,  Snowboard,  2026",
-    "detected_rows": [
-      "gnu",
-      "velvet",
-      "womens",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 125154,
     "name": "Salomon S/Lab Shift2 16 MN Ski Bindings 2027",
     "url": "/salomon-s-lab-shift2-16-mn-ski-bindings-2027/",
@@ -119959,5 +119860,26 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
+  },
+  {
+    "id": 125207,
+    "name": "Atomic Redster WC L HD Goggles 2026",
+    "url": "/atomic-redster-wc-l-hd-goggles-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125207/images/233122/2026-atomic-redster-wc-l-hd-black-w-red-hd-goggles__43762.1774822322.500.659.jpg?c=2",
+    "price": 329.99,
+    "meta_keywords": "Atomic,  Redster,  WC,  L,  HD,  Goggles,  2026",
+    "detected_rows": [
+      "atomic",
+      "redster",
+      "wc",
+      "l",
+      "hd",
+      "goggles",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "goggle",
+    "bucket": "goggle"
   }
 ]
