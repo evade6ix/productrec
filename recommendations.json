@@ -54312,26 +54312,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 115560,
-    "name": "Jones Meteorite Mens Snowboard Bindings 2026",
-    "url": "/jones-meteorite-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115560/images/213075/2026-jones-meteorite-lifestyle-image__04005.1772640154.500.659.jpg?c=2",
-    "price": 279.99,
-    "meta_keywords": "Jones,  Meteorite,  Mens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "jones",
-      "meteorite",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 115563,
     "name": "Jones Womens Tweaker Snowboard 2026",
     "url": "/jones-womens-tweaker-snowboard-2026/",
@@ -113699,29 +113679,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 124752,
-    "name": "K2 BFC 105 HV GW Womens Ski Boots 2023",
-    "url": "/k2-bfc-105-hv-gw-womens-ski-boots-2023/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124752/images/232127/2023-k2-bfc-105-hv-gw-womens-ski-boots__61226.1770847414.500.659.jpg?c=2",
-    "price": 219.99,
-    "meta_keywords": "K2,  BFC,  105,  HV,  GW,  Womens,  Ski,  Boots,  2023",
-    "detected_rows": [
-      "k2",
-      "bfc",
-      "105",
-      "hv",
-      "gw",
-      "womens",
-      "ski",
-      "boots",
-      "2023"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 124753,
     "name": "K2 Recon 100 MV GW Mens Ski Boots 2023",
     "url": "/k2-recon-100-mv-gw-mens-ski-boots-2023/",
@@ -119395,26 +119352,6 @@
     ],
     "gender": "unisex",
     "sport": "snowboard",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
-    "id": 125174,
-    "name": "Smith Glide Jr. MIPS Helmet 2025",
-    "url": "/smith-glide-jr-mips-helmet-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125174/images/233072/2025-smith-glide-jr-mips-prpi-junior-helmet__61522.1774633871.500.659.jpg?c=2",
-    "price": 71.99,
-    "meta_keywords": "Smith,  Glide,  Jr.,  MIPS,  Helmet,  2025",
-    "detected_rows": [
-      "smith",
-      "glide",
-      "jr.",
-      "mips",
-      "helmet",
-      "2025"
-    ],
-    "gender": "kids",
-    "sport": "other",
     "type": "helmet",
     "bucket": "helmet"
   },
