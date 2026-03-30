@@ -38228,29 +38228,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 113094,
-    "name": "Head FREEFLEX ST 14 B85 Black Ski Bindings 2026",
-    "url": "/head-freeflex-st-14-b85-black-ski-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113094/images/209209/head-head-freeflex-st-14-b85-black-ski-bindings-2026__34254.1747394426.500.659.jpg?c=2",
-    "price": 287.99,
-    "meta_keywords": "Head,  FREEFLEX,  ST,  14,  B85,  Black,  Ski,  Bindings,  2026",
-    "detected_rows": [
-      "head",
-      "freeflex",
-      "st",
-      "14",
-      "b85",
-      "black",
-      "ski",
-      "bindings",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 113096,
     "name": "Atomic Hawx Prime XTD 120 BOA GW Ski Boots 2026",
     "url": "/atomic-hawx-prime-xtd-120-boa-gw-ski-boots-2026/",
@@ -43137,26 +43114,6 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
-  },
-  {
-    "id": 114239,
-    "name": "Ride The Perfect Snowboard Bag 2026",
-    "url": "/ride-the-perfact-snowboard-bag-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114239/images/222214/2026-ride-lifestyle-perfect-board-bag__40587.1764357842.500.659.jpg?c=2",
-    "price": 157.49,
-    "meta_keywords": "Ride,  The,  Perfect,  Snowboard,  Bag,  2026",
-    "detected_rows": [
-      "ride",
-      "the",
-      "perfect",
-      "snowboard",
-      "bag",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "bag",
-    "bucket": "bag"
   },
   {
     "id": 114240,
