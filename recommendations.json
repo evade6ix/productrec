@@ -51957,27 +51957,6 @@
     "bucket": "goggle"
   },
   {
-    "id": 115286,
-    "name": "Head Raptor WCR 120 Ski Boots 2026",
-    "url": "/head-raptor-wcr-120-ski-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115286/images/212662/2026-head-raptor-wcr-120-ski-boots__83981.1767810942.500.659.jpg?c=2",
-    "price": 583.99,
-    "meta_keywords": "Head,  Raptor,  WCR,  120,  Ski,  Boots,  2026",
-    "detected_rows": [
-      "head",
-      "raptor",
-      "wcr",
-      "120",
-      "ski",
-      "boots",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 115287,
     "name": "Head Kore 94 Ti Skis 2026",
     "url": "/head-kore-94-ti-skis-2026/",
@@ -54104,27 +54083,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 115548,
-    "name": "Volkl Touristick CC Adjustable Ski Poles 2026",
-    "url": "/volkl-touristick-cc-adjustable-ski-poles-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115548/images/213061/2026-volkl-touristick-cc-adj-poles__91946.1755114804.500.659.jpg?c=2",
-    "price": 167.99,
-    "meta_keywords": "Volkl,  Touristick,  CC,  Adjustable,  Ski,  Poles,  2026",
-    "detected_rows": [
-      "volkl",
-      "touristick",
-      "cc",
-      "adjustable",
-      "ski",
-      "poles",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
   },
   {
     "id": 115552,
@@ -62036,25 +61994,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 116442,
-    "name": "GNU Banked Country Snowboard 2026",
-    "url": "/gnu-banked-country-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116442/images/222474/2026-gnu-lifestyle-banked-country__44004.1764785610.500.659.jpg?c=2",
-    "price": 559.99,
-    "meta_keywords": "GNU,  Banked,  Country,  Snowboard,  2026",
-    "detected_rows": [
-      "gnu",
-      "banked",
-      "country",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 116443,
     "name": "GNU Gloss C Womens Snowboard 2026",
     "url": "/gnu-gloss-c-womens-snowboard-2026/",
@@ -62223,28 +62162,6 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
-  },
-  {
-    "id": 116455,
-    "name": "Thirtytwo TM-2 XLT Diggers Mens Snowboard Boots 2026",
-    "url": "/thirtytwo-tm-2-xlt-diggers-mens-snowboard-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116455/images/214738/2026-thirtytwo-tm-2-xlt-diggers-snowboard-boots__78235.1756828386.500.659.jpg?c=2",
-    "price": 450.49,
-    "meta_keywords": "Thirtytwo,  TM-2,  XLT,  Diggers,  Mens,  Snowboard,  Boots,  2026",
-    "detected_rows": [
-      "thirtytwo",
-      "tm-2",
-      "xlt",
-      "diggers",
-      "mens",
-      "snowboard",
-      "boots",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "boot",
-    "bucket": "snowboard_boot"
   },
   {
     "id": 116456,
@@ -77651,31 +77568,6 @@
     "bucket": "other"
   },
   {
-    "id": 117632,
-    "name": "Volkl Peregrine V-Werks Skis w/ Lowride XL 13 GW Bindings 2026",
-    "url": "/volkl-peregrine-v-werks-skis-w-lowride-xl-13-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117632/images/217295/2026-volkl-peregrine-v-werks-skis-w-lowride-xl-13-gw-bindings__33600.1757524865.500.659.jpg?c=2",
-    "price": 1259.99,
-    "meta_keywords": "Volkl,  Peregrine,  V-Werks,  Skis,  w/,  Lowride,  XL,  13,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "volkl",
-      "peregrine",
-      "v-werks",
-      "skis",
-      "w/",
-      "lowride",
-      "xl",
-      "13",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 117654,
     "name": "Armada Multifit Skin 2026",
     "url": "/armada-multifit-skin-2026/",
@@ -81786,7 +81678,7 @@
     "id": 118090,
     "name": "Atomic Bent 90 Skis 2026",
     "url": "/atomic-bent-90-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118090/images/227213/2026-atomic-strive-14-gw-bent-chetler-bindings__50182.1773845689.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118090/images/227213/2026-atomic-strive-14-gw-bent-chetler-bindings__57325.1774880267.500.659.jpg?c=2",
     "price": 489.99,
     "meta_keywords": "Atomic,  Bent,  90,  Skis,  2026",
     "detected_rows": [
@@ -83861,26 +83753,6 @@
       "agent",
       "1",
       "purple",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 118298,
-    "name": "Faction Agent 2 Pink Skis 2026",
-    "url": "/faction-agent-2-pink-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118298/images/222267/2026-faction-lifestyle-agent-2-pink__79541.1765481053.500.659.jpg?c=2",
-    "price": 759.19,
-    "meta_keywords": "Faction,  Agent,  2,  Pink,  Skis,  2026",
-    "detected_rows": [
-      "faction",
-      "agent",
-      "2",
-      "pink",
       "skis",
       "2026"
     ],
@@ -91473,30 +91345,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 118793,
-    "name": "Faction Dancer 79 White w/ Strive 11 GW Skis 2026",
-    "url": "/faction-dancer-79-white-w-strive-11-gw-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118793/images/222282/2026-faction-lifestyle-dancer-79-white-sys__98528.1764617315.500.659.jpg?c=2",
-    "price": 839.19,
-    "meta_keywords": "Faction,  Dancer,  79,  White,  w/,  Strive,  11,  GW,  Skis,  2026",
-    "detected_rows": [
-      "faction",
-      "dancer",
-      "79",
-      "white",
-      "w/",
-      "strive",
-      "11",
-      "gw",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 118795,
     "name": "Level Worldcup CF Adult Mitt 2026",
     "url": "/level-worldcup-cf-adult-mitt-2026/",
@@ -96630,28 +96478,6 @@
       "xt",
       "junior",
       "glove",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 119204,
-    "name": "Reusch Worldcup Warrior R-TEX XT Junior Mitten 2026",
-    "url": "/reusch-worldcup-warrior-r-tex-xt-junior-mitten-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119204/images/220400/reusch-worldcup-warrior-r-tex-xt-junior-black-silver-fluo-red-mitten-2026__53238.1761165825.500.659.jpg?c=2",
-    "price": 105,
-    "meta_keywords": "Reusch,  Worldcup,  Warrior,  R-TEX,  XT,  Junior,  Mitten,  2026",
-    "detected_rows": [
-      "reusch",
-      "worldcup",
-      "warrior",
-      "r-tex",
-      "xt",
-      "junior",
-      "mitten",
       "2026"
     ],
     "gender": "kids",
@@ -117975,28 +117801,6 @@
     "bucket": "glove"
   },
   {
-    "id": 125092,
-    "name": "Smith I/O Mag Low Bridge Fit Goggle 2026",
-    "url": "/smith-i-o-mag-low-bridge-fit-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125092/images/232908/2026-smith-i-o-mag-low-bridge-fit-goggle-tyler-keaton-robbins-artist-series-w-cp-sun-black-gold-mirror-cp-storm-blue-sensor-mirror__61446.1773700435.500.659.jpg?c=2",
-    "price": 194.99,
-    "meta_keywords": "Smith,  I/O,  Mag,  Low,  Bridge,  Fit,  Goggle,  2026",
-    "detected_rows": [
-      "smith",
-      "i/o",
-      "mag",
-      "low",
-      "bridge",
-      "fit",
-      "goggle",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 125093,
     "name": "Ride Saturday Womens Snowboard w/ Ride Specter Womens Snowboard Bindings Package 2026",
     "url": "/ride-saturday-womens-snowboard-w-ride-specter-womens-snowboard-bindings-package-2026/",
@@ -119838,5 +119642,72 @@
     "sport": "other",
     "type": "goggle",
     "bucket": "goggle"
+  },
+  {
+    "id": 125208,
+    "name": "Dynastar E Lite 5 Womens Skis w/ Xpress 11 GW BK/SPKL Bindings 2024",
+    "url": "/dynastar-e-lite-5-womens-skis-w-xpress-11-gw-bk-spkl-bindings-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125208/images/233124/2024-dynastar-e-lite-w-xpress-11-gw-blk-spkl__39353.1774880220.500.659.jpg?c=2",
+    "price": 449.99,
+    "meta_keywords": "Dynastar,  E,  Lite,  5,  Womens,  Skis,  w/,  Xpress,  11,  GW,  BK/SPKL,  Bindings,  2024",
+    "detected_rows": [
+      "dynastar",
+      "e",
+      "lite",
+      "5",
+      "womens",
+      "skis",
+      "w/",
+      "xpress",
+      "11",
+      "gw",
+      "bk/spkl",
+      "bindings",
+      "2024"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125209,
+    "name": "Bula Therma-Comfort Adult Goggle Cover 2026",
+    "url": "/bula-therma-comfort-adult-goggle-cover-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125209/images/233126/2026-bula-therma-comfort-adult-lens-goggle-cover-army__55853.1774880232.500.659.jpg?c=2",
+    "price": 9.6,
+    "meta_keywords": "Bula,  Therma-Comfort,  Adult,  Goggle,  Cover,  2026",
+    "detected_rows": [
+      "bula",
+      "therma-comfort",
+      "adult",
+      "goggle",
+      "cover",
+      "2026"
+    ],
+    "gender": "kids",
+    "sport": "other",
+    "type": "midlayer",
+    "bucket": "midlayer"
+  },
+  {
+    "id": 125210,
+    "name": "Db Roamer Duffel Pack 25L 2025",
+    "url": "/db-roamer-duffel-pack-25l-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125210/images/233133/2025-db-roamer-duffel20l-lifestyle__44275.1774880261.500.659.jpg?c=2",
+    "price": 122.99,
+    "meta_keywords": "Db,  Roamer,  Duffel,  Pack,  25L,  2025",
+    "detected_rows": [
+      "db",
+      "roamer",
+      "duffel",
+      "pack",
+      "25l",
+      "2025"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "bag",
+    "bucket": "bag"
   }
 ]
