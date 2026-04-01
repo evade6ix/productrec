@@ -35093,29 +35093,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 111093,
-    "name": "Atomic Strive 14 GW Bent Chetler Ski Bindings 2026",
-    "url": "/atomic-strive-14-gw-bent-chetler-ski-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/111093/images/204788/atomic-atomic-strive-14-gw-bent-chetler-ski-bindings-2026__64116.1740033882.500.659.jpg?c=2",
-    "price": 195.99,
-    "meta_keywords": "Atomic,  Strive,  14,  GW,  Bent,  Chetler,  Ski,  Bindings,  2026",
-    "detected_rows": [
-      "atomic",
-      "strive",
-      "14",
-      "gw",
-      "bent",
-      "chetler",
-      "ski",
-      "bindings",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 111101,
     "name": "Atomic Hawx Ultra 130 S Dual BOA GW Ski Boots 2026",
     "url": "/atomic-hawx-ultra-130-s-dual-boa-gw-ski-boots-2026/",
@@ -43855,26 +43832,6 @@
       "2026"
     ],
     "gender": "kids",
-    "sport": "snowboard",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
-    "id": 114324,
-    "name": "K2 Orton Mens Snowboard Boots 2026",
-    "url": "/k2-orton-snowboard-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114324/images/211104/k2%252520orton%252520blk%252520lifestyle%2525202026__15154.1752083069.500.659.jpg?c=2",
-    "price": 349.99,
-    "meta_keywords": "K2,  Orton,  Mens,  Snowboard,  Boots,  2026",
-    "detected_rows": [
-      "k2",
-      "orton",
-      "mens",
-      "snowboard",
-      "boots",
-      "2026"
-    ],
-    "gender": "mens",
     "sport": "snowboard",
     "type": "jacket",
     "bucket": "jacket"
