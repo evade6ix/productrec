@@ -36260,26 +36260,6 @@
     "bucket": "bag"
   },
   {
-    "id": 112110,
-    "name": "GNU Pro Choice Womens Snowboard 2025",
-    "url": "/gnu-pro-choice-womens-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112110/images/207235/2025-gnu-pro%252520choice-womens-snowboard__84875.1752113201.500.659.jpg?c=2",
-    "price": 479.99,
-    "meta_keywords": "GNU,  Pro,  Choice,  Womens,  Snowboard,  2025",
-    "detected_rows": [
-      "gnu",
-      "pro",
-      "choice",
-      "womens",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
     "id": 112135,
     "name": "Sunice Rachel Womens Pant 2023",
     "url": "/sunice-rachel-womens-pant-2023/",
@@ -43144,27 +43124,6 @@
       "burton",
       "ruler",
       "boa",
-      "mens",
-      "snowboard",
-      "boots",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
-    "id": 114250,
-    "name": "Burton Driver X Mens Snowboard Boots 2026",
-    "url": "/burton-driver-x-snowboard-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114250/images/211001/2025-burton-driver-x-mens-snowboard-boots-black__73910.1751923798.500.659.jpg?c=2",
-    "price": 468.99,
-    "meta_keywords": "Burton,  Driver,  X,  Mens,  Snowboard,  Boots,  2026",
-    "detected_rows": [
-      "burton",
-      "driver",
-      "x",
       "mens",
       "snowboard",
       "boots",
