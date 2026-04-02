@@ -45739,24 +45739,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 114543,
-    "name": "Ride Twinpig Snowboard 2026",
-    "url": "/ride-twinpig-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114543/images/222169/2026-ride-lifestyle-twinpig__73812.1764285315.500.659.jpg?c=2",
-    "price": 384.99,
-    "meta_keywords": "Ride,  Twinpig,  Snowboard,  2026",
-    "detected_rows": [
-      "ride",
-      "twinpig",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 114544,
     "name": "Ride Specter Womens Snowboard Bindings 2026",
     "url": "/ride-specter-womens-snowboard-bindings-2026/",
@@ -117717,25 +117699,6 @@
       "2027"
     ],
     "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 125147,
-    "name": "Atomic Bent 85 Skis 2026",
-    "url": "/atomic-bent-85-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125147/images/233011/2026-atomic-bent-85-skis__40270.1774295084.500.659.jpg?c=2",
-    "price": 349.99,
-    "meta_keywords": "Atomic,  Bent,  85,  Skis,  2026",
-    "detected_rows": [
-      "atomic",
-      "bent",
-      "85",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
