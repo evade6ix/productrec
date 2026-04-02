@@ -12046,7 +12046,7 @@
     "id": 93708,
     "name": "Obermeyer Orb Boys Jacket 2024",
     "url": "/2024-obermeyer-orb-boys-jacket/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/93708/images/153580/2024-obermeyer-orb-jacket-red__28612.1748885092.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/93708/images/154044/2024-obermeyer-orb-jacket-red__30280.1734457130.500.659.jpg?c=2",
     "price": 101.4,
     "meta_keywords": "Obermeyer,  Orb,  Boys,  Jacket,  2024",
     "detected_rows": [
@@ -115960,28 +115960,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 125009,
-    "name": "Eivy Loose Fit Hoodie Womens Rib Top 2025",
-    "url": "/eivy-loose-fit-hoodie-womens-rib-top-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125009/images/232747/eivy-loose-fit-hoodie-womens-faded-blocks-rib-top-2025__13120.1773164099.500.659.jpg?c=2",
-    "price": 129.95,
-    "meta_keywords": "Eivy,  Loose,  Fit,  Hoodie,  Womens,  Rib,  Top,  2025",
-    "detected_rows": [
-      "eivy",
-      "loose",
-      "fit",
-      "hoodie",
-      "womens",
-      "rib",
-      "top",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 125014,
     "name": "Atomic Shift2 16 MN Bent Chetler Ski Bindings 2027",
     "url": "/atomic-shift2-16-mn-bent-chetler-ski-bindings-2027/",
@@ -119304,5 +119282,44 @@
     "sport": "snowboard",
     "type": "boot",
     "bucket": "snowboard_boot"
+  },
+  {
+    "id": 125233,
+    "name": "Spyder Terrain Womens Bib Pant 2025",
+    "url": "/spyder-terrain-womens-bib-pant-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125233/images/233181/2025-spyder-terrain-womens-black-bib-pant__63609.1775138225.500.659.jpg?c=2",
+    "price": 233.4,
+    "meta_keywords": "Spyder,  Terrain,  Womens,  Bib,  Pant,  2025",
+    "detected_rows": [
+      "spyder",
+      "terrain",
+      "womens",
+      "bib",
+      "pant",
+      "2025"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125234,
+    "name": "Db Snow Roller Pro 2026",
+    "url": "/db-snow-roller-pro-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125234/images/233183/2026-db-snow-roller-pro-forest-green__58227.1775138226.500.659.jpg?c=2",
+    "price": 359.99,
+    "meta_keywords": "Db,  Snow,  Roller,  Pro,  2026",
+    "detected_rows": [
+      "db",
+      "snow",
+      "roller",
+      "pro",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "glove",
+    "bucket": "glove"
   }
 ]
