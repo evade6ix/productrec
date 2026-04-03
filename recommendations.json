@@ -22232,28 +22232,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 103849,
-    "name": "Smith Squad S Goggle + Spare Lens 2025",
-    "url": "/smith-squad-s-goggle-spare-lens-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103849/images/184299/2025-smith-squad-s-2025-cosmos-dreamscape-goggle-w-cp-sun-black-lens-%25252b-clear-spare-lens__57109.1773874675.500.659.jpg?c=2",
-    "price": 93,
-    "meta_keywords": "Smith,  Squad,  S,  Goggle,  +,  Spare,  Lens,  2025",
-    "detected_rows": [
-      "smith",
-      "squad",
-      "s",
-      "goggle",
-      "+",
-      "spare",
-      "lens",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 103850,
     "name": "Smith Skyline Goggle 2025",
     "url": "/smith-skyline-goggle-2025/",
@@ -118186,31 +118164,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 125188,
-    "name": "Rossignol Super Virage VI Skis w/ NX 12 GW Bindings 2025",
-    "url": "/rossignol-super-virage-vi-skis-w-nx-12-gw-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125188/images/233095/2025-rossignol-super-virage-vi-skis-w-nx-12-gw-bindings__52993.1774648309.500.659.jpg?c=2",
-    "price": 539.94,
-    "meta_keywords": "Rossignol,  Super,  Virage,  VI,  Skis,  w/,  NX,  12,  GW,  Bindings,  2025",
-    "detected_rows": [
-      "rossignol",
-      "super",
-      "virage",
-      "vi",
-      "skis",
-      "w/",
-      "nx",
-      "12",
-      "gw",
-      "bindings",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 125189,
