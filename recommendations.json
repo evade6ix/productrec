@@ -53726,25 +53726,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 115557,
-    "name": "Jones Aviator 2.0 Snowboard 2026",
-    "url": "/jones-aviator-2-0-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115557/images/232647/2026-jones-aviator-2-0-lifestyle-image__01042.1774367540.500.659.jpg?c=2",
-    "price": 769.99,
-    "meta_keywords": "Jones,  Aviator,  2.0,  Snowboard,  2026",
-    "detected_rows": [
-      "jones",
-      "aviator",
-      "2.0",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 115563,
     "name": "Jones Womens Tweaker Snowboard 2026",
     "url": "/jones-womens-tweaker-snowboard-2026/",
@@ -91565,25 +91546,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 118860,
-    "name": "Arc'teryx Thorium Mens Hoody 2026",
-    "url": "/arc-teryx-thorium-mens-hoody-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118860/images/219619/2025-arc%252527teryx-thorium-mens-hoody-black-onmodel__65675.1759861552.500.659.jpg?c=2",
-    "price": 480,
-    "meta_keywords": "Arc'teryx,  Thorium,  Mens,  Hoody,  2026",
-    "detected_rows": [
-      "arc'teryx",
-      "thorium",
-      "mens",
-      "hoody",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 118861,
     "name": "Arc'teryx Rho LT Mens Bottoms 2026",
     "url": "/arc-teryx-rho-lt-mens-bottoms-2026/",
@@ -119462,5 +119424,27 @@
     "sport": "other",
     "type": "base_layer",
     "bucket": "base_layer"
+  },
+  {
+    "id": 125253,
+    "name": "Icebreaker Merino 260 Tech Adult Glove Liner 2026",
+    "url": "/icebreaker-merino-260-tech-adult-glove-liner-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125253/images/233221/2025-icebreaker-260-tech-adult-black-glove-liner__17383.1775326305.500.659.jpg?c=2",
+    "price": 38.5,
+    "meta_keywords": "Icebreaker,  Merino,  260,  Tech,  Adult,  Glove,  Liner,  2026",
+    "detected_rows": [
+      "icebreaker",
+      "merino",
+      "260",
+      "tech",
+      "adult",
+      "glove",
+      "liner",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "other",
+    "type": "glove",
+    "bucket": "glove"
   }
 ]
