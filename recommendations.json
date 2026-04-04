@@ -60214,26 +60214,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 116211,
-    "name": "Union Legacy Womens Snowboard Bindings 2026",
-    "url": "/union-legacy-womens-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116211/images/214348/2026-union-legacy-lifestyle-image__23584.1774981984.500.659.jpg?c=2",
-    "price": 279.99,
-    "meta_keywords": "Union,  Legacy,  Womens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "union",
-      "legacy",
-      "womens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 116212,
     "name": "Union Trilogy Womens Snowboard Bindings 2026",
     "url": "/union-trilogy-womens-snowboard-bindings-2026/",
@@ -99685,34 +99665,6 @@
     "sport": "ski",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 119846,
-    "name": "CAPiTA Space Metal Fantasy Womens Snowboard w/ Union Legacy Womens Snowboard Bindings Package 2026",
-    "url": "/capita-space-metal-fantasy-womens-snowboard-w-union-legacy-womens-snowboard-bindings-package-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119846/images/222305/2026-union-legacy-grey-womens-snowboard-bindings__43882.1769037936.500.659.jpg?c=2",
-    "price": 719.98,
-    "meta_keywords": "CAPiTA,  Space,  Metal,  Fantasy,  Womens,  Snowboard,  w/,  Union,  Legacy,  Womens,  Snowboard,  Bindings,  Package,  2026",
-    "detected_rows": [
-      "capita",
-      "space",
-      "metal",
-      "fantasy",
-      "womens",
-      "snowboard",
-      "w/",
-      "union",
-      "legacy",
-      "womens",
-      "snowboard",
-      "bindings",
-      "package",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 119847,
