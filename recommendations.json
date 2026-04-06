@@ -17225,7 +17225,7 @@
     "id": 102060,
     "name": "Ride Deep Fake Snowboard 2025",
     "url": "/ride-deep-fake-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/102060/images/204018/2025-ride-deepfake-lifestyle-2__18131.1766199809.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/102060/images/204018/2025-ride-deepfake-lifestyle-2__46305.1775485852.500.659.jpg?c=2",
     "price": 479.99,
     "meta_keywords": "Ride,  Deep,  Fake,  Snowboard,  2025",
     "detected_rows": [
@@ -38983,7 +38983,7 @@
     "id": 113489,
     "name": "Nordica HF Pro 95 GW Womens Ski Boots 2026",
     "url": "/nordica-hf-pro-95-w-gw-womens-ski-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113489/images/209849/2025-nordica-hf-pro-95w-ski-boots__11963.1771958690.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113489/images/209849/2025-nordica-hf-pro-95w-ski-boots__49051.1775485849.500.659.jpg?c=2",
     "price": 639.99,
     "meta_keywords": "Nordica,  HF,  Pro,  95,  GW,  Womens,  Ski,  Boots,  2026",
     "detected_rows": [
@@ -53043,7 +53043,7 @@
     "id": 115507,
     "name": "Salomon S/Pro Supra BOA 85 GW Womens Ski Boots 2026",
     "url": "/salomon-s-pro-supra-boa-85-w-gw-womens-ski-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115507/images/212997/2026-salomon-spro-supra-boa-85-w-gw-boots__73285.1773323794.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115507/images/212997/2026-salomon-spro-supra-boa-85-w-gw-boots__84813.1775485850.500.659.jpg?c=2",
     "price": 439.99,
     "meta_keywords": "Salomon,  S/Pro,  Supra,  BOA,  85,  GW,  Womens,  Ski,  Boots,  2026",
     "detected_rows": [
@@ -54602,25 +54602,6 @@
       "2026"
     ],
     "gender": "unisex",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 115644,
-    "name": "Burton Custom X Snowboard 2026",
-    "url": "/burton-custom-x-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115644/images/232237/2026-burton-custom-x-lifestyle-image__77201.1771524012.500.659.jpg?c=2",
-    "price": 769.99,
-    "meta_keywords": "Burton,  Custom,  X,  Snowboard,  2026",
-    "detected_rows": [
-      "burton",
-      "custom",
-      "x",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "mens",
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
@@ -119059,25 +119040,6 @@
     "bucket": "pant"
   },
   {
-    "id": 125245,
-    "name": "Blizzard Anomaly 94 Skis 2026",
-    "url": "/blizzard-anomaly-94-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125245/images/233210/2026-head-attack-14-gw-sand-ski-bindings__13094.1775167130.500.659.jpg?c=2",
-    "price": 679.99,
-    "meta_keywords": "Blizzard,  Anomaly,  94,  Skis,  2026",
-    "detected_rows": [
-      "blizzard",
-      "anomaly",
-      "94",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 125246,
     "name": "Dynastar F-TEAM CARGO BAG 2026",
     "url": "/dynastar-f-team-cargo-bag-2026/",
@@ -119251,6 +119213,44 @@
       "2026"
     ],
     "gender": "womens",
+    "sport": "snowboard",
+    "type": "binding",
+    "bucket": "snowboard_binding"
+  },
+  {
+    "id": 125255,
+    "name": "Blizzard Anomaly 94 Skis 2026",
+    "url": "/blizzard-anomaly-94-skis-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125255/images/233226/2026-head-attack-14-gw-sand-ski-bindings__75027.1775485811.500.659.jpg?c=2",
+    "price": 679.99,
+    "meta_keywords": "Blizzard,  Anomaly,  94,  Skis,  2026",
+    "detected_rows": [
+      "blizzard",
+      "anomaly",
+      "94",
+      "skis",
+      "2026"
+    ],
+    "gender": "mens",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125256,
+    "name": "Burton Custom X Snowboard 2026",
+    "url": "/burton-custom-x-snowboard-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125256/images/233228/2026-burton-custom-x-lifestyle-image__10588.1775485812.500.659.jpg?c=2",
+    "price": 769.99,
+    "meta_keywords": "Burton,  Custom,  X,  Snowboard,  2026",
+    "detected_rows": [
+      "burton",
+      "custom",
+      "x",
+      "snowboard",
+      "2026"
+    ],
+    "gender": "mens",
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
