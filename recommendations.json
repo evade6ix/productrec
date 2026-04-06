@@ -6681,28 +6681,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 91025,
-    "name": "K2 Recon 120 MV Mens Ski Boots 2024",
-    "url": "/2024-k2-recon-120-mv-mens-ski-boots/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/91025/images/145535/2024-k2-recon120-lv-ski-boots__22203.1748885492.500.659.jpg?c=2",
-    "price": 325,
-    "meta_keywords": "K2,  Recon,  120,  MV,  Mens,  Ski,  Boots,  2024",
-    "detected_rows": [
-      "k2",
-      "recon",
-      "120",
-      "mv",
-      "mens",
-      "ski",
-      "boots",
-      "2024"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 91034,
     "name": "K2 Mindbender 99Ti Womens Skis 2024",
     "url": "/2024-k2-mindbender-99ti-womens-skis/",
@@ -29798,26 +29776,6 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
-  },
-  {
-    "id": 106126,
-    "name": "Arc'teryx Sabre Index Mens Mitt 2025",
-    "url": "/arcteryx-sabre-index-mens-mitt-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106126/images/192507/2025-arc%252527teryx-sabre-index-mitt-black__44303.1734450521.500.659.jpg?c=2",
-    "price": 230,
-    "meta_keywords": "Arc'teryx,  Sabre,  Index,  Mens,  Mitt,  2025",
-    "detected_rows": [
-      "arc'teryx",
-      "sabre",
-      "index",
-      "mens",
-      "mitt",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 106127,
@@ -77382,25 +77340,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 117682,
-    "name": "Armada Kimbo 95 Skis 2026",
-    "url": "/armada-kimbo-95-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117682/images/222349/2026-armada-lifestyle-kimbo-95__36811.1772728675.500.659.jpg?c=2",
-    "price": 594.99,
-    "meta_keywords": "Armada,  Kimbo,  95,  Skis,  2026",
-    "detected_rows": [
-      "armada",
-      "kimbo",
-      "95",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 117683,
     "name": "Armada ARV 112 Skis 2026",
     "url": "/armada-arv-112-skis-2026/",
@@ -107675,25 +107614,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 124307,
-    "name": "K2 Boundary Snowboard Boots 2025",
-    "url": "/k2-boundary-snowboard-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124307/images/231376/2025-k2-boundary-snowboard-boots-grey__92787.1774048983.500.659.jpg?c=2",
-    "price": 221.99,
-    "meta_keywords": "K2,  Boundary,  Snowboard,  Boots,  2025",
-    "detected_rows": [
-      "k2",
-      "boundary",
-      "snowboard",
-      "boots",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 124310,
     "name": "Burton Gloria Stretch Insulted Womens Pant 2023",
     "url": "/burton-gloria-stretch-insulted-womens-pant-2023/",
@@ -109197,31 +109117,6 @@
       "10",
       "s",
       "bindings",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 124486,
-    "name": "Dynastar SPEED COURSE WC FIS GS FACTORY R22 188 Skis 2025",
-    "url": "/dynastar-speed-course-wc-fis-gs-factory-r22-188-skis-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124486/images/231683/2023-look-spx15-rockerrace-bindings-redhot__42449.1768342228.500.659.jpg?c=2",
-    "price": 787.49,
-    "meta_keywords": "Dynastar,  SPEED,  COURSE,  WC,  FIS,  GS,  FACTORY,  R22,  188,  Skis,  2025",
-    "detected_rows": [
-      "dynastar",
-      "speed",
-      "course",
-      "wc",
-      "fis",
-      "gs",
-      "factory",
-      "r22",
-      "188",
-      "skis",
       "2025"
     ],
     "gender": "unisex",
