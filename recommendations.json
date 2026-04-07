@@ -83295,26 +83295,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 118325,
-    "name": "Arc'teryx Covert Womens Zip Neck 2026",
-    "url": "/arc-teryx-covert-womens-zip-neck-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118325/images/218513/arcteryx-covert-womens-atmos-heather-zip-neck-2026-on-model__78668.1770674665.500.659.jpg?c=2",
-    "price": 152,
-    "meta_keywords": "Arc'teryx,  Covert,  Womens,  Zip,  Neck,  2026",
-    "detected_rows": [
-      "arc'teryx",
-      "covert",
-      "womens",
-      "zip",
-      "neck",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 118326,
     "name": "Arc'teryx Sentinel Insulated Womens Jacket 2026",
     "url": "/arc-teryx-sentinel-insulated-womens-jacket-2026/",
@@ -83333,25 +83313,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 118327,
-    "name": "Arc'teryx Covert Womens Cardigan 2026",
-    "url": "/arc-teryx-covert-womens-cardigan-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118327/images/218518/arcteryx-covert-womens-atmos-heather-cardigan-2026-model__32082.1759861623.500.659.jpg?c=2",
-    "price": 176,
-    "meta_keywords": "Arc'teryx,  Covert,  Womens,  Cardigan,  2026",
-    "detected_rows": [
-      "arc'teryx",
-      "covert",
-      "womens",
-      "cardigan",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 118328,
@@ -111295,7 +111256,7 @@
     "name": "Rossignol Sender 110 Skis 2027",
     "url": "/rossignol-sender-110-skis-2027/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/124696/images/232031/2027-rossignol-sender-110-skis__11850.1770240195.500.659.jpg?c=2",
-    "price": 945.99,
+    "price": 949.99,
     "meta_keywords": "Rossignol,  Sender,  110,  Skis,  2027",
     "detected_rows": [
       "rossignol",
@@ -115671,28 +115632,6 @@
     "bucket": "bag"
   },
   {
-    "id": 125028,
-    "name": "K2 Recon 120 LV Mens Ski Boots 2024",
-    "url": "/k2-recon-120-lv-mens-ski-boots-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125028/images/232794/2024-k2-recon120-lv-ski-boots__98557.1773260259.500.659.jpg?c=2",
-    "price": 325,
-    "meta_keywords": "K2,  Recon,  120,  LV,  Mens,  Ski,  Boots,  2024",
-    "detected_rows": [
-      "k2",
-      "recon",
-      "120",
-      "lv",
-      "mens",
-      "ski",
-      "boots",
-      "2024"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 125036,
     "name": "Sunice Hamilton Thermal Hybrid Mens Jacket 2024",
     "url": "/sunice-hamilton-thermal-hybrid-mens-jacket-2024/",
@@ -119238,5 +119177,25 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
+  },
+  {
+    "id": 125264,
+    "name": "Toko Base Performance Yellow 120g 2026",
+    "url": "/toko-base-performance-yellow-120g-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125264/images/233245/2023-toko-baseperformancewax-yellow__21221.1775572704.500.659.jpg?c=2",
+    "price": 29.99,
+    "meta_keywords": "Toko,  Base,  Performance,  Yellow,  120g,  2026",
+    "detected_rows": [
+      "toko",
+      "base",
+      "performance",
+      "yellow",
+      "120g",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "other",
+    "bucket": "other"
   }
 ]
