@@ -37116,24 +37116,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 112932,
-    "name": "Smith Method Helmet 2026",
-    "url": "/smith-method-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112932/images/208773/2024-smith-method-matteblack__09070.1767736286.500.659.jpg?c=2",
-    "price": 86.99,
-    "meta_keywords": "Smith,  Method,  Helmet,  2026",
-    "detected_rows": [
-      "smith",
-      "method",
-      "helmet",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 112933,
     "name": "Smith Method MIPS Helmet 2026",
     "url": "/smith-method-mips-helmet-2026/",
@@ -60877,26 +60859,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 116328,
-    "name": "Salomon Husk Prime MIPS Helmet 2026",
-    "url": "/salomon-husk-prime-mips-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116328/images/214548/2026-salomon-husk-prime-mips-helmet-white__99773.1768042170.500.659.jpg?c=2",
-    "price": 223.99,
-    "meta_keywords": "Salomon,  Husk,  Prime,  MIPS,  Helmet,  2026",
-    "detected_rows": [
-      "salomon",
-      "husk",
-      "prime",
-      "mips",
-      "helmet",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 116330,
     "name": "Salomon Arcane Prime MIPS Helmet 2026",
     "url": "/salomon-arcane-prime-mips-helmet-2026/",
@@ -61030,26 +60992,6 @@
       "tech",
       "ufo",
       "95",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 116414,
-    "name": "Lib Tech Wunderstick 100 Skis 2026",
-    "url": "/lib-tech-wunderstick-100-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116414/images/214693/2026-libtech-wunderstick100__86680.1756828338.500.659.jpg?c=2",
-    "price": 629.99,
-    "meta_keywords": "Lib,  Tech,  Wunderstick,  100,  Skis,  2026",
-    "detected_rows": [
-      "lib",
-      "tech",
-      "wunderstick",
-      "100",
       "skis",
       "2026"
     ],
@@ -118630,29 +118572,6 @@
     "bucket": "snowboard_boot"
   },
   {
-    "id": 125227,
-    "name": "Atomic Redster S9 FIS 145-152 J-RP3 JR Skis 2026",
-    "url": "/atomic-redster-s9-fis-145-152-j-rp3-jr-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125227/images/233166/2025-atomic-icon-10-b75-ski-bindings-red-black__17130.1774996161.500.659.jpg?c=2",
-    "price": 489.99,
-    "meta_keywords": "Atomic,  Redster,  S9,  FIS,  145-152,  J-RP3,  JR,  Skis,  2026",
-    "detected_rows": [
-      "atomic",
-      "redster",
-      "s9",
-      "fis",
-      "145-152",
-      "j-rp3",
-      "jr",
-      "skis",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 125228,
     "name": "Volcom AT Stretch GORE-TEX Womens Jacket 2025",
     "url": "/volcom-at-stretch-gore-tex-womens-jacket-2025/",
@@ -118775,25 +118694,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 125234,
-    "name": "Db Snow Roller Pro 2026",
-    "url": "/db-snow-roller-pro-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125234/images/233183/2026-db-snow-roller-pro-forest-green__58227.1775138226.500.659.jpg?c=2",
-    "price": 359.99,
-    "meta_keywords": "Db,  Snow,  Roller,  Pro,  2026",
-    "detected_rows": [
-      "db",
-      "snow",
-      "roller",
-      "pro",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "glove",
-    "bucket": "glove"
   },
   {
     "id": 125235,
