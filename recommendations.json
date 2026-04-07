@@ -44122,7 +44122,7 @@
     "id": 114351,
     "name": "K2 Embassy Snowboard 2026",
     "url": "/k2-embassy-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114351/images/211148/k2%252520embassy%252520lifestyle%2525202026__53007.1764602940.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114351/images/211148/k2%252520embassy%252520lifestyle%2525202026__54289.1775601775.500.659.jpg?c=2",
     "price": 398.99,
     "meta_keywords": "K2,  Embassy,  Snowboard,  2026",
     "detected_rows": [
@@ -48696,7 +48696,7 @@
     "id": 114891,
     "name": "Atomic Redster Helmet 2026",
     "url": "/atomic-redster-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114891/images/212054/2026-atomic-redster-teal-helmet__06602.1774983152.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114891/images/212054/2026-atomic-redster-teal-helmet__91303.1775601778.500.659.jpg?c=2",
     "price": 279.99,
     "meta_keywords": "Atomic,  Redster,  Helmet,  2026",
     "detected_rows": [
@@ -49277,26 +49277,6 @@
       "redster",
       "x",
       "carbon",
-      "sqs",
-      "ski",
-      "poles",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
-    "id": 114929,
-    "name": "Atomic AMT SQS Ski Poles 2026",
-    "url": "/atomic-amt-sqs-ski-poles-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114929/images/212102/2026-atomic-amt-sqs-black-poles__34906.1770660181.500.659.jpg?c=2",
-    "price": 48.99,
-    "meta_keywords": "Atomic,  AMT,  SQS,  Ski,  Poles,  2026",
-    "detected_rows": [
-      "atomic",
-      "amt",
       "sqs",
       "ski",
       "poles",
@@ -60684,32 +60664,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 116300,
-    "name": "Elan Wildcat 78 C Womens Skis w/ EL 9.0 GW Bindings 2026",
-    "url": "/elan-wildcat-78-c-womens-skis-w-el-9-0-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116300/images/214507/2026-elan-wildcat-78-c-womens-skis-w-el-9-gw-bindings__49243.1756407820.500.659.jpg?c=2",
-    "price": 419.99,
-    "meta_keywords": "Elan,  Wildcat,  78,  C,  Womens,  Skis,  w/,  EL,  9.0,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "elan",
-      "wildcat",
-      "78",
-      "c",
-      "womens",
-      "skis",
-      "w/",
-      "el",
-      "9.0",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 116301,
     "name": "Elan Playmaker 91 Skis 2026",
     "url": "/elan-playmaker-91-skis-2026/",
@@ -60857,26 +60811,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 116330,
-    "name": "Salomon Arcane Prime MIPS Helmet 2026",
-    "url": "/salomon-arcane-prime-mips-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116330/images/214551/2026-salomon-arcane-prime-mips-rainy-day-helmet__64168.1771437118.500.659.jpg?c=2",
-    "price": 230.99,
-    "meta_keywords": "Salomon,  Arcane,  Prime,  MIPS,  Helmet,  2026",
-    "detected_rows": [
-      "salomon",
-      "arcane",
-      "prime",
-      "mips",
-      "helmet",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 116331,
@@ -85456,26 +85390,6 @@
     "bucket": "pant"
   },
   {
-    "id": 118472,
-    "name": "Arcade X Recco Adult Belt 2026",
-    "url": "/arcade-x-recco-adult-belt-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118472/images/218766/2026-arcade-x-recco-adult-black-belt__80915.1771784736.500.659.jpg?c=2",
-    "price": 48,
-    "meta_keywords": "Arcade,  X,  Recco,  Adult,  Belt,  2026",
-    "detected_rows": [
-      "arcade",
-      "x",
-      "recco",
-      "adult",
-      "belt",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "sock",
-    "bucket": "sock"
-  },
-  {
     "id": 118473,
     "name": "Arcade Blackwood Adult Belt 2026",
     "url": "/arcade-blackwood-adult-belt-2026/",
@@ -90522,25 +90436,6 @@
     "sport": "ski",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 118801,
-    "name": "Level Flames Womens Mitt 2026",
-    "url": "/level-flames-womens-mitt-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118801/images/219506/2024-level-flames-women-mitt-black__56545.1759774570.500.659.jpg?c=2",
-    "price": 126,
-    "meta_keywords": "Level,  Flames,  Womens,  Mitt,  2026",
-    "detected_rows": [
-      "level",
-      "flames",
-      "womens",
-      "mitt",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 118802,
@@ -118004,32 +117899,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 125204,
-    "name": "Rossignol Super Virage VIII Tech Skis w/ SPX 14 GW Bindings 2026",
-    "url": "/rossignol-super-virage-viii-tech-skis-w-spx-14-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125204/images/233113/2026-rossignol-super-virage-viii-tech-skis-w-spx-14-gw-ski-boots__01564.1774648345.500.659.jpg?c=2",
-    "price": 779.99,
-    "meta_keywords": "Rossignol,  Super,  Virage,  VIII,  Tech,  Skis,  w/,  SPX,  14,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "rossignol",
-      "super",
-      "virage",
-      "viii",
-      "tech",
-      "skis",
-      "w/",
-      "spx",
-      "14",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 125205,
     "name": "Rossignol Super Virage VIII Skis w/ SPX 14 GW Bindings 2026",
     "url": "/rossignol-super-virage-viii-skis-w-spx-14-gw-bindings-2026/",
@@ -118343,31 +118212,6 @@
       "w/",
       "xpress",
       "7",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 125220,
-    "name": "Dyanstar Team Speed JR Skis w/ Kid 4 GW Bindings 2026",
-    "url": "/dyanstar-team-speed-jr-skis-w-kid-4-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125220/images/233153/2026-dynastar-team-speed-jr-skis-w-kid-4-gw-ski-bindings__69603.1774967193.500.659.jpg?c=2",
-    "price": 215.99,
-    "meta_keywords": "Dyanstar,  Team,  Speed,  JR,  Skis,  w/,  Kid,  4,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "dyanstar",
-      "team",
-      "speed",
-      "jr",
-      "skis",
-      "w/",
-      "kid",
-      "4",
       "gw",
       "bindings",
       "2026"
@@ -118997,45 +118841,6 @@
     "bucket": "glove"
   },
   {
-    "id": 125254,
-    "name": "Union Legacy Womens Snowboard Bindings 2026",
-    "url": "/union-legacy-womens-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125254/images/233223/2026-union-legacy-lifestyle-image__71551.1775355601.500.659.jpg?c=2",
-    "price": 279.99,
-    "meta_keywords": "Union,  Legacy,  Womens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "union",
-      "legacy",
-      "womens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
-    "id": 125255,
-    "name": "Blizzard Anomaly 94 Skis 2026",
-    "url": "/blizzard-anomaly-94-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125255/images/233226/2026-head-attack-14-gw-sand-ski-bindings__75027.1775485811.500.659.jpg?c=2",
-    "price": 679.99,
-    "meta_keywords": "Blizzard,  Anomaly,  94,  Skis,  2026",
-    "detected_rows": [
-      "blizzard",
-      "anomaly",
-      "94",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 125257,
     "name": "Smith Nexus MIPS Round Contour Fit Helmet 2026",
     "url": "/smith-nexus-mips-round-contour-fit-helmet-2026/",
@@ -119197,5 +119002,168 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
+  },
+  {
+    "id": 125265,
+    "name": "Faction Faction Ski Poles 2025",
+    "url": "/faction-faction-ski-poles-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125265/images/233246/2025-faction-faction-poles-red__14396.1775587238.500.659.jpg?c=2",
+    "price": 87.99,
+    "meta_keywords": "Faction,  Faction,  Ski,  Poles,  2025",
+    "detected_rows": [
+      "faction",
+      "faction",
+      "ski",
+      "poles",
+      "2025"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "ski",
+    "bucket": "ski"
+  },
+  {
+    "id": 125266,
+    "name": "Atomic Redster Junior Helmet 2025",
+    "url": "/atomic-redster-junior-helmet-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125266/images/233248/2024-atomic-redster-jr-helmet-black__00809.1775587238.500.659.jpg?c=2",
+    "price": 149.99,
+    "meta_keywords": "Atomic,  Redster,  Junior,  Helmet,  2025",
+    "detected_rows": [
+      "atomic",
+      "redster",
+      "junior",
+      "helmet",
+      "2025"
+    ],
+    "gender": "kids",
+    "sport": "other",
+    "type": "helmet",
+    "bucket": "helmet"
+  },
+  {
+    "id": 125267,
+    "name": "Faction Junior Cap 2026",
+    "url": "/faction-junior-cap-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125267/images/233251/faction-junior-cap-2026-back__95820.1775587240.500.659.jpg?c=2",
+    "price": 44.99,
+    "meta_keywords": "Faction,  Junior,  Cap,  2026",
+    "detected_rows": [
+      "faction",
+      "junior",
+      "cap",
+      "2026"
+    ],
+    "gender": "kids",
+    "sport": "other",
+    "type": "other",
+    "bucket": "other"
+  },
+  {
+    "id": 125268,
+    "name": "Faction Prodigy 1 Capsule Skis 2026",
+    "url": "/faction-prodigy-1-capsule-skis-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125268/images/233254/2026-faction-lifestyle-prodigy-1-capsule__62596.1775587241.500.659.jpg?c=2",
+    "price": 748.99,
+    "meta_keywords": "Faction,  Prodigy,  1,  Capsule,  Skis,  2026",
+    "detected_rows": [
+      "faction",
+      "prodigy",
+      "1",
+      "capsule",
+      "skis",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125269,
+    "name": "Faction Studio 1 Skis 2026",
+    "url": "/faction-studio-1-skis-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125269/images/233255/2026-faction-lifestyle-studio-1__97522.1775587242.500.659.jpg?c=2",
+    "price": 848.99,
+    "meta_keywords": "Faction,  Studio,  1,  Skis,  2026",
+    "detected_rows": [
+      "faction",
+      "studio",
+      "1",
+      "skis",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125270,
+    "name": "Faction Prodigy 0 Skis 2026",
+    "url": "/faction-prodigy-0-skis-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125270/images/233258/2026-faction-lifestyle-prodigy-0__70489.1775587244.500.659.jpg?c=2",
+    "price": 498.99,
+    "meta_keywords": "Faction,  Prodigy,  0,  Skis,  2026",
+    "detected_rows": [
+      "faction",
+      "prodigy",
+      "0",
+      "skis",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125271,
+    "name": "Atomic Redster S9 FIS J-RP 131-138 JR Skis 2025",
+    "url": "/atomic-redster-s9-fis-j-rp-131-138-jr-skis-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125271/images/233259/2025-atomic-redster-s9-fis-jr-rp-130-138-skis__96228.1775601723.500.659.jpg?c=2",
+    "price": 503.99,
+    "meta_keywords": "Atomic,  Redster,  S9,  FIS,  J-RP,  131-138,  JR,  Skis,  2025",
+    "detected_rows": [
+      "atomic",
+      "redster",
+      "s9",
+      "fis",
+      "j-rp",
+      "131-138",
+      "jr",
+      "skis",
+      "2025"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125272,
+    "name": "Elan Wingman 86 Black Edition Skis w/ EMX 12.0 GW Bindings 2026",
+    "url": "/elan-wingman-86-black-edition-skis-w-emx-12-0-gw-bindings-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125272/images/233260/2026-elan-wingman-86-black-edition-skis-w-emx-12-0-gw-bindings__48642.1775601723.500.659.jpg?c=2",
+    "price": 719.99,
+    "meta_keywords": "Elan,  Wingman,  86,  Black,  Edition,  Skis,  w/,  EMX,  12.0,  GW,  Bindings,  2026",
+    "detected_rows": [
+      "elan",
+      "wingman",
+      "86",
+      "black",
+      "edition",
+      "skis",
+      "w/",
+      "emx",
+      "12.0",
+      "gw",
+      "bindings",
+      "2026"
+    ],
+    "gender": "mens",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
   }
 ]
