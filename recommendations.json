@@ -15618,27 +15618,6 @@
     "bucket": "pant"
   },
   {
-    "id": 95948,
-    "name": "Rossignol Force 9 Nordic Ski Poles 2022",
-    "url": "/2022-rossignol-force-9-nordic-ski-poles/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/95948/images/161789/2022-rossignol-force-9-cross-country-pole__99941.1748886625.500.659.jpg?c=2",
-    "price": 189.99,
-    "meta_keywords": "Rossignol,  Force,  9,  Nordic,  Ski,  Poles,  2022",
-    "detected_rows": [
-      "rossignol",
-      "force",
-      "9",
-      "nordic",
-      "ski",
-      "poles",
-      "2022"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
     "id": 96087,
     "name": "Smith Guide's Choice XL Sunglasses",
     "url": "/smith-guides-choice-xl-sunglasses/",
@@ -22271,7 +22250,7 @@
     "id": 103859,
     "name": "Smith 4D Mag S Goggle + Spare Lens 2025",
     "url": "/smith-4d-mag-s-goggle-spare-lens-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103859/images/184185/2025-smith-4d-mag-s-2025-arctic-apricot-daydream-goggle-w-cp-everyday-violet-mirror-lens-%25252b-cp-storm-blue-sensor-mirror-spare-lens__41603.1745358695.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103859/images/184185/2025-smith-4d-mag-s-2025-claws-blackout-goggle-w-cp-sun-black-lens-%25252b-cp-storm-blue-sensor-mirror-spare-lens__68062.1775674152.500.659.jpg?c=2",
     "price": 234,
     "meta_keywords": "Smith,  4D,  Mag,  S,  Goggle,  +,  Spare,  Lens,  2025",
     "detected_rows": [
@@ -37248,7 +37227,7 @@
     "id": 112994,
     "name": "Smith I/O Mag XL Goggle 2026",
     "url": "/smith-i-o-mag-xl-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112994/images/208994/2024-smith-io-mag-xl-black-cpeverydaygreenmirror__39881.1774614492.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/112994/images/208994/2024-smith-io-mag-xl-black-cpeverydaygreenmirror__54729.1775688626.500.659.jpg?c=2",
     "price": 194.99,
     "meta_keywords": "Smith,  I/O,  Mag,  XL,  Goggle,  2026",
     "detected_rows": [
@@ -67850,26 +67829,6 @@
       "2026"
     ],
     "gender": "mens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 116940,
-    "name": "Patagonia Better Sweater Womens Jacket 2026",
-    "url": "/patagonia-better-sweater-womens-jacket-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116940/images/215791/2026-patagonia-better-sweater-barnacle-blue-womens-jacket-model__83197.1762544488.500.659.jpg?c=2",
-    "price": 139.3,
-    "meta_keywords": "Patagonia,  Better,  Sweater,  Womens,  Jacket,  2026",
-    "detected_rows": [
-      "patagonia",
-      "better",
-      "sweater",
-      "womens",
-      "jacket",
-      "2026"
-    ],
-    "gender": "womens",
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
@@ -99191,27 +99150,6 @@
     "bucket": "snowboard"
   },
   {
-    "id": 119855,
-    "name": "Kuu Universal Nylon - 100mm Width 2026",
-    "url": "/kuu-universal-nylon-100mm-width-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119855/images/222358/2026-kuu-universal-brush-light-nylon-100mm-width__76083.1764689763.500.659.jpg?c=2",
-    "price": 79.99,
-    "meta_keywords": "Kuu,  Universal,  Nylon,  -,  100mm,  Width,  2026",
-    "detected_rows": [
-      "kuu",
-      "universal",
-      "nylon",
-      "-",
-      "100mm",
-      "width",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 119858,
     "name": "Kuu Mach+ Speed Yellow - Moist (-5c & Warmer) 500g 2026",
     "url": "/kuu-mach-speed-yellow-moist-5c-warmer-500g-2026/",
@@ -119086,5 +119024,70 @@
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
+  },
+  {
+    "id": 125281,
+    "name": "2020 Atomic Redster S9 FIS J RP JR Skis w/ L7 Bindings",
+    "url": "/2020-atomic-redster-s9-fis-j-rp-jr-skis-w-l7-bindings/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125281/images/233281/2020-atomic-redster-s9-fis-j-rp-jr-skis-w-l7-bindings__01694.1775674114.500.659.jpg?c=2",
+    "price": 379.99,
+    "meta_keywords": "2020,  Atomic,  Redster,  S9,  FIS,  J,  RP,  JR,  Skis,  w/,  L7,  Bindings",
+    "detected_rows": [
+      "2020",
+      "atomic",
+      "redster",
+      "s9",
+      "fis",
+      "j",
+      "rp",
+      "jr",
+      "skis",
+      "w/",
+      "l7",
+      "bindings"
+    ],
+    "gender": "kids",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125282,
+    "name": "Arcade X Recco Adult Belt 2026",
+    "url": "/arcade-x-recco-adult-belt-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125282/images/233282/2026-arcade-x-recco-adult-black-belt__41778.1775674115.500.659.jpg?c=2",
+    "price": 48,
+    "meta_keywords": "Arcade,  X,  Recco,  Adult,  Belt,  2026",
+    "detected_rows": [
+      "arcade",
+      "x",
+      "recco",
+      "adult",
+      "belt",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "other",
+    "type": "sock",
+    "bucket": "sock"
+  },
+  {
+    "id": 125283,
+    "name": "Smith Frontier Adult Goggle 2022",
+    "url": "/smith-frontier-adult-goggle-2022/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125283/images/233283/2023-smith-frontier-white-blue-sensor-mirror__36260.1775674116.500.659.jpg?c=2",
+    "price": 32.5,
+    "meta_keywords": "Smith,  Frontier,  Adult,  Goggle,  2022",
+    "detected_rows": [
+      "smith",
+      "frontier",
+      "adult",
+      "goggle",
+      "2022"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "helmet",
+    "bucket": "helmet"
   }
 ]
