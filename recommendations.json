@@ -45813,27 +45813,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 114572,
-    "name": "Elan Ripstick 96 Black Edition Skis 2026",
-    "url": "/elan-ripstick-96-black-edition-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114572/images/222777/2026-elan-ripstick-96-black-edition-lifestyle-image__40329.1772815791.500.659.jpg?c=2",
-    "price": 599.99,
-    "meta_keywords": "Elan,  Ripstick,  96,  Black,  Edition,  Skis,  2026",
-    "detected_rows": [
-      "elan",
-      "ripstick",
-      "96",
-      "black",
-      "edition",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 114573,
     "name": "Elan Ripstick 102 Black Edition Skis 2026",
     "url": "/elan-ripstick-102-black-edition-skis-2026/",
@@ -118019,28 +117998,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 125213,
-    "name": "Smith I/O Mag Low Bridge Fit Goggle 2026",
-    "url": "/smith-i-o-mag-low-bridge-fit-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125213/images/233141/2026-smith-i-o-mag-low-bridge-fit-goggle-tyler-keaton-robbins-artist-series-w-cp-sun-black-gold-mirror-cp-storm-blue-sensor-mirror__88107.1774909176.500.659.jpg?c=2",
-    "price": 194.99,
-    "meta_keywords": "Smith,  I/O,  Mag,  Low,  Bridge,  Fit,  Goggle,  2026",
-    "detected_rows": [
-      "smith",
-      "i/o",
-      "mag",
-      "low",
-      "bridge",
-      "fit",
-      "goggle",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 125214,
