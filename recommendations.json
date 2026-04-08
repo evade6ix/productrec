@@ -43719,7 +43719,7 @@
     "id": 114325,
     "name": "K2 Program Mens Snowboard Bindings 2026",
     "url": "/k2-program-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114325/images/211105/k2%252520program%252520dopamine%2525202026__04645.1774981860.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114325/images/233263/k2%252520program%252520blk%2525202026__83327.1775616355.500.659.jpg?c=2",
     "price": 300.99,
     "meta_keywords": "K2,  Program,  Mens,  Snowboard,  Bindings,  2026",
     "detected_rows": [
@@ -54588,26 +54588,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 115646,
-    "name": "Salomon Rhythm Adult Snowboard Bindings 2026",
-    "url": "/salomon-rhythm-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115646/images/213215/2026-salomon-rhythm-bindings-nrvan__22956.1772379655.500.659.jpg?c=2",
-    "price": 139.99,
-    "meta_keywords": "Salomon,  Rhythm,  Adult,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "salomon",
-      "rhythm",
-      "adult",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 115650,
     "name": "Salomon Grace JR Snowboard 2026",
     "url": "/salomon-grace-jr-snowboard-2026/",
@@ -60057,7 +60037,7 @@
     "id": 116212,
     "name": "Union Trilogy Womens Snowboard Bindings 2026",
     "url": "/union-trilogy-womens-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116212/images/214352/2026-union-trilogy-lifestyle-image__11566.1774982230.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116212/images/214352/2026-union-trilogy-lifestyle-image__59910.1775616357.500.659.jpg?c=2",
     "price": 359.99,
     "meta_keywords": "Union,  Trilogy,  Womens,  Snowboard,  Bindings,  2026",
     "detected_rows": [
@@ -111237,7 +111217,7 @@
     "id": 124701,
     "name": "Burton Cartel X EST Mens Snowboard Bindings 2026",
     "url": "/burton-cartel-x-est-mens-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124701/images/232036/2026-burton-cartel-x-nightfall-snowboard-bindings__00810.1774237575.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124701/images/233262/2023-burton-cartel-x-est-blk-mens-snowboard-bindings__16470.1775616355.500.659.jpg?c=2",
     "price": 300.99,
     "meta_keywords": "Burton,  Cartel,  X,  EST,  Mens,  Snowboard,  Bindings,  2026",
     "detected_rows": [
@@ -113104,27 +113084,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 124839,
-    "name": "Bent Metal Bolt Mens Snowboard Bindings 2026",
-    "url": "/bent-metal-bolt-mens-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124839/images/233158/2025-bent%252520metal-bolt-black-snowboard%252520binding__85850.1774981781.500.659.jpg?c=2",
-    "price": 146.99,
-    "meta_keywords": "Bent,  Metal,  Bolt,  Mens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "bent",
-      "metal",
-      "bolt",
-      "mens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 124841,
@@ -119165,5 +119124,25 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
+  },
+  {
+    "id": 125273,
+    "name": "Salomon Highlander Adult Snowboard Bindings 2026",
+    "url": "/salomon-highlander-adult-snowboard-bindings-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125273/images/233261/2026-salomon-highlander-bindings__41069.1775616267.500.659.jpg?c=2",
+    "price": 279.99,
+    "meta_keywords": "Salomon,  Highlander,  Adult,  Snowboard,  Bindings,  2026",
+    "detected_rows": [
+      "salomon",
+      "highlander",
+      "adult",
+      "snowboard",
+      "bindings",
+      "2026"
+    ],
+    "gender": "mens",
+    "sport": "snowboard",
+    "type": "binding",
+    "bucket": "snowboard_binding"
   }
 ]
