@@ -14591,28 +14591,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 94799,
-    "name": "Icebreaker 260 Tech Womens LS Half Zip 2024",
-    "url": "/2024-icebreaker-260-tech-womens-ls-half-zip/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/94799/images/159085/2024-icebreaker-260-tech-womens-ls-half-zip-nightshade__95212.1768037436.500.659.jpg?c=2",
-    "price": 139.5,
-    "meta_keywords": "Icebreaker,  260,  Tech,  Womens,  LS,  Half,  Zip,  2024",
-    "detected_rows": [
-      "icebreaker",
-      "260",
-      "tech",
-      "womens",
-      "ls",
-      "half",
-      "zip",
-      "2024"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "base_layer",
-    "bucket": "base_layer"
-  },
-  {
     "id": 94807,
     "name": "Smartwool Intraknit Womens Strappy Bra 2024",
     "url": "/2024-smartwool-intraknit-womens-strappy-bra/",
@@ -107847,26 +107825,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 124379,
-    "name": "Dakine High Roller Snowboard Bag 2026",
-    "url": "/dakine-high-roller-snowboard-bag-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124379/images/231522/2026-dakine-lifestyle-high-roller-snowboard-bag-black__51127.1770225813.500.659.jpg?c=2",
-    "price": 239.99,
-    "meta_keywords": "Dakine,  High,  Roller,  Snowboard,  Bag,  2026",
-    "detected_rows": [
-      "dakine",
-      "high",
-      "roller",
-      "snowboard",
-      "bag",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
     "id": 124380,
     "name": "Dalbello Cabrio MV 100 GW Ski Boots 2026",
     "url": "/dalbello-cabrio-mv-100-gw-ski-boots-2026/",
@@ -114383,23 +114341,6 @@
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 124953,
-    "name": "Smith Venture Sunglasses",
-    "url": "/smith-venture-sunglasses/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124953/images/232798/smith-venture-lifestyle-image__22300.1773260287.500.659.jpg?c=2",
-    "price": 294.99,
-    "meta_keywords": "Smith,  Venture,  Sunglasses",
-    "detected_rows": [
-      "smith",
-      "venture",
-      "sunglasses"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "goggle",
-    "bucket": "goggle"
   },
   {
     "id": 124954,
