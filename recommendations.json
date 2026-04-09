@@ -7723,29 +7723,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 91419,
-    "name": "Lange LX 130 HV GW Mens Ski Boots 2024",
-    "url": "/2024-lange-lx-130-hv-gw-mens-ski-boots/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/91419/images/145551/2024-lange-lx-130-hv-gw-ski-boots__68701.1748883439.500.659.jpg?c=2",
-    "price": 350,
-    "meta_keywords": "Lange,  LX,  130,  HV,  GW,  Mens,  Ski,  Boots,  2024",
-    "detected_rows": [
-      "lange",
-      "lx",
-      "130",
-      "hv",
-      "gw",
-      "mens",
-      "ski",
-      "boots",
-      "2024"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 91423,
     "name": "Dynastar E LITE 7 Womens Skis w/ Xpress W 11 GW Bindings 2024",
     "url": "/2024-dynastar-e-lite-7-womens-skis-w-xpress-w-11-gw-bindings/",
@@ -22995,28 +22972,6 @@
     "sport": "other",
     "type": "base_layer",
     "bucket": "base_layer"
-  },
-  {
-    "id": 104068,
-    "name": "Lange LX 130 HV GW Ski Boots 2025",
-    "url": "/lange-lx-130-hv-gw-ski-boots-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/104068/images/184919/2025-lange-lx-130-hv-gw-mens-ski-boots__84406.1734454148.500.659.jpg?c=2",
-    "price": 419.99,
-    "meta_keywords": "Lange,  LX,  130,  HV,  GW,  Ski,  Boots,  2025",
-    "detected_rows": [
-      "lange",
-      "lx",
-      "130",
-      "hv",
-      "gw",
-      "ski",
-      "boots",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
   },
   {
     "id": 104078,
@@ -60176,25 +60131,6 @@
       "2026"
     ],
     "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 116276,
-    "name": "Elan Ripstick 96 Skis 2026",
-    "url": "/elan-ripstick-96-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116276/images/222780/2026-elan-ripstick-96-lifestyle-image__54963.1772815784.500.659.jpg?c=2",
-    "price": 509.99,
-    "meta_keywords": "Elan,  Ripstick,  96,  Skis,  2026",
-    "detected_rows": [
-      "elan",
-      "ripstick",
-      "96",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
@@ -118698,7 +118634,7 @@
     "name": "Faction Junior Cap 2026",
     "url": "/faction-junior-cap-2026/",
     "image": "https://cdn11.bigcommerce.com/s-186hk/products/125267/images/233251/faction-junior-cap-2026-back__95820.1775587240.500.659.jpg?c=2",
-    "price": 44.99,
+    "price": 31.5,
     "meta_keywords": "Faction,  Junior,  Cap,  2026",
     "detected_rows": [
       "faction",
@@ -119030,5 +118966,129 @@
     "sport": "other",
     "type": "helmet",
     "bucket": "helmet"
+  },
+  {
+    "id": 125284,
+    "name": "Armada Declivity X 102 Skis 2026",
+    "url": "/armada-declivity-x-102-skis-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125284/images/233285/2026-armada-lifestyle-declivity-x-102__23645.1775732411.500.659.jpg?c=2",
+    "price": 650.99,
+    "meta_keywords": "Armada,  Declivity,  X,  102,  Skis,  2026",
+    "detected_rows": [
+      "armada",
+      "declivity",
+      "x",
+      "102",
+      "skis",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125285,
+    "name": "Burton AK Cyclic GORE-TEX Mens Bib Pant 2025",
+    "url": "/burton-ak-cyclic-gore-tex-mens-bib-pant-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125285/images/233288/2025-burton-ak-cyclic-gore-tex-mens-bib-pant-jake-blue__18546.1775746443.500.659.jpg?c=2",
+    "price": 383.99,
+    "meta_keywords": "Burton,  AK,  Cyclic,  GORE-TEX,  Mens,  Bib,  Pant,  2025",
+    "detected_rows": [
+      "burton",
+      "ak",
+      "cyclic",
+      "gore-tex",
+      "mens",
+      "bib",
+      "pant",
+      "2025"
+    ],
+    "gender": "mens",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125286,
+    "name": "Burton Ballast GORE-TEX Mens Pant Short 2025",
+    "url": "/burton-ballast-gore-tex-mens-pant-short-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125286/images/233292/2025-burton-ballast-gore-tex-mens-true-black-pant-actionshot__46485.1775746444.500.659.jpg?c=2",
+    "price": 203.99,
+    "meta_keywords": "Burton,  Ballast,  GORE-TEX,  Mens,  Pant,  Short,  2025",
+    "detected_rows": [
+      "burton",
+      "ballast",
+      "gore-tex",
+      "mens",
+      "pant",
+      "short",
+      "2025"
+    ],
+    "gender": "mens",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125287,
+    "name": "Burton Midweight X Womens Crew 2025",
+    "url": "/burton-midweight-x-womens-crew-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125287/images/233295/2025-burton-midweight-x-womens-true-black-crew-model__96617.1775746445.500.659.jpg?c=2",
+    "price": 69.99,
+    "meta_keywords": "Burton,  Midweight,  X,  Womens,  Crew,  2025",
+    "detected_rows": [
+      "burton",
+      "midweight",
+      "x",
+      "womens",
+      "crew",
+      "2025"
+    ],
+    "gender": "womens",
+    "sport": "other",
+    "type": "base_layer",
+    "bucket": "base_layer"
+  },
+  {
+    "id": 125288,
+    "name": "Burton Heavyweight X Womens Quarter Zip 2025",
+    "url": "/burton-heavyweight-x-womens-quarter-zip-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125288/images/233297/2025-burton-heavyweight-x-womens-true-black-quarter-zip-onmodel__38003.1775746446.500.659.jpg?c=2",
+    "price": 129.99,
+    "meta_keywords": "Burton,  Heavyweight,  X,  Womens,  Quarter,  Zip,  2025",
+    "detected_rows": [
+      "burton",
+      "heavyweight",
+      "x",
+      "womens",
+      "quarter",
+      "zip",
+      "2025"
+    ],
+    "gender": "womens",
+    "sport": "other",
+    "type": "base_layer",
+    "bucket": "base_layer"
+  },
+  {
+    "id": 125289,
+    "name": "Burton Melter Plus Mens Pant 2025",
+    "url": "/burton-melter-plus-mens-pant-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125289/images/233299/2025-burton-melter-plus-mens-pant-true-black__82475.1775746447.500.659.jpg?c=2",
+    "price": 131.99,
+    "meta_keywords": "Burton,  Melter,  Plus,  Mens,  Pant,  2025",
+    "detected_rows": [
+      "burton",
+      "melter",
+      "plus",
+      "mens",
+      "pant",
+      "2025"
+    ],
+    "gender": "mens",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
   }
 ]
