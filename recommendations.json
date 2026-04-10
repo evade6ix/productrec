@@ -786,27 +786,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 69940,
-    "name": "Atomic Mover Lite Nordic Ski Poles 2022",
-    "url": "/2022-atomic-mover-lite-nordic-ski-poles/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/69940/images/172334/2022-atomic-mover-lite-cross-country-ski-poles-n__68411.1748886618.500.659.jpg?c=2",
-    "price": 29.99,
-    "meta_keywords": "Atomic,  Mover,  Lite,  Nordic,  Ski,  Poles,  2022",
-    "detected_rows": [
-      "atomic",
-      "mover",
-      "lite",
-      "nordic",
-      "ski",
-      "poles",
-      "2022"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "ski",
-    "bucket": "ski"
-  },
-  {
     "id": 69949,
     "name": "Rossignol FT-600 Nordic Ski Poles 2022",
     "url": "/2022-rossignol-ft-600-nordic-ski-poles/",
@@ -21975,27 +21954,6 @@
     ],
     "gender": "womens",
     "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 103822,
-    "name": "Helly Hansen Daybreaker Womens Fleece Jacket 2025",
-    "url": "/helly-hansen-daybreaker-womens-fleece-jacket-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103822/images/183764/2025-helly-hansen-daybreaker-womens-fleece-jacket-black__34542.1769546431.500.659.jpg?c=2",
-    "price": 63,
-    "meta_keywords": "Helly,  Hansen,  Daybreaker,  Womens,  Fleece,  Jacket,  2025",
-    "detected_rows": [
-      "helly",
-      "hansen",
-      "daybreaker",
-      "womens",
-      "fleece",
-      "jacket",
-      "2025"
-    ],
-    "gender": "womens",
-    "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
   },
@@ -60218,33 +60176,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 116290,
-    "name": "Elan Primetime No2 W White Womens Skis w/ EL 9.0 GW Bindings 2026",
-    "url": "/elan-primetime-no2-w-white-womens-skis-w-el-9-0-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116290/images/214497/2026-elan-primetime-no2-white-w-womens-skis-w-el-9-0-gw-bindings__18837.1756407810.500.659.jpg?c=2",
-    "price": 449.99,
-    "meta_keywords": "Elan,  Primetime,  No2,  W,  White,  Womens,  Skis,  w/,  EL,  9.0,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "elan",
-      "primetime",
-      "no2",
-      "w",
-      "white",
-      "womens",
-      "skis",
-      "w/",
-      "el",
-      "9.0",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 116291,
     "name": "Elan Wildcat 83 Black Edition Womens Skis w/ ELX 11.0 GW Bindings 2026",
     "url": "/elan-wildcat-83-black-edition-womens-skis-w-elx-11-0-gw-bindings-2026/",
@@ -77227,26 +77158,6 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
-  },
-  {
-    "id": 117779,
-    "name": "Anon M6S Low Bridge Goggle 2026",
-    "url": "/anon-m6s-low-bridge-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117779/images/217515/2026-anon-m6s-white-w-perceive-sunny-onyx__10831.1774425692.500.659.jpg?c=2",
-    "price": 233.99,
-    "meta_keywords": "Anon,  M6S,  Low,  Bridge,  Goggle,  2026",
-    "detected_rows": [
-      "anon",
-      "m6s",
-      "low",
-      "bridge",
-      "goggle",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 117780,
@@ -119094,5 +119005,45 @@
     "sport": "snowboard",
     "type": "binding",
     "bucket": "snowboard_binding"
+  },
+  {
+    "id": 125294,
+    "name": "Rossignol Hero Adult Leg Protection 2021",
+    "url": "/rossignol-hero-adult-leg-protection-2021/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125294/images/233323/2021-rossignol-hero-adult-leg-protection__41255.1775833304.500.659.jpg?c=2",
+    "price": 75,
+    "meta_keywords": "Rossignol,  Hero,  Adult,  Leg,  Protection,  2021",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "adult",
+      "leg",
+      "protection",
+      "2021"
+    ],
+    "gender": "unisex",
+    "sport": "other",
+    "type": "other",
+    "bucket": "other"
+  },
+  {
+    "id": 125295,
+    "name": "Rossignol Hero JR Leg Protection 2021",
+    "url": "/rossignol-hero-jr-leg-protection-2021/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125295/images/233324/2021-rossignol-hero-jr-leg-protection__58234.1775833305.500.659.jpg?c=2",
+    "price": 70,
+    "meta_keywords": "Rossignol,  Hero,  JR,  Leg,  Protection,  2021",
+    "detected_rows": [
+      "rossignol",
+      "hero",
+      "jr",
+      "leg",
+      "protection",
+      "2021"
+    ],
+    "gender": "kids",
+    "sport": "other",
+    "type": "other",
+    "bucket": "other"
   }
 ]
