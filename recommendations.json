@@ -54355,25 +54355,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 115645,
-    "name": "Burton Custom Glow Snowboard 2026",
-    "url": "/burton-custom-glow-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115645/images/232236/2026-burton-custom-glow-lifestyle-image__14926.1771524011.500.659.jpg?c=2",
-    "price": 615.99,
-    "meta_keywords": "Burton,  Custom,  Glow,  Snowboard,  2026",
-    "detected_rows": [
-      "burton",
-      "custom",
-      "glow",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 115650,
     "name": "Salomon Grace JR Snowboard 2026",
     "url": "/salomon-grace-jr-snowboard-2026/",
@@ -112154,27 +112135,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 124809,
-    "name": "Salomon MTN Summit Pure Ski Boots 2024",
-    "url": "/salomon-mtn-summit-pure-ski-boots-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124809/images/232240/salomon-mtn-summit-pure-ski-boots-2024__74327.1771538418.500.659.jpg?c=2",
-    "price": 419.99,
-    "meta_keywords": "Salomon,  MTN,  Summit,  Pure,  Ski,  Boots,  2024",
-    "detected_rows": [
-      "salomon",
-      "mtn",
-      "summit",
-      "pure",
-      "ski",
-      "boots",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 124810,
     "name": "Tecnica Firebird R 90 SC Junior Ski Boots 2024",
     "url": "/tecnica-firebird-r-90-sc-junior-ski-boots-2024/",
@@ -119045,5 +119005,183 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
+  },
+  {
+    "id": 125296,
+    "name": "Descente Giselle Insulated Womens Pant 2025",
+    "url": "/descente-giselle-insulated-womens-pant-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125296/images/233325/descente-giselle-insulated-womens-black-pant-2025__70806.1775847744.500.659.jpg?c=2",
+    "price": 367.5,
+    "meta_keywords": "Descente,  Giselle,  Insulated,  Womens,  Pant,  2025",
+    "detected_rows": [
+      "descente",
+      "giselle",
+      "insulated",
+      "womens",
+      "pant",
+      "2025"
+    ],
+    "gender": "womens",
+    "sport": "other",
+    "type": "pant",
+    "bucket": "pant"
+  },
+  {
+    "id": 125297,
+    "name": "Descente Fine Tech Womens Pant 2026",
+    "url": "/descente-fine-tech-womens-pant-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125297/images/233326/descente-fine-tech-womens-black-pant-2026__89434.1775847745.500.659.jpg?c=2",
+    "price": 385,
+    "meta_keywords": "Descente,  Fine,  Tech,  Womens,  Pant,  2026",
+    "detected_rows": [
+      "descente",
+      "fine",
+      "tech",
+      "womens",
+      "pant",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "pant",
+    "bucket": "pant"
+  },
+  {
+    "id": 125298,
+    "name": "Descente Swiss Insulated Womens Jacket 2026",
+    "url": "/descente-swiss-insulated-womens-jacket-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125298/images/233327/descente-swiss-insulated-womens-polar-white-jacket-2026__18888.1775847748.500.659.jpg?c=2",
+    "price": 945,
+    "meta_keywords": "Descente,  Swiss,  Insulated,  Womens,  Jacket,  2026",
+    "detected_rows": [
+      "descente",
+      "swiss",
+      "insulated",
+      "womens",
+      "jacket",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125299,
+    "name": "Descente Welded Down Womens Jacket 2026",
+    "url": "/descente-welded-down-womens-jacket-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125299/images/233328/descente-welded-down-womens-actus-green-jacket-2026__83341.1775847749.500.659.jpg?c=2",
+    "price": 805,
+    "meta_keywords": "Descente,  Welded,  Down,  Womens,  Jacket,  2026",
+    "detected_rows": [
+      "descente",
+      "welded",
+      "down",
+      "womens",
+      "jacket",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "other",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125300,
+    "name": "Descente Iriss Womens Jacket 2026",
+    "url": "/descente-iriss-womens-jacket-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125300/images/233329/descente-iriss-womens-super-white-black-jacket-2026__44342.1775847749.500.659.jpg?c=2",
+    "price": 700,
+    "meta_keywords": "Descente,  Iriss,  Womens,  Jacket,  2026",
+    "detected_rows": [
+      "descente",
+      "iriss",
+      "womens",
+      "jacket",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125301,
+    "name": "Descente Smooth Logo Womens Jacket 2026",
+    "url": "/descente-smooth-logo-womens-jacket-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125301/images/233332/descente-smooth-logo-womens-black-jacket-2026__02797.1775847751.500.659.jpg?c=2",
+    "price": 665,
+    "meta_keywords": "Descente,  Smooth,  Logo,  Womens,  Jacket,  2026",
+    "detected_rows": [
+      "descente",
+      "smooth",
+      "logo",
+      "womens",
+      "jacket",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125302,
+    "name": "Descente Glitter Line Womens Jacket 2026",
+    "url": "/descente-glitter-line-womens-jacket-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125302/images/233333/descente-glitter-line-womens-dark-night-jacket-2026__96878.1775847753.500.659.jpg?c=2",
+    "price": 735,
+    "meta_keywords": "Descente,  Glitter,  Line,  Womens,  Jacket,  2026",
+    "detected_rows": [
+      "descente",
+      "glitter",
+      "line",
+      "womens",
+      "jacket",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125303,
+    "name": "Descente Smooth Womens Pant 2026",
+    "url": "/descente-smooth-womens-pant-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125303/images/233337/descente-smooth-womens-polar-white-pant-2026__81256.1775847761.500.659.jpg?c=2",
+    "price": 472.5,
+    "meta_keywords": "Descente,  Smooth,  Womens,  Pant,  2026",
+    "detected_rows": [
+      "descente",
+      "smooth",
+      "womens",
+      "pant",
+      "2026"
+    ],
+    "gender": "womens",
+    "sport": "ski",
+    "type": "jacket",
+    "bucket": "jacket"
+  },
+  {
+    "id": 125304,
+    "name": "Descente Roscoe Insulated Mens Pant 2025",
+    "url": "/descente-roscoe-insulated-mens-pant-2025/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125304/images/233341/descente-roscoe-insulated-mens-black-pant-long-2026__65235.1775847770.500.659.jpg?c=2",
+    "price": 402.5,
+    "meta_keywords": "Descente,  Roscoe,  Insulated,  Mens,  Pant,  2025",
+    "detected_rows": [
+      "descente",
+      "roscoe",
+      "insulated",
+      "mens",
+      "pant",
+      "2025"
+    ],
+    "gender": "mens",
+    "sport": "ski",
+    "type": "pant",
+    "bucket": "pant"
   }
 ]
