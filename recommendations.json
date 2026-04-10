@@ -41260,27 +41260,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 113672,
-    "name": "Salomon Strive 14 MN Ski Bindings 2026",
-    "url": "/salomon-strive-14-mn-ski-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113672/images/210063/2026-salomon-strive-14-mn-bindings-dune__91391.1774974288.500.659.jpg?c=2",
-    "price": 209.99,
-    "meta_keywords": "Salomon,  Strive,  14,  MN,  Ski,  Bindings,  2026",
-    "detected_rows": [
-      "salomon",
-      "strive",
-      "14",
-      "mn",
-      "ski",
-      "bindings",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 113673,
     "name": "Salomon S/LAB Shift2 10 Ski Bindings 2026",
     "url": "/salomon-s-lab-shift2-10-ski-bindings-2026/",
@@ -118405,27 +118384,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 125258,
-    "name": "Atomic Strive 12 GW Ski Bindings 2026",
-    "url": "/atomic-strive-12-gw-ski-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125258/images/233230/2025-atomic-strive-12-gw-ski-bindings-black__09880.1775500279.500.659.jpg?c=2",
-    "price": 160.99,
-    "meta_keywords": "Atomic,  Strive,  12,  GW,  Ski,  Bindings,  2026",
-    "detected_rows": [
-      "atomic",
-      "strive",
-      "12",
-      "gw",
-      "ski",
-      "bindings",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 125259,
