@@ -39248,31 +39248,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 113519,
-    "name": "Blizzard Phoenix 7.7 W Womens Skis w/ TLT10 GW Bindings 2026",
-    "url": "/blizzard-phoenix-7-7-w-womens-skis-w-tlt10-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113519/images/209884/2025-blizzard-phoenix-7.7-w-ladies-skis-w-tlt10-gw-bindings__82737.1768719197.500.659.jpg?c=2",
-    "price": 559.99,
-    "meta_keywords": "Blizzard,  Phoenix,  7.7,  W,  Womens,  Skis,  w/,  TLT10,  GW,  Bindings,  2026",
-    "detected_rows": [
-      "blizzard",
-      "phoenix",
-      "7.7",
-      "w",
-      "womens",
-      "skis",
-      "w/",
-      "tlt10",
-      "gw",
-      "bindings",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 113520,
     "name": "Blizzard Phoenix 7.2 W Womens Skis w/ TLT10 GW Bindings 2026",
     "url": "/blizzard-phoenix-7-2-w-womens-skis-w-tlt10-gw-bindings-2026/",
@@ -118254,27 +118229,6 @@
     "sport": "other",
     "type": "helmet",
     "bucket": "helmet"
-  },
-  {
-    "id": 125260,
-    "name": "Look PIVOT 14 GW Ski Bindings 2025",
-    "url": "/look-pivot-14-gw-ski-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125260/images/233234/2023-look-pivot14gw-forza3-bindings__45786.1775500282.500.659.jpg?c=2",
-    "price": 233.99,
-    "meta_keywords": "Look,  PIVOT,  14,  GW,  Ski,  Bindings,  2025",
-    "detected_rows": [
-      "look",
-      "pivot",
-      "14",
-      "gw",
-      "ski",
-      "bindings",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 125261,
