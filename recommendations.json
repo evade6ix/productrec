@@ -52568,25 +52568,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 115491,
-    "name": "Salomon Cabin Container 70L 2026",
-    "url": "/salomon-cabin-container-70l-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115491/images/212976/2026-salomon-cabin-container-70l-travel-bag__66653.1755100339.500.659.jpg?c=2",
-    "price": 174.99,
-    "meta_keywords": "Salomon,  Cabin,  Container,  70L,  2026",
-    "detected_rows": [
-      "salomon",
-      "cabin",
-      "container",
-      "70l",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
     "id": 115492,
     "name": "Salomon Container 100L 2026",
     "url": "/salomon-container-100l-2026/",
@@ -60438,29 +60419,6 @@
       "omen",
       "jr",
       "skis",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 116312,
-    "name": "K2 Mindbender JR Skis w/ 7.0 FDT Bindings 2026",
-    "url": "/k2-mindbender-jr-skis-w-7-0-fdt-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116312/images/214523/2026-k2-mindbender-jr-skis-w-binding__64879.1768950827.500.659.jpg?c=2",
-    "price": 328.99,
-    "meta_keywords": "K2,  Mindbender,  JR,  Skis,  w/,  7.0,  FDT,  Bindings,  2026",
-    "detected_rows": [
-      "k2",
-      "mindbender",
-      "jr",
-      "skis",
-      "w/",
-      "7.0",
-      "fdt",
-      "bindings",
       "2026"
     ],
     "gender": "kids",
@@ -78879,27 +78837,6 @@
     "sport": "snowboard",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 117964,
-    "name": "Dakine Poacher LT Vest X NST 2026",
-    "url": "/dakine-poacher-lt-vest-x-nst-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117964/images/217819/2026-dakine-poacher-lt-vest-x-nst-black__30931.1758061045.500.659.jpg?c=2",
-    "price": 107.99,
-    "meta_keywords": "Dakine,  Poacher,  LT,  Vest,  X,  NST,  2026",
-    "detected_rows": [
-      "dakine",
-      "poacher",
-      "lt",
-      "vest",
-      "x",
-      "nst",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
   },
   {
     "id": 117966,
@@ -104151,26 +104088,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 122272,
-    "name": "686 Hawkeye Mens Trigger Mitt 2026",
-    "url": "/686-hawkeye-mens-trigger-mitt-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/122272/images/227307/2026-686-hawkeye-mens-trigger-mitt-black-camo__85275.1775167836.500.659.jpg?c=2",
-    "price": 62.97,
-    "meta_keywords": "686,  Hawkeye,  Mens,  Trigger,  Mitt,  2026",
-    "detected_rows": [
-      "686",
-      "hawkeye",
-      "mens",
-      "trigger",
-      "mitt",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 122274,
     "name": "686 x Huf Fleece Mens Crewneck 2026",
     "url": "/686-x-huf-fleece-mens-crewneck-2026/",
@@ -108755,27 +108672,6 @@
     "sport": "other",
     "type": "other",
     "bucket": "other"
-  },
-  {
-    "id": 124550,
-    "name": "Ride Deep Fake B GRADE Snowboard 2025",
-    "url": "/ride-deep-fake-b-grade-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124550/images/231821/deep-fake-b-grade__04320.1768950779.500.659.jpg?c=2",
-    "price": 399.99,
-    "meta_keywords": "Ride,  Deep,  Fake,  B,  GRADE,  Snowboard,  2025",
-    "detected_rows": [
-      "ride",
-      "deep",
-      "fake",
-      "b",
-      "grade",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
   },
   {
     "id": 124552,
