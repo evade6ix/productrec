@@ -37268,25 +37268,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 113002,
-    "name": "Smith Rascal JR Goggle 2026",
-    "url": "/smith-rascal-jr-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113002/images/210832/2025-smith-rascal-2025-black-goggle-w-clear-lens__60672.1774996206.500.659.jpg?c=2",
-    "price": 26.99,
-    "meta_keywords": "Smith,  Rascal,  JR,  Goggle,  2026",
-    "detected_rows": [
-      "smith",
-      "rascal",
-      "jr",
-      "goggle",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 113009,
     "name": "Tecnica Mach1 HV 95 GW Womens Ski Boots 2026",
     "url": "/tecnica-mach1-hv-95-w-gw-womens-ski-boots-2026/",
@@ -62535,26 +62516,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 116616,
-    "name": "Blizzard Sheeva 10 Womens Skis 2026",
-    "url": "/blizzard-sheeva-10-womens-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116616/images/227259/2026-head-attack-lyt-11-gw-pink-ski-bindings__83814.1767389007.500.659.jpg?c=2",
-    "price": 679.99,
-    "meta_keywords": "Blizzard,  Sheeva,  10,  Womens,  Skis,  2026",
-    "detected_rows": [
-      "blizzard",
-      "sheeva",
-      "10",
-      "womens",
-      "skis",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 116618,
@@ -114148,29 +114109,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 124981,
-    "name": "Oakley Line Miner Pro L Asia Fit Goggle 2026",
-    "url": "/oakley-line-miner-pro-l-asia-fit-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124981/images/232698/2025-oakley-line-miner-pro-l-asia-fit-goggle-matte-black-w-prizm-sapphire-iridium-prizm-iced-iridium__61454.1774034191.500.659.jpg?c=2",
-    "price": 277.6,
-    "meta_keywords": "Oakley,  Line,  Miner,  Pro,  L,  Asia,  Fit,  Goggle,  2026",
-    "detected_rows": [
-      "oakley",
-      "line",
-      "miner",
-      "pro",
-      "l",
-      "asia",
-      "fit",
-      "goggle",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 124984,
     "name": "Blizzard Anomaly 88 Skis 2026",
     "url": "/blizzard-anomaly-88-skis-2026/",
@@ -115657,27 +115595,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 125103,
-    "name": "Head Worldcup Rebels e-Race Pro Skis 2026",
-    "url": "/head-worldcup-rebels-e-race-pro-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125103/images/232926/2026-head-wc-rebels-e-race-pro-skis__44604.1773685976.500.659.jpg?c=2",
-    "price": 799.99,
-    "meta_keywords": "Head,  Worldcup,  Rebels,  e-Race,  Pro,  Skis,  2026",
-    "detected_rows": [
-      "head",
-      "worldcup",
-      "rebels",
-      "e-race",
-      "pro",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 125104,
@@ -118581,26 +118498,6 @@
     "sport": "other",
     "type": "helmet",
     "bucket": "helmet"
-  },
-  {
-    "id": 125284,
-    "name": "Armada Declivity X 102 Skis 2026",
-    "url": "/armada-declivity-x-102-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125284/images/233285/2026-armada-lifestyle-declivity-x-102__23645.1775732411.500.659.jpg?c=2",
-    "price": 650.99,
-    "meta_keywords": "Armada,  Declivity,  X,  102,  Skis,  2026",
-    "detected_rows": [
-      "armada",
-      "declivity",
-      "x",
-      "102",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 125285,
