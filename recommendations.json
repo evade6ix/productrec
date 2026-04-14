@@ -52193,24 +52193,6 @@
     "bucket": "bag"
   },
   {
-    "id": 115368,
-    "name": "Atomic Racing Cap 2026",
-    "url": "/atomic-racing-cap-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115368/images/212774/2026-atomic-racing-cap-black__55554.1754590347.500.659.jpg?c=2",
-    "price": 39.99,
-    "meta_keywords": "Atomic,  Racing,  Cap,  2026",
-    "detected_rows": [
-      "atomic",
-      "racing",
-      "cap",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "other",
-    "bucket": "other"
-  },
-  {
     "id": 115371,
     "name": "Atomic Live Shield AMID Lite Vest W 2026",
     "url": "/atomic-live-shield-amid-lite-vest-w-2026/",
@@ -96717,26 +96699,6 @@
     "bucket": "bag"
   },
   {
-    "id": 119731,
-    "name": "Cotopaxi Fleece 5-Panel Adult Hat 2026",
-    "url": "/cotopaxi-fleece-5-panel-adult-hat-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119731/images/221975/cotopaxi-fleece-5-panel-hat-2026-mulberry-deepsea-model__55415.1764270876.500.659.jpg?c=2",
-    "price": 40,
-    "meta_keywords": "Cotopaxi,  Fleece,  5-Panel,  Adult,  Hat,  2026",
-    "detected_rows": [
-      "cotopaxi",
-      "fleece",
-      "5-panel",
-      "adult",
-      "hat",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "ski",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
     "id": 119734,
     "name": "O'Neill FWC Cruz Hybrid Puffer Womens Jacket 2026",
     "url": "/o-neill-fwc-cruz-hybrid-puffer-womens-jacket-2026/",
@@ -115503,26 +115465,6 @@
     "sport": "ski",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 125124,
-    "name": "Spyder Coaches Mens Bib Pant 2025",
-    "url": "/spyder-coaches-mens-bib-pant-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125124/images/232969/2025-spyder-coaches-mens-black-bib-pant__01364.1774048612.500.659.jpg?c=2",
-    "price": 390,
-    "meta_keywords": "Spyder,  Coaches,  Mens,  Bib,  Pant,  2025",
-    "detected_rows": [
-      "spyder",
-      "coaches",
-      "mens",
-      "bib",
-      "pant",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "pant",
-    "bucket": "pant"
   },
   {
     "id": 125125,
