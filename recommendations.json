@@ -117741,25 +117741,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 125259,
-    "name": "Smith Scout MIPS Helmet 2026",
-    "url": "/smith-scout-mips-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125259/images/233232/2026-smith-scout-mips-matte-white-helmet__71005.1775500281.500.659.jpg?c=2",
-    "price": 86.99,
-    "meta_keywords": "Smith,  Scout,  MIPS,  Helmet,  2026",
-    "detected_rows": [
-      "smith",
-      "scout",
-      "mips",
-      "helmet",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
-  },
-  {
     "id": 125261,
     "name": "Atomic Warden 13 MNC Ski Bindings 2024",
     "url": "/atomic-warden-13-mnc-ski-bindings-2024/",
