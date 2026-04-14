@@ -49289,28 +49289,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 114944,
-    "name": "Atomic Bent Chetler Mini 133-143 JR Skis 2026",
-    "url": "/atomic-bent-chetler-mini-133-143-jr-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114944/images/227208/2022-marker-free-7-95mm-black-junior-binding-1__43742.1767374389.500.659.jpg?c=2",
-    "price": 258.99,
-    "meta_keywords": "Atomic,  Bent,  Chetler,  Mini,  133-143,  JR,  Skis,  2026",
-    "detected_rows": [
-      "atomic",
-      "bent",
-      "chetler",
-      "mini",
-      "133-143",
-      "jr",
-      "skis",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 114945,
     "name": "Atomic Bent JR 110-130 JR Skis 2026",
     "url": "/atomic-bent-jr-110-130-jr-skis-2026/",
@@ -51692,31 +51670,6 @@
       "13",
       "gw",
       "bindings",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 115313,
-    "name": "Head Supershape e-Original Skis w/ Protector PR 13 GW Binding 2026",
-    "url": "/head-supershape-e-original-skis-w-protector-pr-13-gw-binding-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115313/images/212695/2026-head-supershape-e-original-skis-w-protector-pr-13-gw-bindings__62409.1754503663.500.659.jpg?c=2",
-    "price": 1119.99,
-    "meta_keywords": "Head,  Supershape,  e-Original,  Skis,  w/,  Protector,  PR,  13,  GW,  Binding,  2026",
-    "detected_rows": [
-      "head",
-      "supershape",
-      "e-original",
-      "skis",
-      "w/",
-      "protector",
-      "pr",
-      "13",
-      "gw",
-      "binding",
       "2026"
     ],
     "gender": "mens",
@@ -72023,27 +71976,6 @@
     ],
     "gender": "mens",
     "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 117289,
-    "name": "Dale of Norway Geilo Mens Sweater 2026",
-    "url": "/dale-of-norway-geilo-mens-sweater-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117289/images/216490/dale-of-norway-geilo-mens-sweater-black-off-white-2026__45721.1762370769.500.659.jpg?c=2",
-    "price": 234.5,
-    "meta_keywords": "Dale,  of,  Norway,  Geilo,  Mens,  Sweater,  2026",
-    "detected_rows": [
-      "dale",
-      "of",
-      "norway",
-      "geilo",
-      "mens",
-      "sweater",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
     "type": "midlayer",
     "bucket": "midlayer"
   },
