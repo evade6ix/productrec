@@ -38662,27 +38662,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 113483,
-    "name": "Dynastar M-PRO 100 TI OPEN Skis 2026",
-    "url": "/dynastar-m-pro-100-ti-open-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113483/images/231809/2026-look-pivot-2.0-15-gw-bindings-orange__60934.1776180907.500.659.jpg?c=2",
-    "price": 559.99,
-    "meta_keywords": "Dynastar,  M-PRO,  100,  TI,  OPEN,  Skis,  2026",
-    "detected_rows": [
-      "dynastar",
-      "m-pro",
-      "100",
-      "ti",
-      "open",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 113484,
     "name": "Dynastar M-MENACE 90 JR OPEN Skis 2026",
     "url": "/dynastar-m-menace-90-jr-open-skis-2026/",
@@ -40116,24 +40095,6 @@
     "sport": "ski",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 113596,
-    "name": "K2 244 Skis 2026",
-    "url": "/k2-244-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/113596/images/222641/2026-look-pivot-2.0-13-gw-bindings-black-metal__74199.1765220153.500.659.jpg?c=2",
-    "price": 299.99,
-    "meta_keywords": "K2,  244,  Skis,  2026",
-    "detected_rows": [
-      "k2",
-      "244",
-      "skis",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
   },
   {
     "id": 113597,
@@ -51582,7 +51543,7 @@
     "id": 115310,
     "name": "Head Supershape e-Titan Skis w/ Protector PR 13 GW Bindings 2026",
     "url": "/head-supershape-e-titan-skis-w-protector-pr-13-gw-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115310/images/212686/2026-head-supershape-e-titan-skis-w-protector-pr-13-gw-bindings__87774.1754503659.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/115310/images/212686/2026-head-supershape-e-titan-skis-w-protector-pr-13-gw-bindings__77445.1776209936.500.659.jpg?c=2",
     "price": 1119.99,
     "meta_keywords": "Head,  Supershape,  e-Titan,  Skis,  w/,  Protector,  PR,  13,  GW,  Bindings,  2026",
     "detected_rows": [
@@ -75463,25 +75424,6 @@
       "2026"
     ],
     "gender": "mens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
-  },
-  {
-    "id": 117555,
-    "name": "Armada Birdsey Adult Beanie 2026",
-    "url": "/armada-birdsey-adult-beanie-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117555/images/217171/armada-birdsey-adult-acid-house-beanie-2026__07902.1757366128.500.659.jpg?c=2",
-    "price": 31.96,
-    "meta_keywords": "Armada,  Birdsey,  Adult,  Beanie,  2026",
-    "detected_rows": [
-      "armada",
-      "birdsey",
-      "adult",
-      "beanie",
-      "2026"
-    ],
-    "gender": "unisex",
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
@@ -114154,29 +114096,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 125014,
-    "name": "Atomic Shift2 16 MN Bent Chetler Ski Bindings 2027",
-    "url": "/atomic-shift2-16-mn-bent-chetler-ski-bindings-2027/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125014/images/232753/2027-atomic-shift2-16-mn-bent-chetler-ski-bindings__70957.1773164133.500.659.jpg?c=2",
-    "price": 849.99,
-    "meta_keywords": "Atomic,  Shift2,  16,  MN,  Bent,  Chetler,  Ski,  Bindings,  2027",
-    "detected_rows": [
-      "atomic",
-      "shift2",
-      "16",
-      "mn",
-      "bent",
-      "chetler",
-      "ski",
-      "bindings",
-      "2027"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 125015,
     "name": "Atomic Strive 14 MN Bent Chetler Ski Bindings 2027",
     "url": "/atomic-strive-14-mn-bent-chetler-ski-bindings-2027/",
@@ -117614,28 +117533,6 @@
     "bucket": "glove"
   },
   {
-    "id": 125257,
-    "name": "Smith Nexus MIPS Round Contour Fit Helmet 2026",
-    "url": "/smith-nexus-mips-round-contour-fit-helmet-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125257/images/233229/2024-smith-nexus-mips-round-contour-fit-adult-helmet-matte-black__03741.1775500279.500.659.jpg?c=2",
-    "price": 224.99,
-    "meta_keywords": "Smith,  Nexus,  MIPS,  Round,  Contour,  Fit,  Helmet,  2026",
-    "detected_rows": [
-      "smith",
-      "nexus",
-      "mips",
-      "round",
-      "contour",
-      "fit",
-      "helmet",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 125261,
     "name": "Atomic Warden 13 MNC Ski Bindings 2024",
     "url": "/atomic-warden-13-mnc-ski-bindings-2024/",
@@ -119124,6 +119021,65 @@
       "atomic",
       "bent",
       "100",
+      "skis",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125337,
+    "name": "Armada N Strive 14 MN Ski Bindings 2026",
+    "url": "/armada-n-strive-14-mn-ski-bindings-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125337/images/233392/2025-armada-n-strive-14-b90-black-mn-binding__41307.1776209893.500.659.jpg?c=2",
+    "price": 299.99,
+    "meta_keywords": "Armada,  N,  Strive,  14,  MN,  Ski,  Bindings,  2026",
+    "detected_rows": [
+      "armada",
+      "n",
+      "strive",
+      "14",
+      "mn",
+      "ski",
+      "bindings",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125338,
+    "name": "Salomon Abstract Snowboard 2026",
+    "url": "/salomon-abstract-snowboard-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125338/images/233394/salomon-abstract-snowboard-2026-lifestyle__39404.1776209894.500.659.jpg?c=2",
+    "price": 405.99,
+    "meta_keywords": "Salomon,  Abstract,  Snowboard,  2026",
+    "detected_rows": [
+      "salomon",
+      "abstract",
+      "snowboard",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "snowboard",
+    "type": "binding",
+    "bucket": "snowboard_binding"
+  },
+  {
+    "id": 125339,
+    "name": "Armada ARV 106 Skis 2026",
+    "url": "/armada-arv-106-skis-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125339/images/233396/2026-armada-lifestyle-arv-106__61248.1776209895.500.659.jpg?c=2",
+    "price": 594.99,
+    "meta_keywords": "Armada,  ARV,  106,  Skis,  2026",
+    "detected_rows": [
+      "armada",
+      "arv",
+      "106",
       "skis",
       "2026"
     ],
