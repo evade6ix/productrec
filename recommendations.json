@@ -117469,27 +117469,6 @@
     "bucket": "glove"
   },
   {
-    "id": 125261,
-    "name": "Atomic Warden 13 MNC Ski Bindings 2024",
-    "url": "/atomic-warden-13-mnc-ski-bindings-2024/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125261/images/233235/2023-atomic-warden-13-mnc-black-gold-ski-bindings__96455.1775500283.500.659.jpg?c=2",
-    "price": 197.99,
-    "meta_keywords": "Atomic,  Warden,  13,  MNC,  Ski,  Bindings,  2024",
-    "detected_rows": [
-      "atomic",
-      "warden",
-      "13",
-      "mnc",
-      "ski",
-      "bindings",
-      "2024"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 125262,
     "name": "Bula Therma-Comfort Adult Goggle Cover 2026",
     "url": "/bula-therma-comfort-adult-goggle-cover-2026/",
@@ -119000,5 +118979,24 @@
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
+  },
+  {
+    "id": 125340,
+    "name": "Anon MFI Hooded Balaclava 2024",
+    "url": "/anon-mfi-hooded-balaclava-2024/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125340/images/233398/2024-anon-mfi-hooded-balaclava-face-mask-black__10333.1776282525.500.659.jpg?c=2",
+    "price": 73.49,
+    "meta_keywords": "Anon,  MFI,  Hooded,  Balaclava,  2024",
+    "detected_rows": [
+      "anon",
+      "mfi",
+      "hooded",
+      "balaclava",
+      "2024"
+    ],
+    "gender": "kids",
+    "sport": "other",
+    "type": "midlayer",
+    "bucket": "midlayer"
   }
 ]
