@@ -21303,25 +21303,6 @@
     "bucket": "jacket"
   },
   {
-    "id": 103627,
-    "name": "Howl Fairbanks Adult Mitt 2025",
-    "url": "/howl-fairbanks-adult-mitt-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/103627/images/183348/howl-fairbanks-adult-mushroom-mitt-2025-ac__19860.1759789070.500.659.jpg?c=2",
-    "price": 85,
-    "meta_keywords": "Howl,  Fairbanks,  Adult,  Mitt,  2025",
-    "detected_rows": [
-      "howl",
-      "fairbanks",
-      "adult",
-      "mitt",
-      "2025"
-    ],
-    "gender": "unisex",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 103630,
     "name": "Howl Reversible Coaches Adult Jacket 2025",
     "url": "/howl-reversible-coaches-adult-jacket-2025/",
@@ -30596,30 +30577,6 @@
     "sport": "other",
     "type": "jacket",
     "bucket": "jacket"
-  },
-  {
-    "id": 106520,
-    "name": "The North Face Winter Warm Pro Mens 1/4 Zip 2025",
-    "url": "/the-north-face-winter-warm-pro-mens-1-4-zip-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/106520/images/193363/the-north-face-winter-warm-pro-mens-tnf-black-1-4-zip-2025__39872.1734455594.500.659.jpg?c=2",
-    "price": 119.99,
-    "meta_keywords": "The,  North,  Face,  Winter,  Warm,  Pro,  Mens,  1/4,  Zip,  2025",
-    "detected_rows": [
-      "the",
-      "north",
-      "face",
-      "winter",
-      "warm",
-      "pro",
-      "mens",
-      "1/4",
-      "zip",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "midlayer",
-    "bucket": "midlayer"
   },
   {
     "id": 106530,
@@ -79434,25 +79391,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 118050,
-    "name": "Black Crows Serpo Skis 2026",
-    "url": "/black-crows-serpo-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118050/images/222378/2026-black-crows-lifestyle-serpo__04190.1765814168.500.659.jpg?c=2",
-    "price": 1063.19,
-    "meta_keywords": "Black,  Crows,  Serpo,  Skis,  2026",
-    "detected_rows": [
-      "black",
-      "crows",
-      "serpo",
-      "skis",
-      "2026"
-    ],
-    "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
     "id": 118051,
     "name": "Rossignol Zip Boys Pant 2026",
     "url": "/rossignol-zip-boys-pant-2026/",
@@ -85816,27 +85754,6 @@
     "sport": "ski",
     "type": "base_layer",
     "bucket": "base_layer"
-  },
-  {
-    "id": 118576,
-    "name": "Volcom Little Flurry Junior One Piece 2026",
-    "url": "/volcom-little-flurry-junior-one-piece-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118576/images/218939/volcom-little-flurry-one-piece-2026-henna__12770.1759266958.500.659.jpg?c=2",
-    "price": 133,
-    "meta_keywords": "Volcom,  Little,  Flurry,  Junior,  One,  Piece,  2026",
-    "detected_rows": [
-      "volcom",
-      "little",
-      "flurry",
-      "junior",
-      "one",
-      "piece",
-      "2026"
-    ],
-    "gender": "kids",
-    "sport": "other",
-    "type": "helmet",
-    "bucket": "helmet"
   },
   {
     "id": 118578,
@@ -117690,28 +117607,6 @@
     "bucket": "helmet"
   },
   {
-    "id": 125285,
-    "name": "Burton AK Cyclic GORE-TEX Mens Bib Pant 2025",
-    "url": "/burton-ak-cyclic-gore-tex-mens-bib-pant-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125285/images/233288/2025-burton-ak-cyclic-gore-tex-mens-bib-pant-jake-blue__18546.1775746443.500.659.jpg?c=2",
-    "price": 383.99,
-    "meta_keywords": "Burton,  AK,  Cyclic,  GORE-TEX,  Mens,  Bib,  Pant,  2025",
-    "detected_rows": [
-      "burton",
-      "ak",
-      "cyclic",
-      "gore-tex",
-      "mens",
-      "bib",
-      "pant",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "other",
-    "type": "jacket",
-    "bucket": "jacket"
-  },
-  {
     "id": 125286,
     "name": "Burton Ballast GORE-TEX Mens Pant Short 2025",
     "url": "/burton-ballast-gore-tex-mens-pant-short-2025/",
@@ -118892,5 +118787,43 @@
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
+  },
+  {
+    "id": 125341,
+    "name": "Burton Custom X Snowboard 2026",
+    "url": "/burton-custom-x-snowboard-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125341/images/233402/2026-burton-custom-x-lifestyle-image__16287.1776369612.500.659.jpg?c=2",
+    "price": 769.99,
+    "meta_keywords": "Burton,  Custom,  X,  Snowboard,  2026",
+    "detected_rows": [
+      "burton",
+      "custom",
+      "x",
+      "snowboard",
+      "2026"
+    ],
+    "gender": "mens",
+    "sport": "snowboard",
+    "type": "binding",
+    "bucket": "snowboard_binding"
+  },
+  {
+    "id": 125342,
+    "name": "Armada Kimbo 95 Skis 2026",
+    "url": "/armada-kimbo-95-skis-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125342/images/233404/2026-armada-lifestyle-kimbo-95__70391.1776369614.500.659.jpg?c=2",
+    "price": 594.99,
+    "meta_keywords": "Armada,  Kimbo,  95,  Skis,  2026",
+    "detected_rows": [
+      "armada",
+      "kimbo",
+      "95",
+      "skis",
+      "2026"
+    ],
+    "gender": "unisex",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
   }
 ]
