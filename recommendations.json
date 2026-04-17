@@ -111097,26 +111097,6 @@
     "bucket": "other"
   },
   {
-    "id": 124798,
-    "name": "Black Crows Dorsa 27 Backpack 2026",
-    "url": "/black-crows-dorsa-27-backpack-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124798/images/232213/2026-black-crows-dorsa-27-backpack-2__75927.1771451406.500.659.jpg?c=2",
-    "price": 263.19,
-    "meta_keywords": "Black,  Crows,  Dorsa,  27,  Backpack,  2026",
-    "detected_rows": [
-      "black",
-      "crows",
-      "dorsa",
-      "27",
-      "backpack",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "ski",
-    "type": "bag",
-    "bucket": "bag"
-  },
-  {
     "id": 124802,
     "name": "Volkl Race 4pair Ski Bag 230CM 2025",
     "url": "/volkl-race-4pair-ski-bag-230cm-2025/",
@@ -118673,7 +118653,7 @@
     "id": 125343,
     "name": "Atomic Maverick 105 CTI Arc'teryx Edition Skis 2026",
     "url": "/atomic-maverick-105-cti-arc-teryx-edition-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125343/images/233406/atomic-maverick-105-cti-arcteryx-edition-skis__54460.1776442152.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125343/images/233410/atomic-maverick-105-cti-arcteryx-edition-skis-lifestyle__25971.1776456758.500.659.jpg?c=2",
     "price": 665,
     "meta_keywords": "Atomic,  Maverick,  105,  CTI,  Arc'teryx,  Edition,  Skis,  2026",
     "detected_rows": [
@@ -118715,7 +118695,7 @@
     "id": 125345,
     "name": "Atomic Maven 103 CTI Arc'teryx Edition Womens Skis 2026",
     "url": "/atomic-maven-103-cti-arc-teryx-edition-womens-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125345/images/233408/atomic-maven-103-cti-arcteryx-edition-womens-skis-2026__54207.1776442153.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125345/images/233409/atomic-maven-103-cti-arcteryx-edition-womens-skis-2026-lifestyle__38043.1776456757.500.659.jpg?c=2",
     "price": 665,
     "meta_keywords": "Atomic,  Maven,  103,  CTI,  Arc'teryx,  Edition,  Womens,  Skis,  2026",
     "detected_rows": [
@@ -118730,6 +118710,29 @@
       "2026"
     ],
     "gender": "womens",
+    "sport": "ski",
+    "type": "binding",
+    "bucket": "ski_binding"
+  },
+  {
+    "id": 125346,
+    "name": "Atomic Redster S9 FIS 145-152 J-RP3 JR Skis 2026",
+    "url": "/atomic-redster-s9-fis-145-152-j-rp3-jr-skis-2026/",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125346/images/233412/2025-atomic-icon-10-b75-ski-bindings-red-black__78209.1776456811.500.659.jpg?c=2",
+    "price": 419.99,
+    "meta_keywords": "Atomic,  Redster,  S9,  FIS,  145-152,  J-RP3,  JR,  Skis,  2026",
+    "detected_rows": [
+      "atomic",
+      "redster",
+      "s9",
+      "fis",
+      "145-152",
+      "j-rp3",
+      "jr",
+      "skis",
+      "2026"
+    ],
+    "gender": "kids",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
