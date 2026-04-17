@@ -28572,24 +28572,6 @@
     "bucket": "midlayer"
   },
   {
-    "id": 105796,
-    "name": "K2 Instrument Snowboard 2025",
-    "url": "/k2-instrument-snowboard-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/105796/images/193034/2025-k2-instrument-snowboard__64658.1734454296.500.659.jpg?c=2",
-    "price": 371.99,
-    "meta_keywords": "K2,  Instrument,  Snowboard,  2025",
-    "detected_rows": [
-      "k2",
-      "instrument",
-      "snowboard",
-      "2025"
-    ],
-    "gender": "mens",
-    "sport": "snowboard",
-    "type": "snowboard",
-    "bucket": "snowboard"
-  },
-  {
     "id": 105814,
     "name": "K2 Path Womens Snowboard Bindings 2025",
     "url": "/k2-path-womens-snowboard-bindings-2025/",
