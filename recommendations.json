@@ -118733,24 +118733,6 @@
     "bucket": "ski_binding"
   },
   {
-    "id": 125338,
-    "name": "Salomon Abstract Snowboard 2026",
-    "url": "/salomon-abstract-snowboard-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/125338/images/233394/salomon-abstract-snowboard-2026-lifestyle__39404.1776209894.500.659.jpg?c=2",
-    "price": 405.99,
-    "meta_keywords": "Salomon,  Abstract,  Snowboard,  2026",
-    "detected_rows": [
-      "salomon",
-      "abstract",
-      "snowboard",
-      "2026"
-    ],
-    "gender": "unisex",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 125339,
     "name": "Armada ARV 106 Skis 2026",
     "url": "/armada-arv-106-skis-2026/",
