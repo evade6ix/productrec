@@ -59401,26 +59401,6 @@
     "bucket": "snowboard_binding"
   },
   {
-    "id": 116224,
-    "name": "Union Juliet Womens Snowboard Bindings 2026",
-    "url": "/union-juliet-womens-snowboard-bindings-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116224/images/214381/2026-union-juliet-sand-pink-womens-snowboard-bindings__03184.1774982210.500.659.jpg?c=2",
-    "price": 239.99,
-    "meta_keywords": "Union,  Juliet,  Womens,  Snowboard,  Bindings,  2026",
-    "detected_rows": [
-      "union",
-      "juliet",
-      "womens",
-      "snowboard",
-      "bindings",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
-  },
-  {
     "id": 116225,
     "name": "Union Trilogy Classic Womens Snowboard Bindings 2026",
     "url": "/union-trilogy-classic-womens-snowboard-bindings-2026/",
@@ -97983,32 +97963,6 @@
     "sport": "other",
     "type": "midlayer",
     "bucket": "midlayer"
-  },
-  {
-    "id": 119843,
-    "name": "CAPiTA Paradise Womens Snowboard w/ Union Juliet Womens Snowboard Bindings Package 2026",
-    "url": "/capita-paradise-womens-snowboard-w-union-juliet-womens-snowboard-bindings-package-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/119843/images/222292/2026-union-juliet-sand-pink-womens-snowboard-bindings__17495.1774981978.500.659.jpg?c=2",
-    "price": 783.98,
-    "meta_keywords": "CAPiTA,  Paradise,  Womens,  Snowboard,  w/,  Union,  Juliet,  Womens,  Snowboard,  Bindings,  Package,  2026",
-    "detected_rows": [
-      "capita",
-      "paradise",
-      "womens",
-      "snowboard",
-      "w/",
-      "union",
-      "juliet",
-      "womens",
-      "snowboard",
-      "bindings",
-      "package",
-      "2026"
-    ],
-    "gender": "womens",
-    "sport": "snowboard",
-    "type": "binding",
-    "bucket": "snowboard_binding"
   },
   {
     "id": 119844,
