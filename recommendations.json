@@ -42506,7 +42506,7 @@
     "id": 114247,
     "name": "Burton Swath BOA Mens Snowboard Boots 2026",
     "url": "/burton-swath-boa-snowboard-boots-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114247/images/213127/2026-burton-swath-boa-talc-green-snowboard-boots__72904.1766181131.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/114247/images/213127/2026-burton-swath-boa-nightfall-snowboard-boots__84903.1776486245.500.659.jpg?c=2",
     "price": 367.49,
     "meta_keywords": "Burton,  Swath,  BOA,  Mens,  Snowboard,  Boots,  2026",
     "detected_rows": [
@@ -61917,7 +61917,7 @@
     "id": 116584,
     "name": "Sweet Durden RIG Reflect Goggle 2026",
     "url": "/sweet-durden-rig-reflect-goggle-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116584/images/214964/2025-sweet-durden-rig-reflect-rig-bixbite-matte-black-black-trace__76529.1757002889.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/116584/images/214964/sweet-2026-durden-rig-reflect-matte-black-w-rig-quartz-goggles__16461.1776485939.500.659.jpg?c=2",
     "price": 132.99,
     "meta_keywords": "Sweet,  Durden,  RIG,  Reflect,  Goggle,  2026",
     "detected_rows": [
@@ -78261,7 +78261,7 @@
     "id": 117944,
     "name": "Dakine Modular Mat 2026",
     "url": "/dakine-modular-mat-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117944/images/217798/dakine-modular-mat-clear__01661.1776109852.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/117944/images/217798/dakine-modular-mat-clear__34100.1776486796.500.659.jpg?c=2",
     "price": 15.99,
     "meta_keywords": "Dakine,  Modular,  Mat,  2026",
     "detected_rows": [
@@ -79255,7 +79255,7 @@
     "id": 118043,
     "name": "Black Crows Atris Birdie Womens Skis 2026",
     "url": "/black-crows-atris-birdie-womens-skis-2026/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118043/images/222392/2026-black-crows-lifestyle-atris-birdie__85271.1765814059.500.659.jpg?c=2",
+    "image": "https://cdn11.bigcommerce.com/s-186hk/products/118043/images/222392/2026-black-crows-lifestyle-atris-birdie__36818.1776486793.500.659.jpg?c=2",
     "price": 943.19,
     "meta_keywords": "Black,  Crows,  Atris,  Birdie,  Womens,  Skis,  2026",
     "detected_rows": [
@@ -113330,30 +113330,6 @@
       "2026"
     ],
     "gender": "mens",
-    "sport": "ski",
-    "type": "binding",
-    "bucket": "ski_binding"
-  },
-  {
-    "id": 124985,
-    "name": "Volkl Racetiger SL Skis w/ rMotion3 12 GW Bindings 2025",
-    "url": "/volkl-racetiger-sl-skis-w-rmotion3-12-gw-bindings-2025/",
-    "image": "https://cdn11.bigcommerce.com/s-186hk/products/124985/images/232701/2025-volkl-racetiger-sl%252520rmotion-ski__18960.1773077151.500.659.jpg?c=2",
-    "price": 839.99,
-    "meta_keywords": "Volkl,  Racetiger,  SL,  Skis,  w/,  rMotion3,  12,  GW,  Bindings,  2025",
-    "detected_rows": [
-      "volkl",
-      "racetiger",
-      "sl",
-      "skis",
-      "w/",
-      "rmotion3",
-      "12",
-      "gw",
-      "bindings",
-      "2025"
-    ],
-    "gender": "unisex",
     "sport": "ski",
     "type": "binding",
     "bucket": "ski_binding"
